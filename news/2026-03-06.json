@@ -2532,5 +2532,21 @@
       "https://internal.appharu.com/wp-content/uploads/2025/11/naya-mobile.gif",
       "https://kendrabindu.com/wp-content/uploads/2026/01/Mobile_300X80-1.gif"
     ]
+  },
+  {
+    "url": "https://gorkhapatraonline.com/news/195258",
+    "title": "कालीकोटमा महेन्द्रबहादुर शाही चौथो पटक निर्वाचित",
+    "pub_date": "2026-03-06 23:59:38",
+    "fetched_at": "2026-03-06T18:40:13.998000+00:00",
+    "portal": "Gorkhapatraonline",
+    "profiles_matched": [
+      "Election Monitoring"
+    ],
+    "keywords_matched": [
+      "निर्वाचन"
+    ],
+    "snippet": "[Error fetching: HTTPSConnectionPool(host='gorkhapatraonline.com', port=443): Read timed out. (read timeout=15)]",
+    "content": "[Error fetching: HTTPSConnectionPool(host='gorkhapatraonline.com', port=443): Read timed out. (read timeout=15)]",
+    "images": []
   }
 ]
