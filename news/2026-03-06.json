@@ -2771,5 +2771,22 @@
       "https://www.onlinekhabar.com/wp-content/themes/onlinekhabar-2021/img/cat-icon-sports.png",
       "https://www.onlinekhabar.com/wp-content/themes/onlinekhabar-2021/img/cat-icon-opinion.png"
     ]
+  },
+  {
+    "url": "https://gorkhapatraonline.com/news/195256",
+    "title": "काठमाडौ-१० मा रास्वपाका विष्ट विजयी",
+    "pub_date": "2026-03-06 23:23:40",
+    "fetched_at": "2026-03-06T19:00:45.957798+00:00",
+    "portal": "Gorkhapatraonline",
+    "profiles_matched": [
+      "Election Monitoring"
+    ],
+    "keywords_matched": [
+      "निर्वाचन",
+      "रास्वपा"
+    ],
+    "snippet": "[Error fetching: HTTPSConnectionPool(host='gorkhapatraonline.com', port=443): Read timed out. (read timeout=15)]",
+    "content": "[Error fetching: HTTPSConnectionPool(host='gorkhapatraonline.com', port=443): Read timed out. (read timeout=15)]",
+    "images": []
   }
 ]
