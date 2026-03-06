@@ -4265,5 +4265,22 @@
     ],
     "snippet": "[Error fetching: HTTPSConnectionPool(host='aarthiknews.com', port=443): Read timed out. (read timeout=15)]",
     "content": "[Error fetching: HTTPSConnectionPool(host='aarthiknews.com', port=443): Read timed out. (read timeout=15)]"
+  },
+  {
+    "url": "https://aarthiknews.com//news/117833/in-jhapa-5--balen-shah-s-lead-exceeded-5000/",
+    "title": "झापा–५ मा बालेन शाहको अग्रता ५ हजार नाघ्यो",
+    "pub_date": "2026-03-06 16:17:03",
+    "fetched_at": "2026-03-06T10:45:04.281469+00:00",
+    "portal": "Aarthiknews",
+    "profiles_matched": [
+      "Election Monitoring"
+    ],
+    "keywords_matched": [
+      "निर्वाचन",
+      "रास्वपा",
+      "मतगणना"
+    ],
+    "snippet": "[Error fetching: HTTPSConnectionPool(host='aarthiknews.com', port=443): Read timed out. (read timeout=15)]",
+    "content": "[Error fetching: HTTPSConnectionPool(host='aarthiknews.com', port=443): Read timed out. (read timeout=15)]"
   }
 ]
