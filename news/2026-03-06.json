@@ -2903,5 +2903,22 @@
       "https://www.pardafas.com/wp-content/uploads/2026/03/danbahadur-karki-450x250.jpg",
       "https://www.pardafas.com/wp-content/uploads/2022/06/pardafas-logo.png"
     ]
+  },
+  {
+    "url": "https://pradeskhabar.com/archives/116871",
+    "title": "हार स्वीकार्दै कांग्रेस उपसभापति विश्वप्रकाश शर्मा : ‘नेतृत्वको निर्मम समीक्षा अब अपरिहार्य’",
+    "pub_date": "2026-03-06 22:59:00",
+    "fetched_at": "2026-03-06T19:17:01.820064+00:00",
+    "portal": "Pradeskhabar",
+    "profiles_matched": [
+      "Election Monitoring"
+    ],
+    "keywords_matched": [
+      "निर्वाचन",
+      "कांग्रेस"
+    ],
+    "snippet": "[Error fetching: HTTPSConnectionPool(host='pradeskhabar.com', port=443): Read timed out. (read timeout=15)]",
+    "content": "[Error fetching: HTTPSConnectionPool(host='pradeskhabar.com', port=443): Read timed out. (read timeout=15)]",
+    "images": []
   }
 ]
