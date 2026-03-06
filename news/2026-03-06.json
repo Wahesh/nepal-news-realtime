@@ -2920,5 +2920,32 @@
     "snippet": "[Error fetching: HTTPSConnectionPool(host='pradeskhabar.com', port=443): Read timed out. (read timeout=15)]",
     "content": "[Error fetching: HTTPSConnectionPool(host='pradeskhabar.com', port=443): Read timed out. (read timeout=15)]",
     "images": []
+  },
+  {
+    "url": "https://www.pardafas.com/2026/03/06/162042/",
+    "title": "कालिकोटमा नेकपाका महेन्द्रबहादुर शाही विजयी",
+    "pub_date": "2026-03-06 22:58:14",
+    "fetched_at": "2026-03-06T19:17:09.247575+00:00",
+    "portal": "Pardafas",
+    "profiles_matched": [
+      "Election Monitoring"
+    ],
+    "keywords_matched": [
+      "निर्वाचन"
+    ],
+    "snippet": "कालिकोटमा नेकपाका महेन्द्रबहादुर शाही विजयी\n२२ फागुन २०८२ २२:५८\nकालिकोटबाट प्रतिनिधिसभा सदस्यमा महेन्द्रबहादुर शाही विजयी भएका छन्। उनी नेपाल कम्युनिस्ट पार्टी (नेकपा)का उम्मेदवार हुन् ।\nनिर्वाचन अधिकृतको कार्यालयका अनुसार शाहीले ११ हजार ३३० मत प्राप्त गर्दै विजय हासिल गरेका हुन् । उनका निकटतम प्रतिस्पर्धी नेपाल कम्युनिस्ट पार्टी (एमाले)का उम्मेदवार नागेन्द्र शाहीले १० हजार २२२ मत प्राप्त गरेका छन् ।\nयससँगै महेन्द्रबहादुर शाहीले नागेन्द्र शाहीलाई १ हजार १०८ मतको अन्तरले पराजित गर्दै कालिकोटबाट प",
+    "content": "कालिकोटमा नेकपाका महेन्द्रबहादुर शाही विजयी\n२२ फागुन २०८२ २२:५८\nकालिकोटबाट प्रतिनिधिसभा सदस्यमा महेन्द्रबहादुर शाही विजयी भएका छन्। उनी नेपाल कम्युनिस्ट पार्टी (नेकपा)का उम्मेदवार हुन् ।\nनिर्वाचन अधिकृतको कार्यालयका अनुसार शाहीले ११ हजार ३३० मत प्राप्त गर्दै विजय हासिल गरेका हुन् । उनका निकटतम प्रतिस्पर्धी नेपाल कम्युनिस्ट पार्टी (एमाले)का उम्मेदवार नागेन्द्र शाहीले १० हजार २२२ मत प्राप्त गरेका छन् ।\nयससँगै महेन्द्रबहादुर शाहीले नागेन्द्र शाहीलाई १ हजार १०८ मतको अन्तरले पराजित गर्दै कालिकोटबाट प्रतिनिधिसभामा आफ्नो स्थान सुरक्षित गरेका छन् ।\nप्रतिक्रिया",
+    "images": [
+      "https://www.pardafas.com/wp-content/uploads/2022/06/pardafas-logo.png",
+      "https://www.pardafas.com/wp-content/uploads/2025/12/Comp-02.gif",
+      "https://www.pardafas.com/wp-content/uploads/2022/06/pardafas-logo.png",
+      "https://www.pardafas.com/wp-content/uploads/2024/07/raswapa-office-450x250.jpg",
+      "https://www.pardafas.com/wp-content/uploads/2025/04/ganesh-parajuli-450x250.jpg",
+      "https://www.pardafas.com/wp-content/uploads/2026/03/mahendra-shahi-450x250.jpg",
+      "https://www.pardafas.com/wp-content/uploads/2026/03/prachanda-450x250.jpg",
+      "https://www.pardafas.com/wp-content/uploads/2026/03/sobita-gautam-renu-dahal-450x250.jpeg",
+      "https://www.pardafas.com/wp-content/uploads/2026/03/danbahadur-karki-450x250.jpg",
+      "https://www.pardafas.com/wp-content/uploads/2022/06/pardafas-logo.png"
+    ]
   }
 ]
