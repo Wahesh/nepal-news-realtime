@@ -1079,5 +1079,21 @@
       "https://www.onlinekhabar.com/wp-content/themes/onlinekhabar-2021/img/cat-icon-sports.png",
       "https://www.onlinekhabar.com/wp-content/themes/onlinekhabar-2021/img/cat-icon-opinion.png"
     ]
+  },
+  {
+    "url": "https://www.onlinekhabar.com/2026/03/1886005/kathmandu-5-rastriya-swayamsevak-sanghs-sasmit-pokharel-elected",
+    "title": "काठमाडौं- ५ : रास्वपाका सस्मित पोखरेल निर्वाचित",
+    "pub_date": "2026-03-07 01:27:34",
+    "fetched_at": "2026-03-07T01:57:50.924817+00:00",
+    "portal": "Onlinekhabar",
+    "profiles_matched": [
+      "Election Monitoring"
+    ],
+    "keywords_matched": [
+      "रास्वपा"
+    ],
+    "snippet": "[Error fetching: HTTPSConnectionPool(host='www.onlinekhabar.com', port=443): Read timed out.]",
+    "content": "[Error fetching: HTTPSConnectionPool(host='www.onlinekhabar.com', port=443): Read timed out.]",
+    "images": []
   }
 ]
