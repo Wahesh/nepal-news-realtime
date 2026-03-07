@@ -1736,5 +1736,22 @@
       "https://npcdn.ratopati.com/media/news/election-ballot-box_n98x6ehp6u_II1WzqiXQA.jpg",
       "https://npcdn.ratopati.com/media/news/ilam-2n-2026-03-07-09-33-08_VxRc0envbI.png"
     ]
+  },
+  {
+    "url": "https://singhadurbarnews.com/2026/03/187242?npatro=1",
+    "title": "ललितपुर– २ मा रास्वपाका जगदीश खरेल विजयी",
+    "pub_date": "2026-03-07 11:59:28",
+    "fetched_at": "2026-03-07T06:24:08.566610+00:00",
+    "portal": "Singhadurbarnews",
+    "profiles_matched": [
+      "Election Monitoring"
+    ],
+    "keywords_matched": [
+      "निर्वाचन",
+      "रास्वपा"
+    ],
+    "snippet": "[Error fetching: HTTPSConnectionPool(host='singhadurbarnews.com', port=443): Read timed out. (read timeout=15)]",
+    "content": "[Error fetching: HTTPSConnectionPool(host='singhadurbarnews.com', port=443): Read timed out. (read timeout=15)]",
+    "images": []
   }
 ]
