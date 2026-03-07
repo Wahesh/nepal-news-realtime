@@ -3776,5 +3776,22 @@
       "https://www.pardafas.com/wp-content/uploads/2026/03/kp-oli-balen-450x250.jpg",
       "https://www.pardafas.com/wp-content/uploads/2022/06/pardafas-logo.png"
     ]
+  },
+  {
+    "url": "https://farakdhar.com/story/163095",
+    "title": "प्यूठानमा रास्वपाका सुशान्त वैदिक विजयी, सूर्य थापा तेस्रो",
+    "pub_date": "2026-03-07 21:52:00",
+    "fetched_at": "2026-03-07T19:33:38.614402+00:00",
+    "portal": "Farakdhar",
+    "profiles_matched": [
+      "Election Monitoring"
+    ],
+    "keywords_matched": [
+      "रास्वपा",
+      "कांग्रेस"
+    ],
+    "snippet": "[Error fetching: HTTPSConnectionPool(host='farakdhar.com', port=443): Read timed out.]",
+    "content": "[Error fetching: HTTPSConnectionPool(host='farakdhar.com', port=443): Read timed out.]",
+    "images": []
   }
 ]
