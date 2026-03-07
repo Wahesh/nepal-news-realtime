@@ -2055,5 +2055,22 @@
       "https://media.sobizcdn.com/arthadabali.com/media-file/images/2026/02/1770869354-cM694.jpg",
       "https://media.sobizcdn.com/arthadabali.com/media-file/images/2026/03/1772469612-WU9oL.jpg"
     ]
+  },
+  {
+    "url": "https://gorkhapatraonline.com/news/195416",
+    "title": "अमरेश सिंह विजयोन्मुख, कांग्रेस सभापति थापा आठ हजार मतले पछाडि",
+    "pub_date": "2026-03-07 19:42:56",
+    "fetched_at": "2026-03-07T14:11:56.396401+00:00",
+    "portal": "Gorkhapatraonline",
+    "profiles_matched": [
+      "Election Monitoring"
+    ],
+    "keywords_matched": [
+      "रास्वपा",
+      "कांग्रेस"
+    ],
+    "snippet": "[Error fetching: HTTPSConnectionPool(host='gorkhapatraonline.com', port=443): Read timed out. (read timeout=15)]",
+    "content": "[Error fetching: HTTPSConnectionPool(host='gorkhapatraonline.com', port=443): Read timed out. (read timeout=15)]",
+    "images": []
   }
 ]
