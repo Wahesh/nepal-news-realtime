@@ -4494,5 +4494,23 @@
       "https://pradeskhabar.cdnsolution.net/media/news/sarlahi-4_PzvE040YeJ.png",
       "https://pradeskhabar.cdnsolution.net/media/news/balen-kp_5y9msilI6d.png"
     ]
+  },
+  {
+    "url": "https://np.ictframe.com/bhaktapur-1-rsps-rukesh-ranjit/",
+    "title": "भक्तपुर–१ मा रास्वपाका रुकेश रन्जित विजयी: ३४ वर्षपछिको नेमकिपाको ‘गढ’ ढल्यो",
+    "pub_date": "2026-03-07 10:11:47",
+    "fetched_at": "2026-03-07T05:12:40.028570+00:00",
+    "portal": "Np",
+    "profiles_matched": [
+      "Election Monitoring"
+    ],
+    "keywords_matched": [
+      "निर्वाचन",
+      "रास्वपा",
+      "निर्वाचन आयोग"
+    ],
+    "snippet": "[Error fetching: HTTPSConnectionPool(host='np.ictframe.com', port=443): Read timed out. (read timeout=15)]",
+    "content": "[Error fetching: HTTPSConnectionPool(host='np.ictframe.com', port=443): Read timed out. (read timeout=15)]",
+    "images": []
   }
 ]
