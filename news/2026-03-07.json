@@ -1649,5 +1649,34 @@
     "snippet": "[Error fetching: HTTPSConnectionPool(host='gorkhapatraonline.com', port=443): Read timed out. (read timeout=15)]",
     "content": "[Error fetching: HTTPSConnectionPool(host='gorkhapatraonline.com', port=443): Read timed out. (read timeout=15)]",
     "images": []
+  },
+  {
+    "url": "https://nepalnews.com/2026/03/07/rupandehi-3-rashtriya-swayamsevak-sangh-rsss-lekhjung-thapa-elected/",
+    "title": "रुपन्देही ३ : रास्वपाका लेखजंग थापा निर्वाचित",
+    "pub_date": "2026-03-07 12:00:36",
+    "fetched_at": "2026-03-07T06:23:37.907148+00:00",
+    "portal": "Nepalnews",
+    "profiles_matched": [
+      "Election Monitoring"
+    ],
+    "keywords_matched": [
+      "निर्वाचन",
+      "रास्वपा",
+      "कांग्रेस"
+    ],
+    "snippet": "भैरहवा। रुपन्देही जिल्लाको ३ नम्बर निर्वाचन क्षेत्रमा राष्ट्रिय स्वतन्त्र पार्टीका उम्मेदवार डा लेखजंग थापा ५८ हजार ८१४ मत प्राप्त गरी निर्वाचित भएका छन्। मुख्य निर्वाचन अधिकृत अशोककुमार बस्नेतका अनुसार नेपाली कांग्रेसका सुशील गुरुङले ८ हजार ४३५ मत प्राप्त गरेका छन्।\nनेकपा (एमाले) का उम्मेदवार वासुदेव घिमिरेले ८ हजार २७५ मत प्राप्त गरेका छन्।\nयसैगरी राष्ट्रिय प्रजातन्त्र पार्टीका उम्मेद्वार गौरव बोहराले ७ हजार ७८९ मत प्राप्त गरे।",
+    "content": "भैरहवा। रुपन्देही जिल्लाको ३ नम्बर निर्वाचन क्षेत्रमा राष्ट्रिय स्वतन्त्र पार्टीका उम्मेदवार डा लेखजंग थापा ५८ हजार ८१४ मत प्राप्त गरी निर्वाचित भएका छन्। मुख्य निर्वाचन अधिकृत अशोककुमार बस्नेतका अनुसार नेपाली कांग्रेसका सुशील गुरुङले ८ हजार ४३५ मत प्राप्त गरेका छन्।\nनेकपा (एमाले) का उम्मेदवार वासुदेव घिमिरेले ८ हजार २७५ मत प्राप्त गरेका छन्।\nयसैगरी राष्ट्रिय प्रजातन्त्र पार्टीका उम्मेद्वार गौरव बोहराले ७ हजार ७८९ मत प्राप्त गरे।",
+    "images": [
+      "https://nepalnews.com/wp-content/uploads/2025/08/Nepal-news-white-scaled.png",
+      "https://nepalnews.com/wp-content/uploads/2025/09/chuttimalogo.png",
+      "https://english.nepalnews.com/wp-content/uploads/2025/01/Nepal-news-white.png",
+      "https://english.nepalnews.com/wp-content/uploads/2025/01/close.png",
+      "https://english.nepalnews.com/wp-content/uploads/2025/01/direct-flight.png",
+      "https://english.nepalnews.com/wp-content/uploads/2025/01/cloudy-day.png",
+      "https://english.nepalnews.com/wp-content/uploads/2025/01/air-quality.png",
+      "https://english.nepalnews.com/wp-content/uploads/2025/01/change.png",
+      "https://english.nepalnews.com/wp-content/uploads/2025/01/gold.png",
+      "https://nepalnews.com/wp-content/uploads/2025/08/Nepalnews.jpg"
+    ]
   }
 ]
