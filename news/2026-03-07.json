@@ -871,5 +871,31 @@
       "https://www.pardafas.com/wp-content/uploads/2026/03/toshima-karki-450x250.jpg",
       "https://www.pardafas.com/wp-content/uploads/2022/06/pardafas-logo.png"
     ]
+  },
+  {
+    "url": "https://hamrakura.com/news-details/209124/2026-03-07",
+    "title": "नवलपुर–२ मा रास्वपाका खनाल निर्वाचित",
+    "pub_date": "2026-03-07 19:32:05",
+    "fetched_at": "2026-03-07T13:52:10.933886+00:00",
+    "portal": "Hamrakura",
+    "profiles_matched": [
+      "Election Monitoring"
+    ],
+    "keywords_matched": [
+      "निर्वाचन",
+      "रास्वपा",
+      "कांग्रेस"
+    ],
+    "snippet": "- सुन चाँदी दर\n- विनिमय दर\n- नेपाली पात्रो\n- राशिफल\nत्रिवेणी । नवलपुर प्रतिनिधि सभा सदस्य निर्वाचन क्षेत्र नं २ मा राष्ट्रिय स्वतन्त्र पार्टी रास्वपाका मनिष खनाल ४१ हजार ३४७ मतसहित विजयी भएका छन् ।\nनिर्वाचन अधिकृतको कार्यालयका अनुसार उनले नेकपा एमालेका तिलक महतलाई २५ हजार ५९२ मत अन्तरले पराजित गरे । महतले १५ हजार ७५५ मत प्राप्त गरे भने भने नेपाली कांग्रेसका ओमबहादुर घर्तीले १४ हजार ७१३ मत प्राप्त गरे ।\nयस क्षेत्रमा ७९ हजार ८०२ मत खसेको थियो ।",
+    "content": "- सुन चाँदी दर\n- विनिमय दर\n- नेपाली पात्रो\n- राशिफल\nत्रिवेणी । नवलपुर प्रतिनिधि सभा सदस्य निर्वाचन क्षेत्र नं २ मा राष्ट्रिय स्वतन्त्र पार्टी रास्वपाका मनिष खनाल ४१ हजार ३४७ मतसहित विजयी भएका छन् ।\nनिर्वाचन अधिकृतको कार्यालयका अनुसार उनले नेकपा एमालेका तिलक महतलाई २५ हजार ५९२ मत अन्तरले पराजित गरे । महतले १५ हजार ७५५ मत प्राप्त गरे भने भने नेपाली कांग्रेसका ओमबहादुर घर्तीले १४ हजार ७१३ मत प्राप्त गरे ।\nयस क्षेत्रमा ७९ हजार ८०२ मत खसेको थियो ।",
+    "images": [
+      "https://hamrakura.com/uploads/config/frontend/hamrakura-logo.jpg",
+      "https://hamrakura.com/frontend/utility/icons/gold-silver.svg",
+      "https://hamrakura.com/frontend/utility/icons/money-exchange.svg",
+      "https://hamrakura.com/frontend/utility/icons/nepali-calender.svg",
+      "https://hamrakura.com/frontend/utility/icons/nepali-horoscope.svg",
+      "https://hamrakura.com/uploads/config/frontend/hamrakura-logo.jpg",
+      "https://certify.alexametrics.com/atrk.gif?account=LQmzp1IW1d10fn"
+    ]
   }
 ]
