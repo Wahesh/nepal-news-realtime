@@ -1753,5 +1753,35 @@
     "snippet": "[Error fetching: HTTPSConnectionPool(host='singhadurbarnews.com', port=443): Read timed out. (read timeout=15)]",
     "content": "[Error fetching: HTTPSConnectionPool(host='singhadurbarnews.com', port=443): Read timed out. (read timeout=15)]",
     "images": []
+  },
+  {
+    "url": "https://www.lokpath.com/story/874111/",
+    "title": "अछाम १ मा भीम रावल एक मतले पछाडि",
+    "pub_date": "2026-03-07 11:59:08",
+    "fetched_at": "2026-03-07T06:24:14.184784+00:00",
+    "portal": "Lokpath",
+    "profiles_matched": [
+      "Election Monitoring"
+    ],
+    "keywords_matched": [
+      "निर्वाचन",
+      "रास्वपा",
+      "कांग्रेस",
+      "मतगणना"
+    ],
+    "snippet": "अछाम । अछाम क्षेत्र नम्बर १ मा नेपाली कम्युनिस्ट पाटी र नेपाली कांग्रेसबिच तीव्र प्रतिस्पर्धा जारी रहेको छ । अधिकांश समय नेपाली कम्युनिस्ट पार्टीका नेता भीम रावलले अग्रता लिएकामा शनिवार बिहानबाट नेपाली कांग्रेसका उम्मेदवार भरत कुमार स्वारले अग्रता लिन थालेका छन्।\nशनिवार बिहान ११:३० बजेको मत परिणाम अनुसार यतिबेला नेपाली कांग्रेसका उम्मेदवार भरत कुमार स्वार रावलभन्दा मात्रै एक मतले अगाडि रहेका छन् ।\nहालसम्मको मतगणनामा कांग्रेसका स्वारले ७ हजार ६१० मत ल्याएर अग्रता लिँदा नेपाली कम्युनिस्ट पार्टीका ",
+    "content": "अछाम । अछाम क्षेत्र नम्बर १ मा नेपाली कम्युनिस्ट पाटी र नेपाली कांग्रेसबिच तीव्र प्रतिस्पर्धा जारी रहेको छ । अधिकांश समय नेपाली कम्युनिस्ट पार्टीका नेता भीम रावलले अग्रता लिएकामा शनिवार बिहानबाट नेपाली कांग्रेसका उम्मेदवार भरत कुमार स्वारले अग्रता लिन थालेका छन्।\nशनिवार बिहान ११:३० बजेको मत परिणाम अनुसार यतिबेला नेपाली कांग्रेसका उम्मेदवार भरत कुमार स्वार रावलभन्दा मात्रै एक मतले अगाडि रहेका छन् ।\nहालसम्मको मतगणनामा कांग्रेसका स्वारले ७ हजार ६१० मत ल्याएर अग्रता लिँदा नेपाली कम्युनिस्ट पार्टीका भीम रावलले ७ हजार ६०९ मतले पछ्याएका छन् । रावल स्वारभन्दा केबल एक मतले पछाडि रहेका छन् ।\nकुने समय एमालेको किल्ला रहेको अछाममा यस निर्वाचनमा भने एमाले तेस्रो स्थानमा रहेको छ । एमाले उम्मेदवार दीपक बहादुर साउदको भने ६ हजार ९ सय १६ मत आएको छ ।\nदेशभर विजयी बनेको रास्वपा भने अछाम १ मा चौथो दलका रूपमा रहँदै अन्य दलभन्दा निकै तल रहेको छ ।\nयहाँ रास्वपाका ओमप्रकाश रावलले १ हजार ३४१ मत मात्रै ल्याएका छन् ।\nयो खबर पढेर तपाईलाई कस्तो महसुस भयो ?\nप्रतिक्रिया",
+    "images": [
+      "https://www.lokpath.com/wp-content/themes/lokpath/img/logo-lokpath.png",
+      "https://www.lokpath.com/wp-content/themes/lokpath/img/logo.png",
+      "https://www.lokpath.com/wp-content/uploads/2024/03/user-img.png",
+      "https://www.lokpath.com/wp-content/uploads/2026/03/bhimrawal.jpeg",
+      "https://www.lokpath.com/wp-content/uploads/2026/02/tata.jpg",
+      "https://www.lokpath.com/wp-content/uploads/2026/02/heroo-ghumoo.gif",
+      "https://www.lokpath.com/wp-content/uploads/2026/02/825x100.gif",
+      "https://www.lokpath.com/wp-content/uploads/2025/11/nabil.gif",
+      "https://www.lokpath.com/wp-content/uploads/2025/10/1200-by-100.gif",
+      "https://www.lokpath.com/wp-content/uploads/2024/08/PBK_800-x-200_new-final.gif"
+    ]
   }
 ]
