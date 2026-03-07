@@ -2072,5 +2072,32 @@
     "snippet": "[Error fetching: HTTPSConnectionPool(host='gorkhapatraonline.com', port=443): Read timed out. (read timeout=15)]",
     "content": "[Error fetching: HTTPSConnectionPool(host='gorkhapatraonline.com', port=443): Read timed out. (read timeout=15)]",
     "images": []
+  },
+  {
+    "url": "https://www.makalukhabar.com/2026/03/99977572597/",
+    "title": "सुर्खेत- १ मा काँग्रेसका खड्का विजयी",
+    "pub_date": "2026-03-07 19:42:49",
+    "fetched_at": "2026-03-07T14:12:01.950516+00:00",
+    "portal": "Makalukhabar",
+    "profiles_matched": [
+      "Election Monitoring"
+    ],
+    "keywords_matched": [
+      "निर्वाचन"
+    ],
+    "snippet": "सुर्खेत- १ मा काँग्रेसका खड्का विजयी\nमकालु खबर\n२०८२ फागुन २३ गते\nकर्णाली । सुर्खेत प्रतिनिधिसभा सदस्य निर्वाचन क्षेत्र नं १ मा नेपाली काँग्रेसका उम्मेदवार विष्णुबहादुर खड्का २६ हजार ८९७ मतसहित विजयी भएका छन् ।\nनिर्वाचन अधिकृत कैलाशप्रसाद भट्टराईका अनुसार निकटतम प्रतिस्पर्धी नेकपा (एमाले)का ध्रुवकुमार शाहीलाई आठ हजार सात अन्तरले उनी निर्वाचित भएका हुन् । यहाँ शाहीले १८ हजार ८९०, राष्ट्रिय स्वतन्त्र पार्टीका टेकबहादुर सिंहले १४ हजार ७२९ र नेपाली कम्युनिष्ट पार्टीका जीतबहादुर रानाले दुई हजार ८२८ मत",
+    "content": "सुर्खेत- १ मा काँग्रेसका खड्का विजयी\nमकालु खबर\n२०८२ फागुन २३ गते\nकर्णाली । सुर्खेत प्रतिनिधिसभा सदस्य निर्वाचन क्षेत्र नं १ मा नेपाली काँग्रेसका उम्मेदवार विष्णुबहादुर खड्का २६ हजार ८९७ मतसहित विजयी भएका छन् ।\nनिर्वाचन अधिकृत कैलाशप्रसाद भट्टराईका अनुसार निकटतम प्रतिस्पर्धी नेकपा (एमाले)का ध्रुवकुमार शाहीलाई आठ हजार सात अन्तरले उनी निर्वाचित भएका हुन् । यहाँ शाहीले १८ हजार ८९०, राष्ट्रिय स्वतन्त्र पार्टीका टेकबहादुर सिंहले १४ हजार ७२९ र नेपाली कम्युनिष्ट पार्टीका जीतबहादुर रानाले दुई हजार ८२८ मत प्राप्त गरे ।\nयस निर्वाचन क्षेत्रमा १३ दलका उम्मेदवार प्रतिस्पर्धामा थिए । एक लाख २२ हजार ९०२ मतदाता रहेको यस क्षेत्रमा ७० हजार १६७ मत खसेको थियो । यहाँ दुई हजार ३९३ मत बदर भएका छन् ।\nमकालु खबर\n२०८२ फागुन २३ गते\nप्रतिक्रिया\nसम्बन्धित",
+    "images": [
+      "https://certify.alexametrics.com/atrk.gif?account=dk25x1sq3P20YM",
+      "https://www.makalukhabar.com/wp-content/themes/makalukhabar-2021/assets/img/twitter.png",
+      "https://www.makalukhabar.com/wp-content/themes/makalukhabar-2021/assets/img/tik-tok.png",
+      "https://www.makalukhabar.com/wp-content/uploads/2024/12/makalu-logo.png",
+      "https://www.makalukhabar.com/wp-content/uploads/2026/01/Tiago-EV-EMI-mk.jpg",
+      "https://www.makalukhabar.com/wp-content/uploads/2026/01/tata-mk.jpg",
+      "https://www.makalukhabar.com/wp-content/uploads/2023/10/Final-icon-Logo-2023.png",
+      "https://www.makalukhabar.com/wp-content/uploads/2026/03/surkhet-mk.png",
+      "https://www.makalukhabar.com/wp-content/uploads/2021/03/national-life-makalu-khabar.gif",
+      "https://www.makalukhabar.com/wp-content/uploads/2021/03/national-life-makalu-khabar.gif"
+    ]
   }
 ]
