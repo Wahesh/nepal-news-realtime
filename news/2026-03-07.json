@@ -1856,5 +1856,33 @@
     "snippet": "[Error fetching: HTTPSConnectionPool(host='singhadurbarnews.com', port=443): Read timed out. (read timeout=15)]",
     "content": "[Error fetching: HTTPSConnectionPool(host='singhadurbarnews.com', port=443): Read timed out. (read timeout=15)]",
     "images": []
+  },
+  {
+    "url": "https://www.pardafas.com/2026/03/07/162110/",
+    "title": "ललितपुर–१ मा रास्वपाका महर्जन विजयी, कांग्रेसका राणासँग १० हजार मतको अन्तर",
+    "pub_date": "2026-03-07 11:56:05",
+    "fetched_at": "2026-03-07T06:24:53.101908+00:00",
+    "portal": "Pardafas",
+    "profiles_matched": [
+      "Election Monitoring"
+    ],
+    "keywords_matched": [
+      "रास्वपा",
+      "कांग्रेस"
+    ],
+    "snippet": "ललितपुर–१ मा रास्वपाका महर्जन विजयी, कांग्रेसका राणासँग १० हजार मतको अन्तर\n२३ फागुन २०८२ ११:५६\nललितपुर–१ मा राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का उम्मेदवार बुद्धरत्न महर्जन फराकिलो मतान्तरले विजयी भएका छन् ।\nनेपाली कांग्रेसका सहमहामन्त्री उदयशमशेर जबरालाई झन्डै १० हजार मतले पछि पार्दै महर्जन विजयी भएका हुन् ।\nमहर्जनले २३ हजार ३७३ मतसहित विजयी हुँदा जबराले १३ हजार ५२० मत ल्याए ।\nतेस्रो भएका नेकपा एमालेका उम्मेदवार चेतनाथ सञ्जेलले ६ हजार ५४६ मत पाएका छन्।\nप्रतिक्रिया",
+    "content": "ललितपुर–१ मा रास्वपाका महर्जन विजयी, कांग्रेसका राणासँग १० हजार मतको अन्तर\n२३ फागुन २०८२ ११:५६\nललितपुर–१ मा राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का उम्मेदवार बुद्धरत्न महर्जन फराकिलो मतान्तरले विजयी भएका छन् ।\nनेपाली कांग्रेसका सहमहामन्त्री उदयशमशेर जबरालाई झन्डै १० हजार मतले पछि पार्दै महर्जन विजयी भएका हुन् ।\nमहर्जनले २३ हजार ३७३ मतसहित विजयी हुँदा जबराले १३ हजार ५२० मत ल्याए ।\nतेस्रो भएका नेकपा एमालेका उम्मेदवार चेतनाथ सञ्जेलले ६ हजार ५४६ मत पाएका छन्।\nप्रतिक्रिया",
+    "images": [
+      "https://www.pardafas.com/wp-content/uploads/2022/06/pardafas-logo.png",
+      "https://www.pardafas.com/wp-content/uploads/2025/12/Comp-02.gif",
+      "https://www.pardafas.com/wp-content/uploads/2022/06/pardafas-logo.png",
+      "https://www.pardafas.com/wp-content/uploads/2026/02/balen-shah-1-2-450x250.jpg",
+      "https://www.pardafas.com/wp-content/uploads/2026/03/buddaratna-maharjan-450x250.jpg",
+      "https://www.pardafas.com/wp-content/uploads/2026/03/mugu-450x250.jpg",
+      "https://www.pardafas.com/wp-content/uploads/2024/07/raswapa-office-450x250.jpg",
+      "https://www.pardafas.com/wp-content/uploads/2026/03/sulabha-kharel-450x250.jpg",
+      "https://www.pardafas.com/wp-content/uploads/2026/01/jagadish-kharel-3-450x250.jpg",
+      "https://www.pardafas.com/wp-content/uploads/2022/06/pardafas-logo.png"
+    ]
   }
 ]
