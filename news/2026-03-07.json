@@ -4303,5 +4303,24 @@
       "https://fdcdn.prixacdn.net/media/EVEREST_COLLEGE_1_25tgU4qzW3.gif",
       "https://fdcdn.prixacdn.net/media/EDF_Admissions_Google_Ad.gif"
     ]
+  },
+  {
+    "url": "https://np.ictframe.com/jagdish-kharel-wins-lalitpur-2/",
+    "title": "ललितपुर २ मा रास्वपाका जगदीश खरेल विजयी, भारी मतान्तरले जिते चुनाव",
+    "pub_date": "2026-03-07 10:34:20",
+    "fetched_at": "2026-03-07T05:11:39.959435+00:00",
+    "portal": "Np",
+    "profiles_matched": [
+      "Election Monitoring"
+    ],
+    "keywords_matched": [
+      "चुनाव",
+      "निर्वाचन",
+      "रास्वपा",
+      "कांग्रेस"
+    ],
+    "snippet": "[Error fetching: HTTPSConnectionPool(host='np.ictframe.com', port=443): Read timed out. (read timeout=15)]",
+    "content": "[Error fetching: HTTPSConnectionPool(host='np.ictframe.com', port=443): Read timed out. (read timeout=15)]",
+    "images": []
   }
 ]
