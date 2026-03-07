@@ -104,5 +104,23 @@
       "https://fdcdn.prixacdn.net/media/EVEREST_COLLEGE_1_25tgU4qzW3.gif",
       "https://fdcdn.prixacdn.net/media/EDF_Admissions_Google_Ad.gif"
     ]
+  },
+  {
+    "url": "https://aarthiknews.com//news/117888/buddha-ratna-maharjan-of-rsvp-defeated-uday/",
+    "title": "ललितपुर–१ मा उदय शमशेरलाई हराउँदै रास्वपाका बुद्धरत्न महर्जन विजयी",
+    "pub_date": "2026-03-07 10:51:29",
+    "fetched_at": "2026-03-07T05:32:05.011157+00:00",
+    "portal": "Aarthiknews",
+    "profiles_matched": [
+      "Election Monitoring"
+    ],
+    "keywords_matched": [
+      "निर्वाचन",
+      "रास्वपा",
+      "कांग्रेस"
+    ],
+    "snippet": "[Error fetching: HTTPSConnectionPool(host='aarthiknews.com', port=443): Read timed out. (read timeout=15)]",
+    "content": "[Error fetching: HTTPSConnectionPool(host='aarthiknews.com', port=443): Read timed out. (read timeout=15)]",
+    "images": []
   }
 ]
