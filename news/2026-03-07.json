@@ -1327,5 +1327,31 @@
       "https://pradeskhabar.cdnsolution.net/media/news/rsp_hfwdUNRJUw.png",
       "https://pradeskhabar.cdnsolution.net/media/news/sarlahi-4_PzvE040YeJ.png"
     ]
+  },
+  {
+    "url": "https://hamrakura.com/news-details/209107/2026-03-07",
+    "title": "हुम्लामा नेकपा अगाडि, कांग्रेस पछ्याउँदै, रास्वपा मतका सिला बटुल्दै",
+    "pub_date": "2026-03-07 15:26:15",
+    "fetched_at": "2026-03-07T09:42:46.568634+00:00",
+    "portal": "Hamrakura",
+    "profiles_matched": [
+      "Election Monitoring"
+    ],
+    "keywords_matched": [
+      "निर्वाचन",
+      "रास्वपा",
+      "कांग्रेस"
+    ],
+    "snippet": "- सुन चाँदी दर\n- विनिमय दर\n- नेपाली पात्रो\n- राशिफल\nहुम्ला । प्रतिनिधि सभा निर्वाचनमा राष्ट्रिय स्वतन्त्र पार्टी रास्वपाले जितको सुनामी ल्याइरहँदा हुम्लामा भने मतका सिला बटुलिरहेको छ ।\nआज दिउँसो २ बजेर ५० मिनेटसम्मको गणनाअनुसार नेपाली कम्युनिष्ट पार्टीका डा दिपेन्द्र रोकायाले ५ हजार ४८५ मत ल्याउँदा नेपाली कांग्रेसका जयपति रोकायाले ५ हजार ६६ मत ल्याएका छन् ।\nनेकपा एमालेका दल फडेराले ३ हजार ३३४ मत ल्याएका छन् । तर रास्वपाका टासी ल्हाजोमले १५९ मतमात्र ल्याएका छन् । अन्य स्थानमा रास्वपाको पकड राम्रो",
+    "content": "- सुन चाँदी दर\n- विनिमय दर\n- नेपाली पात्रो\n- राशिफल\nहुम्ला । प्रतिनिधि सभा निर्वाचनमा राष्ट्रिय स्वतन्त्र पार्टी रास्वपाले जितको सुनामी ल्याइरहँदा हुम्लामा भने मतका सिला बटुलिरहेको छ ।\nआज दिउँसो २ बजेर ५० मिनेटसम्मको गणनाअनुसार नेपाली कम्युनिष्ट पार्टीका डा दिपेन्द्र रोकायाले ५ हजार ४८५ मत ल्याउँदा नेपाली कांग्रेसका जयपति रोकायाले ५ हजार ६६ मत ल्याएका छन् ।\nनेकपा एमालेका दल फडेराले ३ हजार ३३४ मत ल्याएका छन् । तर रास्वपाका टासी ल्हाजोमले १५९ मतमात्र ल्याएका छन् । अन्य स्थानमा रास्वपाको पकड राम्रो भए पनि यहाँ भने कमजोर देखिएको छ ।",
+    "images": [
+      "https://hamrakura.com/uploads/config/frontend/hamrakura-logo.jpg",
+      "https://hamrakura.com/frontend/utility/icons/gold-silver.svg",
+      "https://hamrakura.com/frontend/utility/icons/money-exchange.svg",
+      "https://hamrakura.com/frontend/utility/icons/nepali-calender.svg",
+      "https://hamrakura.com/frontend/utility/icons/nepali-horoscope.svg",
+      "https://hamrakura.com/uploads/config/frontend/hamrakura-logo.jpg",
+      "https://certify.alexametrics.com/atrk.gif?account=LQmzp1IW1d10fn"
+    ]
   }
 ]
