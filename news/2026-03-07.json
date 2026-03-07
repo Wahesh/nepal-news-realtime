@@ -3793,5 +3793,33 @@
     "snippet": "[Error fetching: HTTPSConnectionPool(host='farakdhar.com', port=443): Read timed out.]",
     "content": "[Error fetching: HTTPSConnectionPool(host='farakdhar.com', port=443): Read timed out.]",
     "images": []
+  },
+  {
+    "url": "https://janatatimes.com/archives/330615",
+    "title": "रोल्पामा वर्षमान पुन विजयी, तेस्रोपटक संसद् यात्रामा",
+    "pub_date": "2026-03-07 21:51:22",
+    "fetched_at": "2026-03-07T19:33:44.217541+00:00",
+    "portal": "Janatatimes",
+    "profiles_matched": [
+      "Election Monitoring"
+    ],
+    "keywords_matched": [
+      "निर्वाचन",
+      "कांग्रेस"
+    ],
+    "snippet": "काठमाडौं, फागुन २३ । रोल्पा प्रतिनिधिसभा निर्वाचन क्षेत्रबाट वर्षमान पुन निर्वाचित हुनुभएको छ।\nनेपाली कम्युनिष्ट पार्टीका नेता पुन २७ हजार ४६० मत प्राप्त गर्दै विजयी हुनुभएको हो। उहाँका निकटतम प्रतिद्वन्द्वी नेपाली कांग्रेसका उम्मेदवार डा. सुदनकुमार वली ले १२ हजार ८ मत प्राप्त गर्नुभएको छ।\nत्यस्तै राष्ट्रिय स्वतन्त्र पार्टीका उम्मेदवार बालराम थापाले १० हजार ८९४ मत प्राप्त गर्दै तेस्रो स्थान हासिल गर्नुभएको छ भने नेपाल कम्युनिष्ट पार्टी (एमाले) का गोकुलप्रसाद घर्ती ले ९ हजार ९३३ मत प्राप्त गर्नुभ",
+    "content": "काठमाडौं, फागुन २३ । रोल्पा प्रतिनिधिसभा निर्वाचन क्षेत्रबाट वर्षमान पुन निर्वाचित हुनुभएको छ।\nनेपाली कम्युनिष्ट पार्टीका नेता पुन २७ हजार ४६० मत प्राप्त गर्दै विजयी हुनुभएको हो। उहाँका निकटतम प्रतिद्वन्द्वी नेपाली कांग्रेसका उम्मेदवार डा. सुदनकुमार वली ले १२ हजार ८ मत प्राप्त गर्नुभएको छ।\nत्यस्तै राष्ट्रिय स्वतन्त्र पार्टीका उम्मेदवार बालराम थापाले १० हजार ८९४ मत प्राप्त गर्दै तेस्रो स्थान हासिल गर्नुभएको छ भने नेपाल कम्युनिष्ट पार्टी (एमाले) का गोकुलप्रसाद घर्ती ले ९ हजार ९३३ मत प्राप्त गर्नुभएको छ। साथै माओवादीकै उम्मेदवार चूडामणि वलीले ३ हजार ७१४ मत प्राप्त गर्नुभएको निर्वाचन कार्यालयले जनाएको छ।\nरोल्पा निर्वाचन क्षेत्रमा कुल १ लाख ४९ हजार ५९७ मतदाता रहेकामा ६८ हजार ७७६ मत खसेको थियो, जुन कुल मतदाताको ४६.३९ प्रतिशत हो। खसेको मतमध्ये ६५ हजार ६३२ मत सदर भएको छ भने ३ हजार १४४ मत बदर भएको छ।\nरोल्पाबाट निर्वाचित हुनुभएका पुनको यो तेस्रो संसदीय विजय हो। उहाँले यसअघि पनि सोही क्षेत्रबाट प्रतिनिधित्व गर्दै राष्ट्रिय राजनीतिमा सक्रिय भूमिका निर्वाह गर्दै आउनुभएको छ।\nप्रतिक्रिया दिनुहोस्",
+    "images": [
+      "https://certify.alexametrics.com/atrk.gif?account=2hSCn1QolK10cv",
+      "https://i0.wp.com/janatatimes.com/wp-content/uploads/2020/12/cropped-janata.png?fit=525%2C90&ssl=1",
+      "https://i0.wp.com/janatatimes.com/wp-content/uploads/2020/12/cropped-janata.png?fit=525%2C90&ssl=1",
+      "https://janatatimes.com/wp-content/uploads/2025/09/machhapuchchre-bank-International-Dollar-Card-old_1200-x-100_new-footer.gif",
+      "https://janatatimes.com/wp-content/uploads/2025/12/nabil-bank-add-1100x100-1.gif",
+      "https://janatatimes.com/wp-content/uploads/2025/04/janatatimes.jpg",
+      "https://janatatimes.com/wp-content/uploads/2025/08/1000X150-prabhu-768x128.png",
+      "https://i0.wp.com/janatatimes.com/wp-content/uploads/2026/03/Barshman.jpg?fit=2048%2C1536&ssl=1",
+      "https://i0.wp.com/janatatimes.com/wp-content/uploads/2025/09/800-x-200.gif?resize=720%2C180&ssl=1",
+      "https://janatatimes.com/wp-content/uploads/2025/04/nepalipatro.webp"
+    ]
   }
 ]
