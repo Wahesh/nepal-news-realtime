@@ -2209,5 +2209,21 @@
       "https://english.nepalnews.com/wp-content/uploads/2025/01/gold.png",
       "https://nepalnews.com/wp-content/uploads/2025/08/Nepalnews.jpg"
     ]
+  },
+  {
+    "url": "https://singhadurbarnews.com/2026/03/187257?npatro=1",
+    "title": "जनचेतनाको उज्यालोमा लोकतन्त्रको भविष्य",
+    "pub_date": "2026-03-07 12:21:26",
+    "fetched_at": "2026-03-07T06:42:02.144556+00:00",
+    "portal": "Singhadurbarnews",
+    "profiles_matched": [
+      "Election Monitoring"
+    ],
+    "keywords_matched": [
+      "निर्वाचन"
+    ],
+    "snippet": "[Error fetching: HTTPSConnectionPool(host='singhadurbarnews.com', port=443): Read timed out. (read timeout=15)]",
+    "content": "[Error fetching: HTTPSConnectionPool(host='singhadurbarnews.com', port=443): Read timed out. (read timeout=15)]",
+    "images": []
   }
 ]
