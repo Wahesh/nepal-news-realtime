@@ -45,5 +45,34 @@
     "snippet": "[Error fetching: HTTPSConnectionPool(host='aarthiknews.com', port=443): Read timed out. (read timeout=15)]",
     "content": "[Error fetching: HTTPSConnectionPool(host='aarthiknews.com', port=443): Read timed out. (read timeout=15)]",
     "images": []
+  },
+  {
+    "url": "https://arthadabali.com/2026/03/07/85262",
+    "title": "चार निर्वाचन क्षेत्रमा अझै किन हुन सकेन मतगणना ?",
+    "pub_date": "2026-03-07 10:58:07",
+    "fetched_at": "2026-03-07T05:31:42.473105+00:00",
+    "portal": "Arthadabali",
+    "profiles_matched": [
+      "Election Monitoring"
+    ],
+    "keywords_matched": [
+      "निर्वाचन",
+      "निर्वाचन आयोग",
+      "मतगणना"
+    ],
+    "snippet": "काठमाडौँ / प्रतिनिधिसभा सदस्य निर्वाचनअन्तर्गत पहिलो हुने निर्वाचित हुने (प्रत्यक्ष)तर्फ १६१ स्थनामा मतणना भइरहँदा चार निर्वाचन क्षेत्रमा भने अझै मतगणना सुरु हुन सकेको छैन ।\nभौगोलिक कठिनता र मौसमी खराबीका कारण दुर्गम क्षेत्रको मतपेटिका सङ्कलमा ढिलाइ हुँदा ती निर्वाचन क्षेत्रमा मतगणना सुरु हुन नसकेको निर्वाचन आयोगका सूचना अधिकारी सुमन घिमिरेले जानकारी दिए ।\nसङखुवासभा निर्वाचन क्षेत्र नं १, गोरखा क्षेत्र नं १, मुगु क्षेत्र नं १ र धनुषा क्षेत्र नं १ मा मतगणना सुरु हुन सकेको छैन ।\nसङ्खुवासभामा मतपेट",
+    "content": "काठमाडौँ / प्रतिनिधिसभा सदस्य निर्वाचनअन्तर्गत पहिलो हुने निर्वाचित हुने (प्रत्यक्ष)तर्फ १६१ स्थनामा मतणना भइरहँदा चार निर्वाचन क्षेत्रमा भने अझै मतगणना सुरु हुन सकेको छैन ।\nभौगोलिक कठिनता र मौसमी खराबीका कारण दुर्गम क्षेत्रको मतपेटिका सङ्कलमा ढिलाइ हुँदा ती निर्वाचन क्षेत्रमा मतगणना सुरु हुन नसकेको निर्वाचन आयोगका सूचना अधिकारी सुमन घिमिरेले जानकारी दिए ।\nसङखुवासभा निर्वाचन क्षेत्र नं १, गोरखा क्षेत्र नं १, मुगु क्षेत्र नं १ र धनुषा क्षेत्र नं १ मा मतगणना सुरु हुन सकेको छैन ।\nसङ्खुवासभामा मतपेटिका सङ्कलन भएको र सर्वदलीय बैठक बसेर केही समयमै मतगणना प्रारम्भ गर्ने तयारी छ ।\nगोरखा १ मा पनि दुर्गम क्षेत्रबाट नेपाली सेनाको हेलिकोप्टरमार्फत मटपेटिका सदरमुकाम ल्याइएको छ । त्यस्तै मुगुमा पनि मटपेटिका सङ्कलन हुनेबित्तिकै गणना गर्ने तयारी छ ।\nधनुषा निर्वाचन क्षेत्र नं १ भने मतगणनाका विषयमा सर्वदलीय सहमति खोज्ने प्रयास जारी रहेको र केही समयमै गणना प्रक्रिया अघि बढ्ने जनाइएको छ ।\nतस्बिर : एआई",
+    "images": [
+      "https://media.sobizcdn.com/arthadabali.com/users_upload/1767247615_artha dabali mobile size 800x200.gif",
+      "https://arthadabali.com/online/assets/images/logo.png",
+      "https://arthadabali.com/online/assets/images/logo.png",
+      "https://media.sobizcdn.com/arthadabali.com/users_upload/1767247615_artha dabali 810x90.gif",
+      "https://arthadabali.com/online/assets/images/logo.png",
+      "https://media.sobizcdn.com/arthadabali.com/media-file/images/2026/03/1772698307-ij7RM.jpg",
+      "https://media.sobizcdn.com/arthadabali.com/media-file/images/2021/10/1634042771-HRMdu.jpg",
+      "https://media.sobizcdn.com/arthadabali.com/media-file/images/2022/11/1667544043-Wd42l.jpg",
+      "https://media.sobizcdn.com/arthadabali.com/media-file/images/2026/02/1770869354-cM694.jpg",
+      "https://media.sobizcdn.com/arthadabali.com/media-file/images/2026/03/1772469612-WU9oL.jpg"
+    ]
   }
 ]
