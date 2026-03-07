@@ -1840,5 +1840,21 @@
       "https://www.pardafas.com/wp-content/uploads/2026/01/jagadish-kharel-3-450x250.jpg",
       "https://www.pardafas.com/wp-content/uploads/2022/06/pardafas-logo.png"
     ]
+  },
+  {
+    "url": "https://singhadurbarnews.com/2026/03/187239?npatro=1",
+    "title": "बझाङमा एमालेका ऐन महर १८ हजार ४१५ मतसहित विजयी",
+    "pub_date": "2026-03-07 11:57:00",
+    "fetched_at": "2026-03-07T06:24:46.103893+00:00",
+    "portal": "Singhadurbarnews",
+    "profiles_matched": [
+      "Election Monitoring"
+    ],
+    "keywords_matched": [
+      "कांग्रेस"
+    ],
+    "snippet": "[Error fetching: HTTPSConnectionPool(host='singhadurbarnews.com', port=443): Read timed out. (read timeout=15)]",
+    "content": "[Error fetching: HTTPSConnectionPool(host='singhadurbarnews.com', port=443): Read timed out. (read timeout=15)]",
+    "images": []
   }
 ]
