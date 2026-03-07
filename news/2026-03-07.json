@@ -4322,5 +4322,34 @@
     "snippet": "[Error fetching: HTTPSConnectionPool(host='np.ictframe.com', port=443): Read timed out. (read timeout=15)]",
     "content": "[Error fetching: HTTPSConnectionPool(host='np.ictframe.com', port=443): Read timed out. (read timeout=15)]",
     "images": []
+  },
+  {
+    "url": "https://www.kathmandupati.com/news/aain-mahar/401389/",
+    "title": "बझाङमा एमालेका ऐन महर विजयी",
+    "pub_date": "2026-03-07 10:26:03",
+    "fetched_at": "2026-03-07T05:11:46.082299+00:00",
+    "portal": "Kathmandupati",
+    "profiles_matched": [
+      "Election Monitoring"
+    ],
+    "keywords_matched": [
+      "निर्वाचन",
+      "रास्वपा",
+      "कांग्रेस"
+    ],
+    "snippet": "काठमाण्डु– बझाङमा नेकपा एमालेका ऐन महर १८ हजार ४१५ मतसहित विजयी भएका छन् । नेपाली कांग्रेसका उम्मेद्वार प्रकाश रसाईलीलाई २ हजार ३८६ मतअन्तरले पराजीत गर्दै महर विजयी भएका हुन् ।\nबझाङमा नेपाली कांग्रेसका प्रकाश रसाइली स्नेहिले १६ हजार २९ मत ल्याउदा नेपाली कम्युनिस्ट पार्टी मीन बहादुर कुवरले ९ हजार ७४८ तथा रास्वपाका शैलेश सिहँले ९ हजार २३४ मत प्रापणत गरेका छन् ।\nयस निर्वाचन क्षेत्रमा सात जना उम्मेदवार प्रतिस्पर्धामा रहेका थिए।\nप्रतिक्रिया",
+    "content": "काठमाण्डु– बझाङमा नेकपा एमालेका ऐन महर १८ हजार ४१५ मतसहित विजयी भएका छन् । नेपाली कांग्रेसका उम्मेद्वार प्रकाश रसाईलीलाई २ हजार ३८६ मतअन्तरले पराजीत गर्दै महर विजयी भएका हुन् ।\nबझाङमा नेपाली कांग्रेसका प्रकाश रसाइली स्नेहिले १६ हजार २९ मत ल्याउदा नेपाली कम्युनिस्ट पार्टी मीन बहादुर कुवरले ९ हजार ७४८ तथा रास्वपाका शैलेश सिहँले ९ हजार २३४ मत प्रापणत गरेका छन् ।\nयस निर्वाचन क्षेत्रमा सात जना उम्मेदवार प्रतिस्पर्धामा रहेका थिए।\nप्रतिक्रिया",
+    "images": [
+      "https://www.kathmandupati.com/wp-content/themes/kathmandupatinaya/img/logo.png",
+      "https://www.kathmandupati.com/wp-content/themes/kathmandupatinaya/img/logo.png",
+      "https://www.kathmandupati.com/wp-content/uploads/2025/09/Gif-for-kathmandupati.gif",
+      "https://www.kathmandupati.com/wp-content/uploads/2026/03/ain-mahar-1.jpg",
+      "https://www.kathmandupati.com/wp-content/uploads/2024/06/ktmpati.png",
+      "https://www.kathmandupati.com/wp-content/uploads/2024/09/latest.gif",
+      "https://www.kathmandupati.com/wp-content/uploads/2026/03/bara-parsa-150x150.jpg",
+      "https://www.kathmandupati.com/wp-content/uploads/2026/03/ain-mahar-1-150x150.jpg",
+      "https://www.kathmandupati.com/wp-content/uploads/2026/03/sulabh-kharel_XpLoAd16ix-150x150.jpg",
+      "https://www.kathmandupati.com/wp-content/uploads/2024/12/300-by-200-.gif"
+    ]
   }
 ]
