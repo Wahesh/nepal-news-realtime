@@ -50,6 +50,8 @@ import os
 # Example of loading a specific news file
 with open('path_to_file.json', 'r', encoding='utf-8') as f:
     news_data = json.load(f)
+
+
 License
 Code: MIT License
 
