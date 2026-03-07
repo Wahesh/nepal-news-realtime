@@ -1378,5 +1378,34 @@
       "https://www.drishtinews.com/wp-content/uploads/2024/10/Nepali-Patro-ads.gif",
       "https://www.drishtinews.com/wp-content/uploads/2025/12/Madhav-150x150.gif"
     ]
+  },
+  {
+    "url": "https://gorkhapatraonline.com/news/195308",
+    "title": "सर्लाही ४ मा अमरेश सिंह ४४ सय मतले अगाडि",
+    "pub_date": "2026-03-07 09:06:31",
+    "fetched_at": "2026-03-07T03:47:11.626009+00:00",
+    "portal": "Gorkhapatraonline",
+    "profiles_matched": [
+      "Election Monitoring"
+    ],
+    "keywords_matched": [
+      "निर्वाचन",
+      "रास्वपा",
+      "कांग्रेस"
+    ],
+    "snippet": "शेयर गर्नुहोस:\nफन्ट परिवर्तन गर्नुहोस:\nजनार्जन खत्री\nसर्लाही, फागुन २३ गते । सर्लाहीको क्षेत्र नं. ४ मा राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का डा. अमरेशकुमार सिंहले अग्रता थप बढाउँदै लैजानुभएको छ ।\nशनिबार बिहान ७ बजेको मतपरिणाम अनुसार सिंह नेपाली कांग्रेसका सभापति गगनकुमार थापाभन्दा चार हजार ४३१ मतले अगाडि हुनुहुन्छ । रास्वपाका सिंहले ११ हजार ३८३ मतसहित अग्रता लिँदा कांग्रेसका थापाले छ हजार ९५२ मत प्राप्त गर्नुभएको छ ।\nबिहीबार सम्पन्न प्रतिनिधि सभा सदस्य निर्वाचनअन्तर्गत सर्लाही ४ मा ७७ हजार ९३",
+    "content": "शेयर गर्नुहोस:\nफन्ट परिवर्तन गर्नुहोस:\nजनार्जन खत्री\nसर्लाही, फागुन २३ गते । सर्लाहीको क्षेत्र नं. ४ मा राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का डा. अमरेशकुमार सिंहले अग्रता थप बढाउँदै लैजानुभएको छ ।\nशनिबार बिहान ७ बजेको मतपरिणाम अनुसार सिंह नेपाली कांग्रेसका सभापति गगनकुमार थापाभन्दा चार हजार ४३१ मतले अगाडि हुनुहुन्छ । रास्वपाका सिंहले ११ हजार ३८३ मतसहित अग्रता लिँदा कांग्रेसका थापाले छ हजार ९५२ मत प्राप्त गर्नुभएको छ ।\nबिहीबार सम्पन्न प्रतिनिधि सभा सदस्य निर्वाचनअन्तर्गत सर्लाही ४ मा ७७ हजार ९३१ मत खसेको थियो । सर्लाही ४ बाट डा. अमरेशकुमार सिंह यसअघि लगातार तीन पटक निर्वाचित भइसक्नुभएको छ ।",
+    "images": [
+      "https://gorkhapatraonline.com/storage/media/311657/gp-logo-black.svg",
+      "https://gorkhapatraonline.com/storage/media/311657/gp-logo-black.svg",
+      "https://gorkhapatraonline.com/commons/header-icons/trn.png",
+      "https://gorkhapatraonline.com/commons/header-icons/muna.png",
+      "https://gorkhapatraonline.com/commons/header-icons/madhupark.png",
+      "https://gorkhapatraonline.com/commons/header-icons/yuba-manch.png",
+      "https://gorkhapatraonline.com/commons/header-icons/naya-nepal.png",
+      "https://gorkhapatraonline.com/storage/media/341916/Amaresh-sing(1).JPG",
+      "https://gorkhapatraonline.com/storage/media/146779/conversions/gopa-thumb.jpg",
+      "https://gorkhapatraonline.com/storage/media/146779/conversions/gopa-thumb.jpg"
+    ]
   }
 ]
