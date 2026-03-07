@@ -27,5 +27,23 @@
       "https://media.sobizcdn.com/arthadabali.com/media-file/images/2026/02/1770869354-cM694.jpg",
       "https://media.sobizcdn.com/arthadabali.com/media-file/images/2026/03/1772469612-WU9oL.jpg"
     ]
+  },
+  {
+    "url": "https://aarthiknews.com//news/117889/why-the-counting-of-votes-in-four/",
+    "title": "चार निर्वाचन क्षेत्रको मतगणना किन हुन सकेन ?",
+    "pub_date": "2026-03-07 10:58:23",
+    "fetched_at": "2026-03-07T05:31:38.849531+00:00",
+    "portal": "Aarthiknews",
+    "profiles_matched": [
+      "Election Monitoring"
+    ],
+    "keywords_matched": [
+      "निर्वाचन",
+      "निर्वाचन आयोग",
+      "मतगणना"
+    ],
+    "snippet": "[Error fetching: HTTPSConnectionPool(host='aarthiknews.com', port=443): Read timed out. (read timeout=15)]",
+    "content": "[Error fetching: HTTPSConnectionPool(host='aarthiknews.com', port=443): Read timed out. (read timeout=15)]",
+    "images": []
   }
 ]
