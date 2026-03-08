@@ -3464,5 +3464,21 @@
       "https://media.sobizcdn.com/arthadabali.com/media-file/images/2026/02/1770869354-cM694.jpg",
       "https://media.sobizcdn.com/arthadabali.com/media-file/images/2026/03/1772469612-WU9oL.jpg"
     ]
+  },
+  {
+    "url": "https://gorkhapatraonline.com/news/195553",
+    "title": "सुनसरी–१ मा हर्कराज राई विजयी: सडकदेखि सदनसम्मको यात्रा",
+    "pub_date": "2026-03-08 13:38:15",
+    "fetched_at": "2026-03-08T08:09:20.260418+00:00",
+    "portal": "Gorkhapatraonline",
+    "profiles_matched": [
+      "Election Monitoring"
+    ],
+    "keywords_matched": [
+      "निर्वाचन"
+    ],
+    "snippet": "[Error fetching: HTTPSConnectionPool(host='gorkhapatraonline.com', port=443): Read timed out. (read timeout=15)]",
+    "content": "[Error fetching: HTTPSConnectionPool(host='gorkhapatraonline.com', port=443): Read timed out. (read timeout=15)]",
+    "images": []
   }
 ]
