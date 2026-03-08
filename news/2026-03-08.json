@@ -169,5 +169,23 @@
       "https://bishwokhabar.com/wp-content/uploads/2026/03/rubina2.jpg",
       "https://bishwokhabar.com/wp-content/uploads/2026/02/oli-balen.png"
     ]
+  },
+  {
+    "url": "https://singhadurbarnews.com/2026/03/187278?npatro=1",
+    "title": "४५ लाख मत गणना हुँदा रास्वपा सबैभन्दा अगाडि, अन्य दल धेरै पछाडि",
+    "pub_date": "2026-03-08 18:07:03",
+    "fetched_at": "2026-03-08T12:30:48.206770+00:00",
+    "portal": "Singhadurbarnews",
+    "profiles_matched": [
+      "Election Monitoring"
+    ],
+    "keywords_matched": [
+      "निर्वाचन",
+      "रास्वपा",
+      "मतगणना"
+    ],
+    "snippet": "{\n\t\"message\": \"Access denied by Imunify360 bot-protection. IPs used for automation should be whitelisted\"\n}",
+    "content": "{\n\t\"message\": \"Access denied by Imunify360 bot-protection. IPs used for automation should be whitelisted\"\n}",
+    "images": []
   }
 ]
