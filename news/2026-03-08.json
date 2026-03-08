@@ -3235,5 +3235,17 @@
       "https://internal.appharu.com/wp-content/uploads/2025/11/naya-mobile.gif",
       "https://kendrabindu.com/wp-content/uploads/2026/01/Mobile_300X80-1.gif"
     ]
+  },
+  {
+    "url": "https://gorkhapatraonline.com/news/195557",
+    "title": "काठमाडौँमा प्रदूषण बढ्यो",
+    "pub_date": "2026-03-08 13:43:57",
+    "fetched_at": "2026-03-08T08:07:43.379274+00:00",
+    "portal": "Gorkhapatraonline",
+    "profiles_matched": [],
+    "keywords_matched": [],
+    "snippet": "[Error fetching: HTTPSConnectionPool(host='gorkhapatraonline.com', port=443): Read timed out. (read timeout=15)]",
+    "content": "[Error fetching: HTTPSConnectionPool(host='gorkhapatraonline.com', port=443): Read timed out. (read timeout=15)]",
+    "images": []
   }
 ]
