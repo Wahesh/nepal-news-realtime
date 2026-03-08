@@ -410,5 +410,33 @@
     "snippet": "[Error fetching: HTTPSConnectionPool(host='gorkhapatraonline.com', port=443): Read timed out. (read timeout=15)]",
     "content": "[Error fetching: HTTPSConnectionPool(host='gorkhapatraonline.com', port=443): Read timed out. (read timeout=15)]",
     "images": []
+  },
+  {
+    "url": "https://www.kathmandupati.com/news/nepali-congress-337/401489/",
+    "title": "यी हुन् कांग्रेसबाट अहिलेसम्म विजयी १५ उम्मेदवार",
+    "pub_date": "2026-03-08 07:25:51",
+    "fetched_at": "2026-03-08T02:39:25.568376+00:00",
+    "portal": "Kathmandupati",
+    "profiles_matched": [
+      "Election Monitoring"
+    ],
+    "keywords_matched": [
+      "निर्वाचन",
+      "कांग्रेस"
+    ],
+    "snippet": "काठमाण्डु – नेपाली कांग्रेसले अहिलेसम्म १५ वटा निर्वाचन क्षेत्रमा जीत हासिल गरेको छ ।\nयी हुन् कांग्रेसबाट अहिलेसम्म विजयी भएका १५ उम्मेदवारहरू\nरौतहट२– मो. फिरदोश आलम\nपाँचथर– नरेन्द्रकुमार केरुङ\nहुम्ला– जयपति रोकाय\nपाल्पा–१ सन्दिप राना\nसुर्खेत–१ विष्णुबहादुर खड्का\nकपिलवस्तु–३ अभिषेक प्रताप शाह\nअछाम–१ भरतकुमार स्वार\nजाजरकोट–खडकबहादुर बुढा\nडोटी–भरतबहादुर खड्का\nतेह्रथुम–सन्तोष सुब्बा\nदैलेख–१बासना थापा\nरसुवा–१ मोहन आचार्य\nमुस्ताङ–योगेश गौचन थकाली\nमनाङ–टेकबहादुर गुरुङ\nसोलुखुम्बु–प्रकाश सिंह कार्की\nप्र",
+    "content": "काठमाण्डु – नेपाली कांग्रेसले अहिलेसम्म १५ वटा निर्वाचन क्षेत्रमा जीत हासिल गरेको छ ।\nयी हुन् कांग्रेसबाट अहिलेसम्म विजयी भएका १५ उम्मेदवारहरू\nरौतहट२– मो. फिरदोश आलम\nपाँचथर– नरेन्द्रकुमार केरुङ\nहुम्ला– जयपति रोकाय\nपाल्पा–१ सन्दिप राना\nसुर्खेत–१ विष्णुबहादुर खड्का\nकपिलवस्तु–३ अभिषेक प्रताप शाह\nअछाम–१ भरतकुमार स्वार\nजाजरकोट–खडकबहादुर बुढा\nडोटी–भरतबहादुर खड्का\nतेह्रथुम–सन्तोष सुब्बा\nदैलेख–१बासना थापा\nरसुवा–१ मोहन आचार्य\nमुस्ताङ–योगेश गौचन थकाली\nमनाङ–टेकबहादुर गुरुङ\nसोलुखुम्बु–प्रकाश सिंह कार्की\nप्रतिक्रिया",
+    "images": [
+      "https://www.kathmandupati.com/wp-content/themes/kathmandupatinaya/img/logo.png",
+      "https://www.kathmandupati.com/wp-content/themes/kathmandupatinaya/img/logo.png",
+      "https://www.kathmandupati.com/wp-content/uploads/2025/09/Gif-for-kathmandupati.gif",
+      "https://www.kathmandupati.com/wp-content/uploads/2022/04/congress-nepali.jpg",
+      "https://www.kathmandupati.com/wp-content/uploads/2024/06/ktmpati.png",
+      "https://www.kathmandupati.com/wp-content/uploads/2024/09/latest.gif",
+      "https://www.kathmandupati.com/wp-content/uploads/2025/12/gaurishankar-karki-150x150.jpg",
+      "https://www.kathmandupati.com/wp-content/uploads/2026/03/prakash-1-150x150.jpg",
+      "https://www.kathmandupati.com/wp-content/uploads/2022/04/congress-nepali-150x150.jpg",
+      "https://www.kathmandupati.com/wp-content/uploads/2024/12/300-by-200-.gif"
+    ]
   }
 ]
