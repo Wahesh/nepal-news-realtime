@@ -340,5 +340,17 @@
       "https://ajakoartha.cdnsolution.net/media/news/ramesh-malla_PFNtHoxYJC.jpg",
       "https://ajakoartha.cdnsolution.net/media/news/oli-balen_pUHYcpdutZ.jpg"
     ]
+  },
+  {
+    "url": "https://gorkhapatraonline.com/news/195456",
+    "title": "मारुनी नाच संरक्षणमा मगर समुदाय",
+    "pub_date": "2026-03-08 07:29:38",
+    "fetched_at": "2026-03-08T02:23:41.573785+00:00",
+    "portal": "Gorkhapatraonline",
+    "profiles_matched": [],
+    "keywords_matched": [],
+    "snippet": "[Error fetching: HTTPSConnectionPool(host='gorkhapatraonline.com', port=443): Read timed out. (read timeout=15)]",
+    "content": "[Error fetching: HTTPSConnectionPool(host='gorkhapatraonline.com', port=443): Read timed out. (read timeout=15)]",
+    "images": []
   }
 ]
