@@ -1454,5 +1454,17 @@
     "snippet": "[Error fetching: 502 Server Error: Bad Gateway for url: https://gorkhapatraonline.com/news/195540]",
     "content": "[Error fetching: 502 Server Error: Bad Gateway for url: https://gorkhapatraonline.com/news/195540]",
     "images": []
+  },
+  {
+    "url": "https://aarthiknews.com//news/117956/the-national-economic-census-2082-will-continue/",
+    "title": "राष्ट्रिय आर्थिक गणना २०८२ मा निर्माण व्यवसायी महासंघको सहयोग रहने",
+    "pub_date": "2026-03-08 12:16:08",
+    "fetched_at": "2026-03-08T06:57:47.457639+00:00",
+    "portal": "Aarthiknews",
+    "profiles_matched": [],
+    "keywords_matched": [],
+    "snippet": "[Error fetching: HTTPSConnectionPool(host='aarthiknews.com', port=443): Read timed out. (read timeout=15)]",
+    "content": "[Error fetching: HTTPSConnectionPool(host='aarthiknews.com', port=443): Read timed out. (read timeout=15)]",
+    "images": []
   }
 ]
