@@ -1853,5 +1853,21 @@
       "https://www.drishtinews.com/wp-content/uploads/2024/10/Nepali-Patro-ads.gif",
       "https://www.drishtinews.com/wp-content/uploads/2026/02/rabi-lamichhane-150x150.jpg"
     ]
+  },
+  {
+    "url": "https://gorkhapatraonline.com/news/195545",
+    "title": "मकवानपुर १ मा स्वपाका प्रकाश गौतम विजयी",
+    "pub_date": "2026-03-08 12:49:55",
+    "fetched_at": "2026-03-08T07:15:09.978367+00:00",
+    "portal": "Gorkhapatraonline",
+    "profiles_matched": [
+      "Election Monitoring"
+    ],
+    "keywords_matched": [
+      "रास्वपा"
+    ],
+    "snippet": "[Error fetching: HTTPSConnectionPool(host='gorkhapatraonline.com', port=443): Read timed out. (read timeout=15)]",
+    "content": "[Error fetching: HTTPSConnectionPool(host='gorkhapatraonline.com', port=443): Read timed out. (read timeout=15)]",
+    "images": []
   }
 ]
