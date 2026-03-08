@@ -1830,5 +1830,28 @@
     "snippet": "[Error fetching: HTTPSConnectionPool(host='www.kathmandupati.com', port=443): Read timed out. (read timeout=15)]",
     "content": "[Error fetching: HTTPSConnectionPool(host='www.kathmandupati.com', port=443): Read timed out. (read timeout=15)]",
     "images": []
+  },
+  {
+    "url": "https://www.drishtinews.com/archives/445965",
+    "title": "जाँचबुझ आयोगले भन्यो- गल्ती गर्नेलाई कारबाही सिफारिस गरेका छाैं",
+    "pub_date": "2026-03-08 12:50:52",
+    "fetched_at": "2026-03-08T07:14:49.150234+00:00",
+    "portal": "Drishtinews",
+    "profiles_matched": [],
+    "keywords_matched": [],
+    "snippet": "काठमाडौं । जेनजी आन्दोलन सम्बन्धी घटना छानविन गर्न गठित जाँचबुझ आयोगले सरकारलाई प्रतिवेदन बुझाएको छ । गौरीबहादुर कार्कीको नेतृत्वमा गठित आयोगले आज सिंहदरबार पुगेर प्रधानमन्त्री सुशीला कार्कीलाई प्रतिवेदन बुझाएको हो ।\nछानबिन समितिका सदस्य विज्ञानराज शर्माले आफूले भदौ २३ र २४ गतेको घटनाको निचोडसहित प्रतिवेदन बुझाएको जानकारी दिए । उनले गल्ती गर्नेहरूलाई अभियोग प्रतिवेदनमा उल्लेख गरिएको बताए ।\n‘हामीले प्रतिवेदन सरकारलाई बुझाइसकेका छौँ। त्यो सरकारको सम्पत्ति भइसक्यो । अब के गर्नुपर्ने हो सरकारले गर्छ",
+    "content": "काठमाडौं । जेनजी आन्दोलन सम्बन्धी घटना छानविन गर्न गठित जाँचबुझ आयोगले सरकारलाई प्रतिवेदन बुझाएको छ । गौरीबहादुर कार्कीको नेतृत्वमा गठित आयोगले आज सिंहदरबार पुगेर प्रधानमन्त्री सुशीला कार्कीलाई प्रतिवेदन बुझाएको हो ।\nछानबिन समितिका सदस्य विज्ञानराज शर्माले आफूले भदौ २३ र २४ गतेको घटनाको निचोडसहित प्रतिवेदन बुझाएको जानकारी दिए । उनले गल्ती गर्नेहरूलाई अभियोग प्रतिवेदनमा उल्लेख गरिएको बताए ।\n‘हामीले प्रतिवेदन सरकारलाई बुझाइसकेका छौँ। त्यो सरकारको सम्पत्ति भइसक्यो । अब के गर्नुपर्ने हो सरकारले गर्छ । हामीले केहीलाई कारबाही सिफारिस गरेका छौँ । कति र कसलाई भन्न मैले मिल्दैन ।’\nउनले प्रतिवेदन करिब ८ देखि १० हजार पेजको रहेको बताए । तत्कालीन प्रधानमन्त्री केपी ओली र गृहमन्त्री रमेश लेखकमाथि फौजदारी अभियोगबारे उनले भने, ‘जसले गल्ती गरेको छ, उसलाई लगाइएको छ । त्यसमा कुनै दुई मत छैन ।’",
+    "images": [
+      "https://www.drishtinews.com/wp-content/themes/drishtinews/img/drishitinews.png",
+      "https://www.drishtinews.com/wp-content/themes/drishtinews/img/drishitinews.png",
+      "https://www.drishtinews.com/wp-content/uploads/2025/08/NIMB-AC.gif",
+      "https://www.drishtinews.com/wp-content/uploads/2024/01/Logo-icon.jpg",
+      "https://www.drishtinews.com/wp-content/uploads/2026/03/jachbuj-ayog.jpg",
+      "https://www.drishtinews.com/wp-content/uploads/2024/09/mbl.gif",
+      "https://www.drishtinews.com/wp-content/uploads/2020/09/1000x100-auto-loan-1.gif",
+      "https://www.drishtinews.com/wp-content/uploads/2024/10/Nepali-Patro-ads.gif",
+      "https://www.drishtinews.com/wp-content/uploads/2024/10/Nepali-Patro-ads.gif",
+      "https://www.drishtinews.com/wp-content/uploads/2026/02/rabi-lamichhane-150x150.jpg"
+    ]
   }
 ]
