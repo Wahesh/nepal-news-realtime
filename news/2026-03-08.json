@@ -398,5 +398,17 @@
       "https://www.pardafas.com/wp-content/uploads/2024/04/suhang-nembang-450x250.png",
       "https://www.pardafas.com/wp-content/uploads/2022/06/pardafas-logo.png"
     ]
+  },
+  {
+    "url": "https://gorkhapatraonline.com/news/195454",
+    "title": "दादुरा सङ्क्रमण बढेपछि तीन दिन विद्यालय बन्द",
+    "pub_date": "2026-03-08 07:26:18",
+    "fetched_at": "2026-03-08T02:39:21.301464+00:00",
+    "portal": "Gorkhapatraonline",
+    "profiles_matched": [],
+    "keywords_matched": [],
+    "snippet": "[Error fetching: HTTPSConnectionPool(host='gorkhapatraonline.com', port=443): Read timed out. (read timeout=15)]",
+    "content": "[Error fetching: HTTPSConnectionPool(host='gorkhapatraonline.com', port=443): Read timed out. (read timeout=15)]",
+    "images": []
   }
 ]
