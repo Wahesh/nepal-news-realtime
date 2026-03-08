@@ -1869,5 +1869,32 @@
     "snippet": "[Error fetching: HTTPSConnectionPool(host='gorkhapatraonline.com', port=443): Read timed out. (read timeout=15)]",
     "content": "[Error fetching: HTTPSConnectionPool(host='gorkhapatraonline.com', port=443): Read timed out. (read timeout=15)]",
     "images": []
+  },
+  {
+    "url": "https://arthadabali.com/2026/03/08/85368",
+    "title": "Rastriya Swatantra Party candidates elected in both constituencies of Kavre",
+    "pub_date": "2026-03-08 12:49:44",
+    "fetched_at": "2026-03-08T07:15:16.306356+00:00",
+    "portal": "Arthadabali",
+    "profiles_matched": [
+      "Election Monitoring"
+    ],
+    "keywords_matched": [
+      "Election"
+    ],
+    "snippet": "Kavrepalanchok / Under the House of Representatives election held on Thursday, candidates of the Rastriya Swatantra Party (RSP) have been elected in both constituencies of Kavrepalanchok district. From Kavrepalanchok-1, Madhu Kumar Chaulagai has won with 29,618 votes.\nHis closest competitor, Gunaraj Moktan of Nepali Congress, received 19,166 votes. Similarly, Dinanath Gautam of the Nepali Communist Party (NCP) received 14,184 votes while Amit Lama of the CPN (UML) got 13,814 votes. Likewise, fro",
+    "content": "Kavrepalanchok / Under the House of Representatives election held on Thursday, candidates of the Rastriya Swatantra Party (RSP) have been elected in both constituencies of Kavrepalanchok district. From Kavrepalanchok-1, Madhu Kumar Chaulagai has won with 29,618 votes.\nHis closest competitor, Gunaraj Moktan of Nepali Congress, received 19,166 votes. Similarly, Dinanath Gautam of the Nepali Communist Party (NCP) received 14,184 votes while Amit Lama of the CPN (UML) got 13,814 votes. Likewise, from Kavrepalanchok-2, RSP candidate Badan Kumar Bhandari was elected with a margin of 35,476 votes. Bhandari garnered 53,344 votes while his competitor, Madhu Prasad Acharya of Nepali Congress, received 17,868 votes. Similarly, in this area, Ashok Byanju of UML received 13,940 votes and Basundhara Humagain of NCP got 8,107 votes.",
+    "images": [
+      "https://media.sobizcdn.com/arthadabali.com/users_upload/1767247615_artha dabali mobile size 800x200.gif",
+      "https://arthadabali.com/online/assets/images/logo.png",
+      "https://arthadabali.com/online/assets/images/logo.png",
+      "https://media.sobizcdn.com/arthadabali.com/users_upload/1767247615_artha dabali 810x90.gif",
+      "https://arthadabali.com/online/assets/images/logo.png",
+      "https://media.sobizcdn.com/arthadabali.com/media-file/images/2026/03/1772698307-ij7RM.jpg",
+      "https://media.sobizcdn.com/arthadabali.com/media-file/images/2021/10/1634042771-HRMdu.jpg",
+      "https://media.sobizcdn.com/arthadabali.com/media-file/images/2022/11/1667544043-Wd42l.jpg",
+      "https://media.sobizcdn.com/arthadabali.com/media-file/images/2026/02/1770869354-cM694.jpg",
+      "https://media.sobizcdn.com/arthadabali.com/media-file/images/2026/03/1772469612-WU9oL.jpg"
+    ]
   }
 ]
