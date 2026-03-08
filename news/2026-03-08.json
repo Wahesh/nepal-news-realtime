@@ -1437,5 +1437,22 @@
       "https://pradeskhabar.cdnsolution.net/media/news/morang-2_I4i7JnI6Kr.jpg",
       "https://pradeskhabar.cdnsolution.net/uploads/2025/01/Bhim-Rawal-2.jpg"
     ]
+  },
+  {
+    "url": "https://gorkhapatraonline.com/news/195540",
+    "title": "धनुषा–१ को नतिजा आउँदै, विवाद सर्वोच्चमा",
+    "pub_date": "2026-03-08 12:24:46",
+    "fetched_at": "2026-03-08T06:57:26.978769+00:00",
+    "portal": "Gorkhapatraonline",
+    "profiles_matched": [
+      "Election Monitoring"
+    ],
+    "keywords_matched": [
+      "निर्वाचन",
+      "मतगणना"
+    ],
+    "snippet": "[Error fetching: 502 Server Error: Bad Gateway for url: https://gorkhapatraonline.com/news/195540]",
+    "content": "[Error fetching: 502 Server Error: Bad Gateway for url: https://gorkhapatraonline.com/news/195540]",
+    "images": []
   }
 ]
