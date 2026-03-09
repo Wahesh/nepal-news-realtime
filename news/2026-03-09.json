@@ -1539,5 +1539,17 @@
       "https://npcdn.ratopati.com/media/news/IeVzTeIjC4.jpg",
       "https://npcdn.ratopati.com/media/news/thS6pqp4fJ.jpg"
     ]
+  },
+  {
+    "url": "https://gorkhapatraonline.com/news/195663",
+    "title": "महिला नेतृत्वको उत्कृष्टता",
+    "pub_date": "2026-03-09 07:50:08",
+    "fetched_at": "2026-03-09T02:13:16.493309+00:00",
+    "portal": "Gorkhapatraonline",
+    "profiles_matched": [],
+    "keywords_matched": [],
+    "snippet": "[Error fetching: HTTPSConnectionPool(host='gorkhapatraonline.com', port=443): Read timed out. (read timeout=15)]",
+    "content": "[Error fetching: HTTPSConnectionPool(host='gorkhapatraonline.com', port=443): Read timed out. (read timeout=15)]",
+    "images": []
   }
 ]
