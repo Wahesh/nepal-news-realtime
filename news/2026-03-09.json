@@ -2396,5 +2396,21 @@
       "https://www.pardafas.com/wp-content/uploads/2026/03/laddu-450x250.jpg",
       "https://www.pardafas.com/wp-content/uploads/2022/06/pardafas-logo.png"
     ]
+  },
+  {
+    "url": "https://www.technologykhabar.com/2026/03/09/232883/",
+    "title": "‘म्यागासेसे’ पाएका पुनको संसद् यात्रा…",
+    "pub_date": "2026-03-09 12:57:50",
+    "fetched_at": "2026-03-09T07:31:13.480884+00:00",
+    "portal": "Technologykhabar",
+    "profiles_matched": [
+      "Election Monitoring"
+    ],
+    "keywords_matched": [
+      "चुनाव"
+    ],
+    "snippet": "[Error fetching: HTTPSConnectionPool(host='www.technologykhabar.com', port=443): Read timed out. (read timeout=15)]",
+    "content": "[Error fetching: HTTPSConnectionPool(host='www.technologykhabar.com', port=443): Read timed out. (read timeout=15)]",
+    "images": []
   }
 ]
