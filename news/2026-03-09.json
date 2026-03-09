@@ -2559,5 +2559,27 @@
       "https://nepalnews.com/wp-content/uploads/2025/08/Nepalnews.jpg",
       "https://nepalnews.com/wp-content/uploads/2025/09/rain_lkZd91cQwi.png"
     ]
+  },
+  {
+    "url": "https://bishwokhabar.com/archives/162970",
+    "title": "चैतको पहिलो सातामा देशले पाउने छ बालेन नेतृत्वको सरकार !",
+    "pub_date": "2026-03-09 08:43:59",
+    "fetched_at": "2026-03-09T04:11:47.634493+00:00",
+    "portal": "Bishwokhabar",
+    "profiles_matched": [
+      "Election Monitoring"
+    ],
+    "keywords_matched": [
+      "चुनाव",
+      "निर्वाचन",
+      "रास्वपा",
+      "कांग्रेस",
+      "राप्रपा",
+      "निर्वाचन आयोग",
+      "मतगणना"
+    ],
+    "snippet": "[Error fetching: HTTPSConnectionPool(host='bishwokhabar.com', port=443): Read timed out. (read timeout=15)]",
+    "content": "[Error fetching: HTTPSConnectionPool(host='bishwokhabar.com', port=443): Read timed out. (read timeout=15)]",
+    "images": []
   }
 ]
