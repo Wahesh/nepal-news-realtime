@@ -2417,5 +2417,32 @@
       "https://npcdn.ratopati.com/media/news/harka-sampang_8YwRlFIppn.png",
       "https://npcdn.ratopati.com/media/news/nishcal-rai_vw3IJL3QPz.jpg"
     ]
+  },
+  {
+    "url": "https://hamrakura.com/news-details/209293/2026-03-10",
+    "title": "समानुपातिकमा अब करिब पाँच लाख मत गन्न बाँकी",
+    "pub_date": "2026-03-10 11:49:12",
+    "fetched_at": "2026-03-10T06:14:01.135074+00:00",
+    "portal": "Hamrakura",
+    "profiles_matched": [
+      "Election Monitoring"
+    ],
+    "keywords_matched": [
+      "निर्वाचन",
+      "कांग्रेस",
+      "निर्वाचन आयोग",
+      "मतगणना"
+    ],
+    "snippet": "- सुन चाँदी दर\n- विनिमय दर\n- नेपाली पात्रो\n- राशिफल\nकाठमाडौँ । प्रतिनिधिसभा सदस्य निर्वाचनअन्तर्गत समानुपातिकतर्फ हालसम्म एक करोड चार लाख ३८ हजार ७५० मतगणना भएको छ । अब करिब पाँच लाख मत गन्न बाँकी छ ।\nनिर्वाचन आयोगका अनुसार राष्ट्रिय स्वतन्त्र पार्टीले ५० लाख ११ हजार ८९१, नेपाली कांग्रेसले १६ लाख ९४ हजार ८८४, नेकपा (एमाले) ले १४ लाख १२ हजार ८५३, नेपाली कम्युनिष्ट पार्टीले सात लाख ६७ हजार ९९९ र श्रम संस्कृति पार्टीले तीन लाख ५८ हजार ४६७ र राष्ट्रिय प्रजातन्त्र पार्टीले तीन लाख २५ हजार ३२४ मत प्रा",
+    "content": "- सुन चाँदी दर\n- विनिमय दर\n- नेपाली पात्रो\n- राशिफल\nकाठमाडौँ । प्रतिनिधिसभा सदस्य निर्वाचनअन्तर्गत समानुपातिकतर्फ हालसम्म एक करोड चार लाख ३८ हजार ७५० मतगणना भएको छ । अब करिब पाँच लाख मत गन्न बाँकी छ ।\nनिर्वाचन आयोगका अनुसार राष्ट्रिय स्वतन्त्र पार्टीले ५० लाख ११ हजार ८९१, नेपाली कांग्रेसले १६ लाख ९४ हजार ८८४, नेकपा (एमाले) ले १४ लाख १२ हजार ८५३, नेपाली कम्युनिष्ट पार्टीले सात लाख ६७ हजार ९९९ र श्रम संस्कृति पार्टीले तीन लाख ५८ हजार ४६७ र राष्ट्रिय प्रजातन्त्र पार्टीले तीन लाख २५ हजार ३२४ मत प्राप्त गरेका छन् ।",
+    "images": [
+      "https://hamrakura.com/uploads/config/frontend/hamrakura-logo.jpg",
+      "https://hamrakura.com/frontend/utility/icons/gold-silver.svg",
+      "https://hamrakura.com/frontend/utility/icons/money-exchange.svg",
+      "https://hamrakura.com/frontend/utility/icons/nepali-calender.svg",
+      "https://hamrakura.com/frontend/utility/icons/nepali-horoscope.svg",
+      "https://hamrakura.com/uploads/config/frontend/hamrakura-logo.jpg",
+      "https://certify.alexametrics.com/atrk.gif?account=LQmzp1IW1d10fn"
+    ]
   }
 ]
