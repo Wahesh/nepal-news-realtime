@@ -293,5 +293,17 @@
       "https://rpcdn.ratopati.com/media/albums/BHOJPUR-ELECTION_5bvHxkxfFE_HWkELzsZJX.jpg",
       "https://npcdn.ratopati.com/media/news/harka-sampang_8YwRlFIppn.png"
     ]
+  },
+  {
+    "url": "https://singhadurbarnews.com/2026/03/187366?npatro=1",
+    "title": "दार्चुलामा तुइनको साटो झोलुङ्गे पुल निर्माण गर्न देशव्यापी रूपमा श्रमदातालाई तयार रहन हर्क साम्पाङको आह्वान",
+    "pub_date": "2026-03-10 12:25:01",
+    "fetched_at": "2026-03-10T06:49:31.720448+00:00",
+    "portal": "Singhadurbarnews",
+    "profiles_matched": [],
+    "keywords_matched": [],
+    "snippet": "[Error fetching: HTTPSConnectionPool(host='singhadurbarnews.com', port=443): Read timed out. (read timeout=15)]",
+    "content": "[Error fetching: HTTPSConnectionPool(host='singhadurbarnews.com', port=443): Read timed out. (read timeout=15)]",
+    "images": []
   }
 ]
