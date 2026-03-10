@@ -2316,5 +2316,21 @@
       "https://www.onlinekhabar.com/wp-content/themes/onlinekhabar-2021/img/cat-icon-sports.png",
       "https://www.onlinekhabar.com/wp-content/themes/onlinekhabar-2021/img/cat-icon-opinion.png"
     ]
+  },
+  {
+    "url": "https://www.lokpath.com/story/874899/",
+    "title": "अब बन्ने रास्वपाको सरकारले स्वास्थ्य क्षेत्रमा सेवकको भुमिका निर्वाह गर्ने : तोसिमा कार्की",
+    "pub_date": "2026-03-10 17:12:21",
+    "fetched_at": "2026-03-10T12:45:25.379109+00:00",
+    "portal": "Lokpath",
+    "profiles_matched": [
+      "Election Monitoring"
+    ],
+    "keywords_matched": [
+      "रास्वपा"
+    ],
+    "snippet": "[Error fetching: HTTPSConnectionPool(host='www.lokpath.com', port=443): Read timed out. (read timeout=15)]",
+    "content": "[Error fetching: HTTPSConnectionPool(host='www.lokpath.com', port=443): Read timed out. (read timeout=15)]",
+    "images": []
   }
 ]
