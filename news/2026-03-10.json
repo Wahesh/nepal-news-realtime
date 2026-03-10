@@ -1283,5 +1283,22 @@
       "https://media.sobizcdn.com/arthadabali.com/media-file/images/2026/03/1772469612-WU9oL.jpg",
       "https://media.sobizcdn.com/arthadabali.com/media-file/images/2026/03/1772329502-GT2rj.jpg"
     ]
+  },
+  {
+    "url": "https://gorkhapatraonline.com/news/195862",
+    "title": "निर्वाचनको परिणाम चैतको पहिलो साता राष्ट्रपतिसमक्ष पेस गरिने",
+    "pub_date": "2026-03-10 17:00:11",
+    "fetched_at": "2026-03-10T11:25:10.119585+00:00",
+    "portal": "Gorkhapatraonline",
+    "profiles_matched": [
+      "Election Monitoring"
+    ],
+    "keywords_matched": [
+      "निर्वाचन",
+      "निर्वाचन आयोग"
+    ],
+    "snippet": "[Error fetching: HTTPSConnectionPool(host='gorkhapatraonline.com', port=443): Read timed out. (read timeout=15)]",
+    "content": "[Error fetching: HTTPSConnectionPool(host='gorkhapatraonline.com', port=443): Read timed out. (read timeout=15)]",
+    "images": []
   }
 ]
