@@ -2863,5 +2863,17 @@
       "https://bishwokhabar.com/wp-content/uploads/2026/03/gole.png",
       "https://bishwokhabar.com/wp-content/uploads/2026/02/gagan.png"
     ]
+  },
+  {
+    "url": "https://gorkhapatraonline.com/news/195810",
+    "title": "उपकरण र जनशक्ति अभावमा बडिगाड अस्पताल सञ्चालन कठिन",
+    "pub_date": "2026-03-10 12:03:04",
+    "fetched_at": "2026-03-10T06:31:23.192201+00:00",
+    "portal": "Gorkhapatraonline",
+    "profiles_matched": [],
+    "keywords_matched": [],
+    "snippet": "[Error fetching: HTTPSConnectionPool(host='gorkhapatraonline.com', port=443): Read timed out. (read timeout=15)]",
+    "content": "[Error fetching: HTTPSConnectionPool(host='gorkhapatraonline.com', port=443): Read timed out. (read timeout=15)]",
+    "images": []
   }
 ]
