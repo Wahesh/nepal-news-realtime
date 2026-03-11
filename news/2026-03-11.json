@@ -2088,5 +2088,17 @@
       "https://nepalkhabar.prixacdn.net/media/advertisements/800X200px_9_GfHu0GxeAZ.jpg",
       "https://nepalkhabar.prixacdn.net/media/albums/rabi-itahari-1_7rQIY83k3i.jpg"
     ]
+  },
+  {
+    "url": "https://gorkhapatraonline.com/news/195956",
+    "title": "अत्यावश्यक औषधीमा नेपाललाई आत्मनिर्भर बनाउनुपर्नेमा जोड",
+    "pub_date": "2026-03-11 12:09:16",
+    "fetched_at": "2026-03-11T06:30:30.820526+00:00",
+    "portal": "Gorkhapatraonline",
+    "profiles_matched": [],
+    "keywords_matched": [],
+    "snippet": "[Error fetching: HTTPSConnectionPool(host='gorkhapatraonline.com', port=443): Read timed out. (read timeout=15)]",
+    "content": "[Error fetching: HTTPSConnectionPool(host='gorkhapatraonline.com', port=443): Read timed out. (read timeout=15)]",
+    "images": []
   }
 ]
