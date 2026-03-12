@@ -2158,5 +2158,22 @@
       "https://www.kathmandupati.com/wp-content/uploads/2026/03/NROBD-1-150x150.jpeg",
       "https://www.kathmandupati.com/wp-content/uploads/2024/12/300-by-200-.gif"
     ]
+  },
+  {
+    "url": "https://www.drishtinews.com/archives/446581",
+    "title": "अस्थिरताको अन्त्य कि नयाँ परीक्षा ?",
+    "pub_date": "2026-03-12 21:07:53",
+    "fetched_at": "2026-03-12T15:26:59.050160+00:00",
+    "portal": "Drishtinews",
+    "profiles_matched": [
+      "Election Monitoring"
+    ],
+    "keywords_matched": [
+      "निर्वाचन",
+      "रास्वपा"
+    ],
+    "snippet": "[Error fetching: 404 Client Error: Not Found for url: https://www.drishtinews.com/archives/446581]",
+    "content": "[Error fetching: 404 Client Error: Not Found for url: https://www.drishtinews.com/archives/446581]",
+    "images": []
   }
 ]
