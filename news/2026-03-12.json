@@ -2477,5 +2477,17 @@
       "https://www.osnepal.com/uploads/posts/khadana-1773294246.png",
       "https://www.osnepal.com/uploads/posts/nrna-1773294133.jpg"
     ]
+  },
+  {
+    "url": "https://www.osnepal.com/detail/582797",
+    "title": "माघमा मुद्रास्फीति घटेर ३.२५ प्रतिशतमा सिमित",
+    "pub_date": "2026-03-12 11:29:58",
+    "fetched_at": "2026-03-12T07:13:26.526738+00:00",
+    "portal": "Osnepal",
+    "profiles_matched": [],
+    "keywords_matched": [],
+    "snippet": "[Error fetching: HTTPSConnectionPool(host='www.osnepal.com', port=443): Max retries exceeded with url: /detail/582797 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x107992490>: Failed to resolve 'www.osnepal.com' ([Errno 8] nodename nor servname provided, or not known)\"))]",
+    "content": "[Error fetching: HTTPSConnectionPool(host='www.osnepal.com', port=443): Max retries exceeded with url: /detail/582797 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x107992490>: Failed to resolve 'www.osnepal.com' ([Errno 8] nodename nor servname provided, or not known)\"))]",
+    "images": []
   }
 ]
