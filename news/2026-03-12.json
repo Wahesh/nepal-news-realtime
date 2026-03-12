@@ -464,5 +464,17 @@
       "https://ajakoartha.cdnsolution.net/media/news/dairy_93sokdh73q_DwDDxwHbO0.jpg",
       "https://ajakoartha.cdnsolution.net/media/news/473378881_637797852167533_8713181750771745251_n_qxu1rskvon.jpg"
     ]
+  },
+  {
+    "url": "https://aarthiknews.com//news/118166/arrested-on-charges-of-fraud-of-twenty/",
+    "title": "पच्चीस लाख ठगेको अभियोगमा पक्राउ",
+    "pub_date": "2026-03-12 10:52:43",
+    "fetched_at": "2026-03-12T05:37:46.009760+00:00",
+    "portal": "Aarthiknews",
+    "profiles_matched": [],
+    "keywords_matched": [],
+    "snippet": "[Error fetching: HTTPSConnectionPool(host='aarthiknews.com', port=443): Read timed out. (read timeout=15)]",
+    "content": "[Error fetching: HTTPSConnectionPool(host='aarthiknews.com', port=443): Read timed out. (read timeout=15)]",
+    "images": []
   }
 ]
