@@ -142,5 +142,17 @@
       "https://fdcdn.prixacdn.net/media/EVEREST_COLLEGE_1_25tgU4qzW3.gif",
       "https://fdcdn.prixacdn.net/media/albums/HRB_KTM_1000058110_27ROCKo4fA.jpg"
     ]
+  },
+  {
+    "url": "https://singhadurbarnews.com/2026/03/187412?npatro=1",
+    "title": "मकवानपुरमा प्रहरीमाथि आक्रमण, प्रतिकारमा गोली चल्दा एक घाइते",
+    "pub_date": "2026-03-12 08:52:35",
+    "fetched_at": "2026-03-12T03:15:09.702849+00:00",
+    "portal": "Singhadurbarnews",
+    "profiles_matched": [],
+    "keywords_matched": [],
+    "snippet": "[Error fetching: HTTPSConnectionPool(host='singhadurbarnews.com', port=443): Read timed out. (read timeout=15)]",
+    "content": "[Error fetching: HTTPSConnectionPool(host='singhadurbarnews.com', port=443): Read timed out. (read timeout=15)]",
+    "images": []
   }
 ]
