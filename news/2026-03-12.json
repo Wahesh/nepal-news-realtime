@@ -73,5 +73,21 @@
       "https://nepalkhabar.prixacdn.net/media/advertisements/800X200px_9_GfHu0GxeAZ.jpg",
       "https://nepalkhabar.prixacdn.net/media/albums/iranian-missile_AqIJPWHMpW.jpg"
     ]
+  },
+  {
+    "url": "https://np.ictframe.com/xiaomi-ultra-slim-redmi-note-15-5g-in-nepal/",
+    "title": "नेपालमा सार्वजनिक भयो रेडमी नोट १५ ५जी: १८०MP क्यामेरा र शक्तिशाली ब्याट्रीसहित यस्तो छ मूल्य",
+    "pub_date": "2026-03-12 05:42:11",
+    "fetched_at": "2026-03-12T00:14:06.556631+00:00",
+    "portal": "Np",
+    "profiles_matched": [
+      "Huawei Monitoring"
+    ],
+    "keywords_matched": [
+      "स्मार्ट"
+    ],
+    "snippet": "[Error fetching: HTTPSConnectionPool(host='np.ictframe.com', port=443): Read timed out. (read timeout=15)]",
+    "content": "[Error fetching: HTTPSConnectionPool(host='np.ictframe.com', port=443): Read timed out. (read timeout=15)]",
+    "images": []
   }
 ]
