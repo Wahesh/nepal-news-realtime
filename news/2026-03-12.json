@@ -1419,5 +1419,21 @@
       "https://gorkhapatraonline.com/storage/media/146779/conversions/gopa-thumb.jpg",
       "https://gorkhapatraonline.com/storage/media/146779/conversions/gopa-thumb.jpg"
     ]
+  },
+  {
+    "url": "https://np.ictframe.com/oppo-a6-launched-in-nepal/",
+    "title": "ओपो ए६ ५ वर्षको फ्लुएन्सी ग्यारेन्टी र IP69 रेटिङसहित नेपालमा उपलब्ध, अब पानीभित्र पनि फोटो खिच्न सकिने",
+    "pub_date": "2026-03-12 20:03:41",
+    "fetched_at": "2026-03-12T14:37:02.906461+00:00",
+    "portal": "Np",
+    "profiles_matched": [
+      "Huawei Monitoring"
+    ],
+    "keywords_matched": [
+      "स्मार्ट"
+    ],
+    "snippet": "[Error fetching: HTTPSConnectionPool(host='np.ictframe.com', port=443): Read timed out. (read timeout=15)]",
+    "content": "[Error fetching: HTTPSConnectionPool(host='np.ictframe.com', port=443): Read timed out. (read timeout=15)]",
+    "images": []
   }
 ]
