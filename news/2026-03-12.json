@@ -2079,5 +2079,22 @@
       "https://npcdn.ratopati.com/media/news/mundum_2MUBe52naH.png",
       "https://rpcdn.ratopati.com/media/albums/matgadana_QLMADztZzv.jpg"
     ]
+  },
+  {
+    "url": "https://gorkhapatraonline.com/news/196167",
+    "title": "निर्वाचन आयोग समानुपातिकले सिट सङ्ख्या टुङ्गाे लगायाे, कुन दललाई कति सिट ?",
+    "pub_date": "2026-03-12 20:37:56",
+    "fetched_at": "2026-03-12T15:10:59.035926+00:00",
+    "portal": "Gorkhapatraonline",
+    "profiles_matched": [
+      "Election Monitoring"
+    ],
+    "keywords_matched": [
+      "निर्वाचन",
+      "निर्वाचन आयोग"
+    ],
+    "snippet": "[Error fetching: HTTPSConnectionPool(host='gorkhapatraonline.com', port=443): Read timed out. (read timeout=15)]",
+    "content": "[Error fetching: HTTPSConnectionPool(host='gorkhapatraonline.com', port=443): Read timed out. (read timeout=15)]",
+    "images": []
   }
 ]
