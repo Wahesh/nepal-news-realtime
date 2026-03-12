@@ -38,5 +38,17 @@
       "https://nepalnews.com/wp-content/uploads/2025/08/Nepalnews.jpg",
       "http://localhost/nbt/wp-content/uploads/2023/08/WhatsApp-Image-2023-08-08-at-5.42.28-AM.jpeg"
     ]
+  },
+  {
+    "url": "https://singhadurbarnews.com/2026/03/187415?npatro=1",
+    "title": "रौतहटमा नीलगाईको आतंक : स्थानीय सरकारसँग हारगुहार",
+    "pub_date": "2026-03-12 08:55:24",
+    "fetched_at": "2026-03-12T03:14:34.201153+00:00",
+    "portal": "Singhadurbarnews",
+    "profiles_matched": [],
+    "keywords_matched": [],
+    "snippet": "[Error fetching: HTTPSConnectionPool(host='singhadurbarnews.com', port=443): Read timed out. (read timeout=15)]",
+    "content": "[Error fetching: HTTPSConnectionPool(host='singhadurbarnews.com', port=443): Read timed out. (read timeout=15)]",
+    "images": []
   }
 ]
