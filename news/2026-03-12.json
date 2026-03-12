@@ -255,5 +255,17 @@
       "https://internal.appharu.com/wp-content/uploads/2025/11/naya-mobile.gif",
       "https://kendrabindu.com/wp-content/uploads/2025/12/1140X90_1-1-1.gif"
     ]
+  },
+  {
+    "url": "https://singhadurbarnews.com/2026/03/187410?npatro=1",
+    "title": "यस्तो छ , आजको लागि विदेशी मुद्राको विनिमयदर",
+    "pub_date": "2026-03-12 08:49:46",
+    "fetched_at": "2026-03-12T03:15:45.212765+00:00",
+    "portal": "Singhadurbarnews",
+    "profiles_matched": [],
+    "keywords_matched": [],
+    "snippet": "[Error fetching: HTTPSConnectionPool(host='singhadurbarnews.com', port=443): Read timed out. (read timeout=15)]",
+    "content": "[Error fetching: HTTPSConnectionPool(host='singhadurbarnews.com', port=443): Read timed out. (read timeout=15)]",
+    "images": []
   }
 ]
