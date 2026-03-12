@@ -267,5 +267,32 @@
     "snippet": "[Error fetching: HTTPSConnectionPool(host='singhadurbarnews.com', port=443): Read timed out. (read timeout=15)]",
     "content": "[Error fetching: HTTPSConnectionPool(host='singhadurbarnews.com', port=443): Read timed out. (read timeout=15)]",
     "images": []
+  },
+  {
+    "url": "https://gorkhapatraonline.com/news/196069",
+    "title": "अध्यक्ष लामिछाने र वरिष्ठ नेता शाहलाई पाकिस्तानका प्रधानमन्त्रीको बधाई",
+    "pub_date": "2026-03-12 08:41:58",
+    "fetched_at": "2026-03-12T03:15:51.328538+00:00",
+    "portal": "Gorkhapatraonline",
+    "profiles_matched": [
+      "Election Monitoring"
+    ],
+    "keywords_matched": [
+      "निर्वाचन"
+    ],
+    "snippet": "शेयर गर्नुहोस:\nफन्ट परिवर्तन गर्नुहोस:\nकाठमाडौँ, फागुन २८ गते । पाकिस्तानका प्रधानमन्त्री शहबाज शरीफले राष्ट्रिय स्वतन्त्र पार्टीका अध्यक्ष रवि लामिछाने र वरिष्ठ नेता बालेन्द्र शाहलसहित उक्त पार्टीलाई हालैको आम निर्वाचनमा प्राप्त उल्लेखनीय सफलताका लागि बधाई ज्ञापन गर्नुभएको छ ।\nराष्ट्रिय स्वतन्त्र पार्टीका नेताद्वयलाई दिनुभएको बधाई सन्देशमा प्रधानमन्त्री शरीफले उक्त जनादेश नेपाली जनताले नयाँ तथा गतिशील नेतृत्वप्रति देखाएको विश्वासको प्रतिबिम्ब भएको उल्लेख गर्नुभएको छ ।\nसन्देशमा उहाँले पाकिस्तान ",
+    "content": "शेयर गर्नुहोस:\nफन्ट परिवर्तन गर्नुहोस:\nकाठमाडौँ, फागुन २८ गते । पाकिस्तानका प्रधानमन्त्री शहबाज शरीफले राष्ट्रिय स्वतन्त्र पार्टीका अध्यक्ष रवि लामिछाने र वरिष्ठ नेता बालेन्द्र शाहलसहित उक्त पार्टीलाई हालैको आम निर्वाचनमा प्राप्त उल्लेखनीय सफलताका लागि बधाई ज्ञापन गर्नुभएको छ ।\nराष्ट्रिय स्वतन्त्र पार्टीका नेताद्वयलाई दिनुभएको बधाई सन्देशमा प्रधानमन्त्री शरीफले उक्त जनादेश नेपाली जनताले नयाँ तथा गतिशील नेतृत्वप्रति देखाएको विश्वासको प्रतिबिम्ब भएको उल्लेख गर्नुभएको छ ।\nसन्देशमा उहाँले पाकिस्तान र नेपालबीचको ऐतिहासिक मित्रता र सहकार्यलाई अझ सुदृढ बनाउन नवनिर्वाचित नेपाल सरकारसँग नजिकबाट सहकार्य गर्न पाकिस्तान इच्छुक रहेको उल्लेख गर्नुभएको यहाँस्थित पाकिस्तानी राजदूतावासले जनाएको छ । रासस",
+    "images": [
+      "https://gorkhapatraonline.com/storage/media/311657/gp-logo-black.svg",
+      "https://gorkhapatraonline.com/storage/media/311657/gp-logo-black.svg",
+      "https://gorkhapatraonline.com/commons/header-icons/trn.png",
+      "https://gorkhapatraonline.com/commons/header-icons/muna.png",
+      "https://gorkhapatraonline.com/commons/header-icons/madhupark.png",
+      "https://gorkhapatraonline.com/commons/header-icons/yuba-manch.png",
+      "https://gorkhapatraonline.com/commons/header-icons/naya-nepal.png",
+      "https://gorkhapatraonline.com/storage/media/342961/Untitled-1.jpg",
+      "https://gorkhapatraonline.com/storage/media/146779/conversions/gopa-thumb.jpg",
+      "https://gorkhapatraonline.com/storage/media/146779/conversions/gopa-thumb.jpg"
+    ]
   }
 ]
