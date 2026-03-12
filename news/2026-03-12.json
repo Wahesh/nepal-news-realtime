@@ -1762,5 +1762,17 @@
       "https://gorkhapatraonline.com/storage/media/146779/conversions/gopa-thumb.jpg",
       "https://gorkhapatraonline.com/storage/media/146779/conversions/gopa-thumb.jpg"
     ]
+  },
+  {
+    "url": "https://singhadurbarnews.com/2026/03/187434?npatro=1",
+    "title": "माघमा मुद्रास्फीति घटेर ३.२५ प्रतिशतमा सिमित",
+    "pub_date": "2026-03-12 09:57:15",
+    "fetched_at": "2026-03-12T04:23:35.742722+00:00",
+    "portal": "Singhadurbarnews",
+    "profiles_matched": [],
+    "keywords_matched": [],
+    "snippet": "[Error fetching: HTTPSConnectionPool(host='singhadurbarnews.com', port=443): Read timed out. (read timeout=15)]",
+    "content": "[Error fetching: HTTPSConnectionPool(host='singhadurbarnews.com', port=443): Read timed out. (read timeout=15)]",
+    "images": []
   }
 ]
