@@ -981,5 +981,17 @@
       "https://singhadurbarnews.com/wp-content/uploads/2026/02/02-45-312x224.jpg",
       "https://singhadurbarnews.com/wp-content/uploads/2026/03/FB_IMG_1772973192675-312x224.jpg"
     ]
+  },
+  {
+    "url": "https://np.ictframe.com/dwit-job-fair-2082/",
+    "title": "डीडब्लु आइटी जब फेयर २०२६: विद्यार्थी र कम्पनी बीचको पुल",
+    "pub_date": "2026-03-14 20:46:40",
+    "fetched_at": "2026-03-14T15:16:23.329804+00:00",
+    "portal": "Np",
+    "profiles_matched": [],
+    "keywords_matched": [],
+    "snippet": "[Error fetching: HTTPSConnectionPool(host='np.ictframe.com', port=443): Read timed out. (read timeout=15)]",
+    "content": "[Error fetching: HTTPSConnectionPool(host='np.ictframe.com', port=443): Read timed out. (read timeout=15)]",
+    "images": []
   }
 ]
