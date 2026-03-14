@@ -1845,5 +1845,28 @@
       "https://hamrakura.com/uploads/config/frontend/hamrakura-logo.jpg",
       "https://certify.alexametrics.com/atrk.gif?account=LQmzp1IW1d10fn"
     ]
+  },
+  {
+    "url": "https://neplays.com/article/151794",
+    "title": "काठमाडौं पिंककेयरथन २०२६ काे सम्पूर्ण तयारी पूरा",
+    "pub_date": "2026-03-13 16:17:06",
+    "fetched_at": "2026-03-14T02:47:17.138377+00:00",
+    "portal": "Neplays",
+    "profiles_matched": [],
+    "keywords_matched": [],
+    "snippet": "Warning: Attempt to read property \"heading\" on null in /home/softwar3/neplays.com/news.php on line 196\nWarning: Attempt to read property \"sub_heading\" on null in /home/softwar3/neplays.com/news.php on line 199\nWarning: Attempt to read property \"image\" on null in /home/softwar3/neplays.com/news.php on line 222\n-\nWarning: Undefined variable $authors in /home/softwar3/neplays.com/news.php on line 296\nWarning: Attempt to read property \"name\" on null in /home/softwar3/neplays.com/news.php on line 296",
+    "content": "Warning: Attempt to read property \"heading\" on null in /home/softwar3/neplays.com/news.php on line 196\nWarning: Attempt to read property \"sub_heading\" on null in /home/softwar3/neplays.com/news.php on line 199\nWarning: Attempt to read property \"image\" on null in /home/softwar3/neplays.com/news.php on line 222\n-\nWarning: Undefined variable $authors in /home/softwar3/neplays.com/news.php on line 296\nWarning: Attempt to read property \"name\" on null in /home/softwar3/neplays.com/news.php on line 296\nDeprecated: substr(): Passing null to parameter #1 ($string) of type string is deprecated in /home/softwar3/neplays.com/news.php on line 296\nWarning: Undefined variable $authors in /home/softwar3/neplays.com/news.php on line 297\nWarning: Attempt to read property \"name\" on null in /home/softwar3/neplays.com/news.php on line 297\n- |\n-\nWarning: Attempt to read property \"article_date\" on null in /home/softwar3/neplays.com/news.php on line 304\nDeprecated: strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/softwar3/neplays.com/news.php on line 304\n२०२६-०९-१७ - |\n-\nWarning: Attempt to read property \"page_visit\" on null in /home/softwar3/neplays.com/news.php on line 310\nपटक हेरिएको\nWarning: Attempt to read property \"heilight\" on null in /home/softwar3/neplays.com/news.php on line 315\nWarning: Attempt to read property \"full_post\" on null in /home/softwar3/neplays.com/news.php on line 329\nWarning: Attempt to read property \"tag_id\" on null in /home/softwar3/neplays.com/news.php on line 337\n\" data-width=\"100%\" data-numposts=\"5\">",
+    "images": [
+      "https://neplays.com/img/new-logo.png",
+      "https://neplays.com/img/posts/IMG_20260313_192241.jpg",
+      "https://neplays.com/img/posts/Laliguras FC.jpg",
+      "https://neplays.com/img/posts/Arina.jpg",
+      "https://neplays.com/img/posts/IMG_20260313_174853.jpg",
+      "https://neplays.com/img/posts/FB_IMG_1773403052998.jpg",
+      "https://neplays.com/img/posts/MFC 2026.jpg",
+      "https://neplays.com/img/posts/IMG_20260313_161129.jpg",
+      "https://neplays.com/img/posts/IMG_20260313_155344.jpg",
+      "https://neplays.com/img/ads-img/ads-63401c290b7deads-61d4579d552abKelmi1.gif"
+    ]
   }
 ]
