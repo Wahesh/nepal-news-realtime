@@ -1562,5 +1562,17 @@
       "https://neplays.com/img/posts/IMG_20260313_155006.jpg",
       "https://neplays.com/img/ads-img/ads-63401c290b7deads-61d4579d552abKelmi1.gif"
     ]
+  },
+  {
+    "url": "https://np.ictframe.com/ace-money-win-tata-tiago-ev/",
+    "title": "ACE Money Transfer Win a TATA Tiago EV: आईएमईसँगको सहकार्यमा जित्नुहोस् टाटा टियागो ईभी",
+    "pub_date": "2026-03-13 20:45:28",
+    "fetched_at": "2026-03-14T02:45:58.915530+00:00",
+    "portal": "Np",
+    "profiles_matched": [],
+    "keywords_matched": [],
+    "snippet": "[Error fetching: HTTPSConnectionPool(host='np.ictframe.com', port=443): Read timed out. (read timeout=15)]",
+    "content": "[Error fetching: HTTPSConnectionPool(host='np.ictframe.com', port=443): Read timed out. (read timeout=15)]",
+    "images": []
   }
 ]
