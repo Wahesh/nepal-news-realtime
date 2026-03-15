@@ -3336,5 +3336,21 @@
       "https://www.pardafas.com/wp-content/uploads/2026/03/Revenue-collection-2025-450x250.jpg",
       "https://www.pardafas.com/wp-content/uploads/2022/06/pardafas-logo.png"
     ]
+  },
+  {
+    "url": "https://np.ictframe.com/nepal-medical-association-election-2026/",
+    "title": "चिकित्सक संघको निर्वाचनका लागि आन्तरिक छलफल, चाँडै मिति घोषणा गरिने",
+    "pub_date": "2026-03-15 13:41:51",
+    "fetched_at": "2026-03-15T08:58:05.316199+00:00",
+    "portal": "Np",
+    "profiles_matched": [
+      "Election Monitoring"
+    ],
+    "keywords_matched": [
+      "निर्वाचन"
+    ],
+    "snippet": "[Error fetching: HTTPSConnectionPool(host='np.ictframe.com', port=443): Read timed out. (read timeout=15)]",
+    "content": "[Error fetching: HTTPSConnectionPool(host='np.ictframe.com', port=443): Read timed out. (read timeout=15)]",
+    "images": []
   }
 ]
