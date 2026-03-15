@@ -304,5 +304,17 @@
       "https://ictsamacharcdn.prixacdn.net/media/albums/adb_y5xctM2B9O_3Zw2FF3I8L.PNG",
       "https://ictsamacharcdn.prixacdn.net/static/assets/image/logo.png"
     ]
+  },
+  {
+    "url": "https://np.ictframe.com/aamir-khan-turns-61/",
+    "title": "‘मिस्टर परफेक्सनिस्ट’ आमिर खान ६१ वर्षमा प्रवेशः यी ६ फिल्म जसले उनलाई सुपरस्टार बनाए",
+    "pub_date": "2026-03-15 11:30:10",
+    "fetched_at": "2026-03-15T15:03:02.646594+00:00",
+    "portal": "Np",
+    "profiles_matched": [],
+    "keywords_matched": [],
+    "snippet": "[Error fetching: HTTPSConnectionPool(host='np.ictframe.com', port=443): Read timed out. (read timeout=15)]",
+    "content": "[Error fetching: HTTPSConnectionPool(host='np.ictframe.com', port=443): Read timed out. (read timeout=15)]",
+    "images": []
   }
 ]
