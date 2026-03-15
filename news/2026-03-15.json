@@ -3352,5 +3352,23 @@
     "snippet": "[Error fetching: HTTPSConnectionPool(host='np.ictframe.com', port=443): Read timed out. (read timeout=15)]",
     "content": "[Error fetching: HTTPSConnectionPool(host='np.ictframe.com', port=443): Read timed out. (read timeout=15)]",
     "images": []
+  },
+  {
+    "url": "https://pradeskhabar.com/archives/117412",
+    "title": "रास्वपाले समानुपातिकका ५७ सांसदको नाम टुंग्यायो",
+    "pub_date": "2026-03-15 13:40:00",
+    "fetched_at": "2026-03-15T09:13:11.446166+00:00",
+    "portal": "Pradeskhabar",
+    "profiles_matched": [
+      "Election Monitoring"
+    ],
+    "keywords_matched": [
+      "निर्वाचन",
+      "रास्वपा",
+      "निर्वाचन आयोग"
+    ],
+    "snippet": "[Error fetching: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))]",
+    "content": "[Error fetching: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))]",
+    "images": []
   }
 ]
