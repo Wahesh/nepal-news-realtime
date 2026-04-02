@@ -855,5 +855,17 @@
       "https://gorkhapatraonline.com/storage/media/146779/conversions/gopa-thumb.jpg",
       "https://gorkhapatraonline.com/storage/media/146779/conversions/gopa-thumb.jpg"
     ]
+  },
+  {
+    "url": "https://np.ictframe.com/bajaj-qr-campaign-luck/",
+    "title": "बजाजको क्यूआर क्याम्पेन, भाग्य चम्काउन एक स्क्यान",
+    "pub_date": "2026-04-02 21:25:10",
+    "fetched_at": "2026-04-02T16:11:10.425384+00:00",
+    "portal": "Np",
+    "profiles_matched": [],
+    "keywords_matched": [],
+    "snippet": "[Error fetching: HTTPSConnectionPool(host='np.ictframe.com', port=443): Read timed out. (read timeout=15)]",
+    "content": "[Error fetching: HTTPSConnectionPool(host='np.ictframe.com', port=443): Read timed out. (read timeout=15)]",
+    "images": []
   }
 ]
