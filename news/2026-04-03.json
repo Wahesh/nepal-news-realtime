@@ -828,5 +828,17 @@
       "https://nepalkhabar.prixacdn.net/media/advertisements/800X200px_10_ILuNUuDTft.jpg",
       "https://nepalkhabar.prixacdn.net/media/albums/MIdea_err65vDpuH.jpg"
     ]
+  },
+  {
+    "url": "https://www.drishtinews.com/archives/450048",
+    "title": "संवैधानिक इजलासका ८ वर्ष पुराना मुद्दा ३ महिनाभित्रै टुङ्ग्याइने, नयाँ पोर्टल सार्वजनिक",
+    "pub_date": "2026-04-03 12:03:15",
+    "fetched_at": "2026-04-03T06:23:29.994530+00:00",
+    "portal": "Drishtinews",
+    "profiles_matched": [],
+    "keywords_matched": [],
+    "snippet": "[Error fetching: HTTPSConnectionPool(host='www.drishtinews.com', port=443): Read timed out. (read timeout=15)]",
+    "content": "[Error fetching: HTTPSConnectionPool(host='www.drishtinews.com', port=443): Read timed out. (read timeout=15)]",
+    "images": []
   }
 ]
