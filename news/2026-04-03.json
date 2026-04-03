@@ -2283,5 +2283,17 @@
       "https://www.makalukhabar.com/wp-content/uploads/2021/03/national-life-makalu-khabar.gif",
       "https://www.makalukhabar.com/wp-content/uploads/2021/03/national-life-makalu-khabar.gif"
     ]
+  },
+  {
+    "url": "https://singhadurbarnews.com/2026/04/189043?npatro=1",
+    "title": "जेनजी घाइते भेट्न गृहमन्त्री गुरुङ पुगे केएमसी अस्पताल",
+    "pub_date": "2026-04-03 10:45:14",
+    "fetched_at": "2026-04-03T05:16:12.625693+00:00",
+    "portal": "Singhadurbarnews",
+    "profiles_matched": [],
+    "keywords_matched": [],
+    "snippet": "[Error fetching: HTTPSConnectionPool(host='singhadurbarnews.com', port=443): Read timed out. (read timeout=15)]",
+    "content": "[Error fetching: HTTPSConnectionPool(host='singhadurbarnews.com', port=443): Read timed out. (read timeout=15)]",
+    "images": []
   }
 ]
