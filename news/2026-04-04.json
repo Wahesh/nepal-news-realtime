@@ -481,5 +481,17 @@
       "https://neplays.com/img/posts/APF W.jpg",
       "https://neplays.com/img/ads-img/ads-63401c290b7deads-61d4579d552abKelmi1.gif"
     ]
+  },
+  {
+    "url": "https://singhadurbarnews.com/2026/04/189156?npatro=1",
+    "title": "हेटौँडामा सडक विस्तारले प्रभावित व्यापारीलाई राहत दिन मुख्यमन्त्री बानियाँको आग्रह",
+    "pub_date": "2026-04-04 22:17:01",
+    "fetched_at": "2026-04-04T17:05:07.478096+00:00",
+    "portal": "Singhadurbarnews",
+    "profiles_matched": [],
+    "keywords_matched": [],
+    "snippet": "[Error fetching: HTTPSConnectionPool(host='singhadurbarnews.com', port=443): Read timed out. (read timeout=15)]",
+    "content": "[Error fetching: HTTPSConnectionPool(host='singhadurbarnews.com', port=443): Read timed out. (read timeout=15)]",
+    "images": []
   }
 ]
