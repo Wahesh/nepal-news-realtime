@@ -1856,5 +1856,17 @@
       "https://nepalkhabar.prixacdn.net/media/advertisements/800X200px_10_ILuNUuDTft.jpg",
       "https://nepalkhabar.prixacdn.net/media/albums/Gharpariyar_vallyball_c2OakeZPdr.jpg"
     ]
+  },
+  {
+    "url": "https://singhadurbarnews.com/2026/04/189152?npatro=1",
+    "title": "निलम्बित कर्मचारी प्रमुख प्रशासकीय अधिकृतमा सरुवा",
+    "pub_date": "2026-04-05 05:00:45",
+    "fetched_at": "2026-04-04T23:43:42.125158+00:00",
+    "portal": "Singhadurbarnews",
+    "profiles_matched": [],
+    "keywords_matched": [],
+    "snippet": "[Error fetching: HTTPSConnectionPool(host='singhadurbarnews.com', port=443): Read timed out. (read timeout=15)]",
+    "content": "[Error fetching: HTTPSConnectionPool(host='singhadurbarnews.com', port=443): Read timed out. (read timeout=15)]",
+    "images": []
   }
 ]
