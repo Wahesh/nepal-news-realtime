@@ -2628,5 +2628,17 @@
       "https://media.sobizcdn.com/arthadabali.com/media-file/images/2021/03/1616753791-cQjng.jpg",
       "https://arthadabali.com/online/assets/images/logo.png"
     ]
+  },
+  {
+    "url": "https://aarthiknews.com//news/119335/oli-and-the-writer-s-arrest-writ-will/",
+    "title": "ओली र लेखकको बन्दीप्रत्यक्षीकरण रिटमा आज सुनुवाइ हुने",
+    "pub_date": "2026-04-05 08:19:48",
+    "fetched_at": "2026-04-05T03:24:25.374535+00:00",
+    "portal": "Aarthiknews",
+    "profiles_matched": [],
+    "keywords_matched": [],
+    "snippet": "[Error fetching: HTTPSConnectionPool(host='aarthiknews.com', port=443): Read timed out. (read timeout=15)]",
+    "content": "[Error fetching: HTTPSConnectionPool(host='aarthiknews.com', port=443): Read timed out. (read timeout=15)]",
+    "images": []
   }
 ]
