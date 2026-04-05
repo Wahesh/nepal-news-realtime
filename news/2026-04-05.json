@@ -2524,5 +2524,17 @@
       "https://gorkhapatraonline.com/storage/media/146779/conversions/gopa-thumb.jpg",
       "https://gorkhapatraonline.com/storage/media/146779/conversions/gopa-thumb.jpg"
     ]
+  },
+  {
+    "url": "https://np.ictframe.com/rajasthan-beats-gujarat-ipl-2026/",
+    "title": "आइपिएल : राजस्थानसँग गुजरात ६ रनले पराजित",
+    "pub_date": "2026-04-05 08:28:30",
+    "fetched_at": "2026-04-05T02:53:04.694654+00:00",
+    "portal": "Np",
+    "profiles_matched": [],
+    "keywords_matched": [],
+    "snippet": "[Error fetching: HTTPSConnectionPool(host='np.ictframe.com', port=443): Read timed out. (read timeout=15)]",
+    "content": "[Error fetching: HTTPSConnectionPool(host='np.ictframe.com', port=443): Read timed out. (read timeout=15)]",
+    "images": []
   }
 ]
