@@ -516,5 +516,28 @@
     "snippet": "[Error fetching: HTTPSConnectionPool(host='np.ictframe.com', port=443): Read timed out. (read timeout=15)]",
     "content": "[Error fetching: HTTPSConnectionPool(host='np.ictframe.com', port=443): Read timed out. (read timeout=15)]",
     "images": []
+  },
+  {
+    "url": "https://www.onlinekhabar.com/2026/04/1905051/how-is-the-weather-today-2",
+    "title": "कस्तो छ आजको मौसम ?",
+    "pub_date": "2026-04-05 06:29:35",
+    "fetched_at": "2026-04-05T02:00:34.321428+00:00",
+    "portal": "Onlinekhabar",
+    "profiles_matched": [],
+    "keywords_matched": [],
+    "snippet": "२२ चैत, काठमाडौं । हाल नेपालमा पश्चिमी न्यूनचापीय प्रणाली र स्थानीय वायुको प्रभाव रहेको छ ।\nहाल देशभर साधारणतया बादल लागेको छ । कोशी, गण्डकी र कर्णाली प्रदेशका पहाडी र हिमाली भूभागका एकदुई स्थानमा हल्का वर्षा र हिमपात भइरहेको जल तथा मौसम विज्ञान विभाग, मौसम पूर्वानुमान महाशाखाले जनाएको छ ।\nमहाशाखाका अनुसार आज दिउँसो देशका हिमाली र पहाडी भूभागमा साधारणतया बादल लाग्ने तथा बाँकी भूभागमा आंशिक बादल लाग्नेछ ।\nदेशका पहाडी तथा हिमाली भूभागका केही स्थानमा मेघगर्जन र चट्याङ/असिना/हुरीबताससहित मध्यम वर्षा",
+    "content": "२२ चैत, काठमाडौं । हाल नेपालमा पश्चिमी न्यूनचापीय प्रणाली र स्थानीय वायुको प्रभाव रहेको छ ।\nहाल देशभर साधारणतया बादल लागेको छ । कोशी, गण्डकी र कर्णाली प्रदेशका पहाडी र हिमाली भूभागका एकदुई स्थानमा हल्का वर्षा र हिमपात भइरहेको जल तथा मौसम विज्ञान विभाग, मौसम पूर्वानुमान महाशाखाले जनाएको छ ।\nमहाशाखाका अनुसार आज दिउँसो देशका हिमाली र पहाडी भूभागमा साधारणतया बादल लाग्ने तथा बाँकी भूभागमा आंशिक बादल लाग्नेछ ।\nदेशका पहाडी तथा हिमाली भूभागका केही स्थानमा मेघगर्जन र चट्याङ/असिना/हुरीबताससहित मध्यम वर्षा र हिमपात तथा लुम्बिनी र सुदुरपश्चिम प्रदेशका तराई भूभागका थोरै स्थान तथा बाँकी तराई भूभागका एकदुई स्थानमा मेघगर्जन/चट्याङसहित हल्का वर्षा र हिमपातको सम्भावना रहेको छ ।\nमधेश र कोशी, बागमती र गण्डकी प्रदेशका तराई भूभागका केही स्थानहरूमा हुरीबतासको समेत सम्भावना छ ।\nत्यसैगरी, आज राति देशका हिमाली भूभागमा साधारणतया बादल लाग्नेछ । पहाडी भूभागमा आंशिक बादल लाग्नेछ तथा तराई भूभागमा मौसम मुख्यतया सफा रहने छ ।\nकोशी, गण्डकी, कर्णाली प्रदेशका हिमाली भूभागका थोरै स्थान तथा बागमती, लुम्बिनी र सुदूरपश्चिम प्रदेशको हिमाली भूभाग, कोशी र गण्डकी प्रदेशको पहाडी भूभागका एकदुई स्थानमा मेघगर्जन/चट्याङसहित हल्का वर्षा र हिमपातको सम्भावना रहेको छ ।\nमधेश र कोशी प्रदेशका तराई भूभागका केही स्थानमा हुरीबतासको पनि सम्भावना रहेको महाशाखाले जनाएको छ ।\nप्रतिक्रिया 4",
+    "images": [
+      "https://www.onlinekhabar.com/wp-content/themes/onlinekhabar-2021/img/ok-icon.png",
+      "https://www.onlinekhabar.com/wp-content/themes/onlinekhabar-2021/img/cat-icon-news.png",
+      "https://www.onlinekhabar.com/wp-content/themes/onlinekhabar-2021/img/cat-icon-business.png",
+      "https://www.onlinekhabar.com/wp-content/themes/onlinekhabar-2021/img/cat-icon-markets.png",
+      "https://www.onlinekhabar.com/wp-content/themes/onlinekhabar-2021/img/cat-icon-health.png",
+      "https://www.onlinekhabar.com/wp-content/themes/onlinekhabar-2021/img/cat-icon-lifestyle.png",
+      "https://www.onlinekhabar.com/wp-content/themes/onlinekhabar-2021/img/cat-icon-movie.png",
+      "https://www.onlinekhabar.com/wp-content/themes/onlinekhabar-2021/img/cat-icon-calendar.png",
+      "https://www.onlinekhabar.com/wp-content/themes/onlinekhabar-2021/img/cat-icon-sports.png",
+      "https://www.onlinekhabar.com/wp-content/themes/onlinekhabar-2021/img/cat-icon-opinion.png"
+    ]
   }
 ]
