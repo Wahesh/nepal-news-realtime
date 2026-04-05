@@ -2536,5 +2536,28 @@
     "snippet": "[Error fetching: HTTPSConnectionPool(host='np.ictframe.com', port=443): Read timed out. (read timeout=15)]",
     "content": "[Error fetching: HTTPSConnectionPool(host='np.ictframe.com', port=443): Read timed out. (read timeout=15)]",
     "images": []
+  },
+  {
+    "url": "https://arthasarokar.com/2026/04/action-minister-sudan-gurung-says-security-personnel-were-handcuffed-for-36-years.html",
+    "title": "‘एक्सन मन्त्री’ सुदन गुरुङले भने- ‘३६ वर्षसम्म हतकडी सुरक्षाकर्मीलाई लगाइएको रहेछ’",
+    "pub_date": "2026-04-05 08:28:23",
+    "fetched_at": "2026-04-05T02:53:11.134009+00:00",
+    "portal": "Arthasarokar",
+    "profiles_matched": [],
+    "keywords_matched": [],
+    "snippet": "काठमाडौँ । गृहमन्त्री सुदन गुरुङले नेपालमा हालसम्म सुरक्षाकर्मीलाई नै हतकडी लगाइएको भन्दै सामाजिक सञ्जालमा पोष्ट गरेका छन् । आइतबार बिहानै उनले फेसबुकमा यस्तो पोष्ट गरेका हुन् ।\n‘३६ वर्षसम्म हतकडी सुरक्षाकर्मीलाई लगाइदिएको रहेछ ।’, गृहमन्त्री गुरुङले फेसबुकमा लेखेका छन् ।\nगृहमन्त्री गुरुङको उक्त पोष्टको आशय सुरक्षाकर्मीहरुलाई विगतमा सरकारी पावरको वरिपरि राखेर काम गर्न नदिएको भन्ने आशय रहेको विश्लेषकहरुको भनाई छ । उक्त पोष्टले गुरुङले उक्त जालो तोड्न खोजेको संकेत गर्ने आंकलन गरिएको छ ।\nगृहमन्त्री",
+    "content": "काठमाडौँ । गृहमन्त्री सुदन गुरुङले नेपालमा हालसम्म सुरक्षाकर्मीलाई नै हतकडी लगाइएको भन्दै सामाजिक सञ्जालमा पोष्ट गरेका छन् । आइतबार बिहानै उनले फेसबुकमा यस्तो पोष्ट गरेका हुन् ।\n‘३६ वर्षसम्म हतकडी सुरक्षाकर्मीलाई लगाइदिएको रहेछ ।’, गृहमन्त्री गुरुङले फेसबुकमा लेखेका छन् ।\nगृहमन्त्री गुरुङको उक्त पोष्टको आशय सुरक्षाकर्मीहरुलाई विगतमा सरकारी पावरको वरिपरि राखेर काम गर्न नदिएको भन्ने आशय रहेको विश्लेषकहरुको भनाई छ । उक्त पोष्टले गुरुङले उक्त जालो तोड्न खोजेको संकेत गर्ने आंकलन गरिएको छ ।\nगृहमन्त्रीको जिम्मेवारी सम्हालेलगत्तै सक्रिय गुरुङ ‘एक्सन मन्त्री’का रुपमा चिनिन्छन् ।\nप्रतिक्रिया दिनुहोस्",
+    "images": [
+      "https://media.arthasarokar.com/uploads/2026/03/sudan-gurung-2.jpg",
+      "https://media.arthasarokar.com/uploads/2026/03/America-Israel-Iran-Conflict.jpg",
+      "https://media.arthasarokar.com/uploads/2026/04/kumari.jpg",
+      "https://media.arthasarokar.com/uploads/2024/07/Pakrau-3.jpg",
+      "https://media.arthasarokar.com/uploads/2026/03/war.jpg",
+      "https://media.arthasarokar.com/uploads/2025/06/Pakrau-1.jpg",
+      "https://media.arthasarokar.com/uploads/2024/07/pakrau-final.jpg",
+      "https://media.arthasarokar.com/uploads/2024/09/sarbochcha-adalat.jpg",
+      "https://media.arthasarokar.com/uploads/2025/12/video-camera-1.png",
+      "https://media.arthasarokar.com/uploads/2025/12/banker-1.png"
+    ]
   }
 ]
