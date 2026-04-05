@@ -677,5 +677,17 @@
       "https://sahityapost.com/wp-content/uploads/2023/12/1000x100.gif",
       "https://sahityapost.com/wp-content/uploads/2023/03/fonepay_payments_fatafat.png"
     ]
+  },
+  {
+    "url": "https://np.ictframe.com/global-coding-winners-in-kathmandu/",
+    "title": "अन्तर्राष्ट्रिय कोडिङ प्रतिस्पर्धामा नेपाली विद्यार्थीको विश्वव्यापी सफलता: दूरशिक्षाद्वारा पुरस्कार वितरण",
+    "pub_date": "2026-04-05 06:00:08",
+    "fetched_at": "2026-04-05T02:01:27.959443+00:00",
+    "portal": "Np",
+    "profiles_matched": [],
+    "keywords_matched": [],
+    "snippet": "[Error fetching: HTTPSConnectionPool(host='np.ictframe.com', port=443): Read timed out. (read timeout=15)]",
+    "content": "[Error fetching: HTTPSConnectionPool(host='np.ictframe.com', port=443): Read timed out. (read timeout=15)]",
+    "images": []
   }
 ]
