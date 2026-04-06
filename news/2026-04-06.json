@@ -1967,5 +1967,17 @@
       "https://ajakoartha.cdnsolution.net/media/news/e68f2807-6a79-475a-bf1a-094754a54750_FclfJpsTQZ.jpg",
       "https://ajakoartha.cdnsolution.net/media/news/fncci-news_fim7I7MPgj.png"
     ]
+  },
+  {
+    "url": "https://farakdhar.com/story/165004",
+    "title": "सांसदले आकस्मिक समयमा तत्कालै बोल्न पाउनुपर्छ : अर्जुननरसिंह केसी",
+    "pub_date": "2026-04-06 14:10:41",
+    "fetched_at": "2026-04-06T08:34:34.326806+00:00",
+    "portal": "Farakdhar",
+    "profiles_matched": [],
+    "keywords_matched": [],
+    "snippet": "[Error fetching: HTTPSConnectionPool(host='farakdhar.com', port=443): Read timed out. (read timeout=15)]",
+    "content": "[Error fetching: HTTPSConnectionPool(host='farakdhar.com', port=443): Read timed out. (read timeout=15)]",
+    "images": []
   }
 ]
