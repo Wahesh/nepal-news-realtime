@@ -1832,5 +1832,28 @@
     "snippet": "[Error fetching: HTTPSConnectionPool(host='singhadurbarnews.com', port=443): Read timed out. (read timeout=15)]",
     "content": "[Error fetching: HTTPSConnectionPool(host='singhadurbarnews.com', port=443): Read timed out. (read timeout=15)]",
     "images": []
+  },
+  {
+    "url": "https://www.osnepal.com/detail/583784",
+    "title": "अबदेखि शुक्रबार पनि शेयर कारोबार हुने, आइतबार बन्द रहने",
+    "pub_date": "2026-04-06 09:31:48",
+    "fetched_at": "2026-04-06T04:25:48.021114+00:00",
+    "portal": "Osnepal",
+    "profiles_matched": [],
+    "keywords_matched": [],
+    "snippet": "काठमाडौं । नेपाल स्टक एक्सचेन्ज (नेप्से) ले अबदेखि शुक्रबार पनि शेयर कारोबार सञ्चालन गर्ने निर्णय गरेको छ । सरकारले पेट्रोलियम पदार्थको खपत घटाउने उद्देश्यले आइतबार सार्वजनिक बिदा दिने निर्णय गरेपछि नेप्सेले आफ्नो कारोबार तालिका परिवर्तन गरेको हो ।\nआईतबारको मन्त्रिपरिषद्को निर्णयअनुसार आइतबार सबै सरकारी कार्यालय बन्द रहने व्यवस्था लागू भएपछि नेप्सेले लगानीकर्ताको हित र बजारको सक्रियता कायम राख्न नयाँ तालिका लागू गरेको जनाएको हो । नेप्से सञ्चालक समितिको बैठकले सातामा पाँच दिन कारोबार सुनिश्चित गर",
+    "content": "काठमाडौं । नेपाल स्टक एक्सचेन्ज (नेप्से) ले अबदेखि शुक्रबार पनि शेयर कारोबार सञ्चालन गर्ने निर्णय गरेको छ । सरकारले पेट्रोलियम पदार्थको खपत घटाउने उद्देश्यले आइतबार सार्वजनिक बिदा दिने निर्णय गरेपछि नेप्सेले आफ्नो कारोबार तालिका परिवर्तन गरेको हो ।\nआईतबारको मन्त्रिपरिषद्को निर्णयअनुसार आइतबार सबै सरकारी कार्यालय बन्द रहने व्यवस्था लागू भएपछि नेप्सेले लगानीकर्ताको हित र बजारको सक्रियता कायम राख्न नयाँ तालिका लागू गरेको जनाएको हो । नेप्से सञ्चालक समितिको बैठकले सातामा पाँच दिन कारोबार सुनिश्चित गर्न शुक्रबार बजार खोल्ने निर्णय गरेको हो । अब आइतबार बजार बन्द रहनेछ भने शुक्रबार नियमित रूपमा कारोबार सञ्चालन हुनेछ ।\nयसअघि पनि सरकारले २०७९ सालमा शनिबार र आइतबार सार्वजनिक बिदा लागू गर्दा नेप्सेले शुक्रबार कारोबार सञ्चालन गरेको थियो । पछि आइतबारको बिदा हटेपछि नेप्से पुरानै तालिकामा फर्किएको थियो । नयाँ व्यवस्थाअनुसार अब शनिबार र आइतबार बजार बन्द रहनेछ ।\nप्रकाशित मिति:\nसोमबार, चैत २३, २०८२",
+    "images": [
+      "https://www.osnepal.com/themes/osnepal/images/logo.png",
+      "https://www.osnepal.com/themes/osnepal/images/android.png",
+      "https://www.osnepal.com/themes/osnepal/images/ios.png",
+      "https://www.osnepal.com/themes/osnepal/images/logo.png",
+      "https://www.osnepal.com/uploads/authors/68221900.jpeg",
+      "https://www.osnepal.com/uploads/posts/nepse-1775447197.png",
+      "https://www.osnepal.com/uploads/posts/nepse-1775447197.png",
+      "https://www.osnepal.com/uploads/posts/ipo-1767152626.png",
+      "https://www.osnepal.com/uploads/posts/samsadiya-1775446991.png",
+      "https://www.osnepal.com/uploads/posts/OLI-RAMESH-1774682792.png"
+    ]
   }
 ]
