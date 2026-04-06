@@ -1516,5 +1516,17 @@
       "https://media.arthasarokar.com/uploads/2025/12/video-camera-1.png",
       "https://media.arthasarokar.com/uploads/2025/12/banker-1.png"
     ]
+  },
+  {
+    "url": "https://gorkhapatraonline.com/news/199888",
+    "title": "सुकेटारमा तीन सातापछि उडान सुचारु",
+    "pub_date": "2026-04-06 08:09:34",
+    "fetched_at": "2026-04-06T02:28:23.291447+00:00",
+    "portal": "Gorkhapatraonline",
+    "profiles_matched": [],
+    "keywords_matched": [],
+    "snippet": "[Error fetching: HTTPSConnectionPool(host='gorkhapatraonline.com', port=443): Read timed out. (read timeout=15)]",
+    "content": "[Error fetching: HTTPSConnectionPool(host='gorkhapatraonline.com', port=443): Read timed out. (read timeout=15)]",
+    "images": []
   }
 ]
