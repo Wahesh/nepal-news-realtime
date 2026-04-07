@@ -1475,5 +1475,17 @@
       "https://cdn.corporatekhabar.com/uploads/2026/03/NT-Fiber-Updated-1240x120-Pxl.gif",
       "https://cdn.corporatekhabar.com/uploads/2026/03/Adv-18th.gif"
     ]
+  },
+  {
+    "url": "https://arthasarokar.com/2026/04/oli-led-government-withdraws-envoys-from-6-countries.html",
+    "title": "ओली नेतृत्वको सरकारले नियुक्त गरेका ६ देशका राजदूत फिर्ता हुँदै",
+    "pub_date": "2026-04-07 12:22:29",
+    "fetched_at": "2026-04-07T06:48:37.458108+00:00",
+    "portal": "Arthasarokar",
+    "profiles_matched": [],
+    "keywords_matched": [],
+    "snippet": "[Error fetching: HTTPSConnectionPool(host='arthasarokar.com', port=443): Read timed out. (read timeout=15)]",
+    "content": "[Error fetching: HTTPSConnectionPool(host='arthasarokar.com', port=443): Read timed out. (read timeout=15)]",
+    "images": []
   }
 ]
