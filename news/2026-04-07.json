@@ -2099,5 +2099,17 @@
       "https://nepalkhabar.prixacdn.net/media/advertisements/800X200px_10_ILuNUuDTft.jpg",
       "https://nepalkhabar.prixacdn.net/media/albums/PM-Balen_ebmMhvu5e9.jpeg"
     ]
+  },
+  {
+    "url": "https://www.makalukhabar.com/2026/04/99977581753/",
+    "title": "एमालेका महिला सांसदद्वारा ‘साइबर ब्युरो’ मा उजुरी",
+    "pub_date": "2026-04-07 13:02:06",
+    "fetched_at": "2026-04-07T07:22:54.559625+00:00",
+    "portal": "Makalukhabar",
+    "profiles_matched": [],
+    "keywords_matched": [],
+    "snippet": "[Error fetching: HTTPSConnectionPool(host='www.makalukhabar.com', port=443): Read timed out. (read timeout=15)]",
+    "content": "[Error fetching: HTTPSConnectionPool(host='www.makalukhabar.com', port=443): Read timed out. (read timeout=15)]",
+    "images": []
   }
 ]
