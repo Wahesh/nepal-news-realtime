@@ -400,5 +400,17 @@
       "https://www.lokpath.com/wp-content/uploads/2025/10/1200-by-100.gif",
       "https://www.lokpath.com/wp-content/uploads/2024/08/PBK_800-x-200_new-final.gif"
     ]
+  },
+  {
+    "url": "https://aarthiknews.com//news/119428/agreement-between-confederation-and-statistics-office-to/",
+    "title": "राष्ट्रिय आर्थिक गणना तथा अनुसन्धान सहकार्य गर्न परिसंघ र तथ्यांक कार्यालयबीच समझदारी",
+    "pub_date": "2026-04-07 07:53:02",
+    "fetched_at": "2026-04-07T02:32:51.296367+00:00",
+    "portal": "Aarthiknews",
+    "profiles_matched": [],
+    "keywords_matched": [],
+    "snippet": "[Error fetching: HTTPSConnectionPool(host='aarthiknews.com', port=443): Read timed out. (read timeout=15)]",
+    "content": "[Error fetching: HTTPSConnectionPool(host='aarthiknews.com', port=443): Read timed out. (read timeout=15)]",
+    "images": []
   }
 ]
