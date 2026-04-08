@@ -1454,5 +1454,17 @@
     "snippet": "[Error fetching: HTTPSConnectionPool(host='singhadurbarnews.com', port=443): Read timed out. (read timeout=15)]",
     "content": "[Error fetching: HTTPSConnectionPool(host='singhadurbarnews.com', port=443): Read timed out. (read timeout=15)]",
     "images": []
+  },
+  {
+    "url": "https://singhadurbarnews.com/2026/04/189488?npatro=1",
+    "title": "सांसद हमालको प्रश्न : प्रत्येक्ष र समानुपातिक निर्वाचन प्रणालीबाट आएका सांसदहरूबीच किन विभेद ?",
+    "pub_date": "2026-04-08 19:25:33",
+    "fetched_at": "2026-04-08T14:10:58.033798+00:00",
+    "portal": "Singhadurbarnews",
+    "profiles_matched": [],
+    "keywords_matched": [],
+    "snippet": "[Error fetching: 503 Server Error: Service Unavailable for url: https://singhadurbarnews.com/2026/04/189488?npatro=1]",
+    "content": "[Error fetching: 503 Server Error: Service Unavailable for url: https://singhadurbarnews.com/2026/04/189488?npatro=1]",
+    "images": []
   }
 ]
