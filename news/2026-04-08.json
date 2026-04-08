@@ -1442,5 +1442,17 @@
       "https://fdcdn.prixacdn.net/media/EDF_Admissions_Google_Ad.gif",
       "https://fdcdn.prixacdn.net/media/920x120_-_NepaliPatro_-_compressed.gif"
     ]
+  },
+  {
+    "url": "https://singhadurbarnews.com/2026/04/189491?npatro=1",
+    "title": "सांसद रोकायाको हवाई भाडा नियन्त्रण गर्न माग",
+    "pub_date": "2026-04-08 19:29:17",
+    "fetched_at": "2026-04-08T14:10:36.781512+00:00",
+    "portal": "Singhadurbarnews",
+    "profiles_matched": [],
+    "keywords_matched": [],
+    "snippet": "[Error fetching: HTTPSConnectionPool(host='singhadurbarnews.com', port=443): Read timed out. (read timeout=15)]",
+    "content": "[Error fetching: HTTPSConnectionPool(host='singhadurbarnews.com', port=443): Read timed out. (read timeout=15)]",
+    "images": []
   }
 ]
