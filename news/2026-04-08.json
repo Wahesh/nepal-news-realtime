@@ -148,5 +148,28 @@
     "snippet": "[Error fetching: HTTPSConnectionPool(host='singhadurbarnews.com', port=443): Read timed out. (read timeout=15)]",
     "content": "[Error fetching: HTTPSConnectionPool(host='singhadurbarnews.com', port=443): Read timed out. (read timeout=15)]",
     "images": []
+  },
+  {
+    "url": "https://www.onlinekhabar.com/2026/04/1907042/first-meeting-of-the-constitution-amendment-discussion-paper-working-group-is-being-held",
+    "title": "संविधान संशोधन बहसपत्र कार्यदलको पहिलो बैठक बस्दै",
+    "pub_date": "2026-04-08 09:50:42",
+    "fetched_at": "2026-04-08T04:34:24.186125+00:00",
+    "portal": "Onlinekhabar",
+    "profiles_matched": [],
+    "keywords_matched": [],
+    "snippet": "काठमाडौं । प्रधानमन्त्री बालेन शाहका प्रमुख राजनीतिक सल्लाहकार असिम शाहको संयोजकत्वमा गठित ‘संविधान संशोधन बहसपत्र तयार गर्ने कार्यदल–२०८२’ को पहिलो बैठक आज बस्दै छ । बैठक दिउँसो ३ बजे प्रधानमन्त्री तथा मन्त्रिपरिषद्को कार्यालय सिंहदरबारमा बस्न लागेको हो ।\nकार्यदलमा राष्ट्रिय स्वतन्त्र पार्टीका तर्फबाट मोहन आचार्य, नेपाल कम्युनिष्ट पार्टी (एमाले) का तर्फबाट संविधान सभाका सदस्य एवं डा. भीष्मनाथ अधिकारी, नेपाल कम्युनिष्ट पार्टीका तर्फबाट संविधान सभाका सदस्य एवं पूर्व कानुनमन्त्री देव प्रसाद गुरुङ,",
+    "content": "काठमाडौं । प्रधानमन्त्री बालेन शाहका प्रमुख राजनीतिक सल्लाहकार असिम शाहको संयोजकत्वमा गठित ‘संविधान संशोधन बहसपत्र तयार गर्ने कार्यदल–२०८२’ को पहिलो बैठक आज बस्दै छ । बैठक दिउँसो ३ बजे प्रधानमन्त्री तथा मन्त्रिपरिषद्को कार्यालय सिंहदरबारमा बस्न लागेको हो ।\nकार्यदलमा राष्ट्रिय स्वतन्त्र पार्टीका तर्फबाट मोहन आचार्य, नेपाल कम्युनिष्ट पार्टी (एमाले) का तर्फबाट संविधान सभाका सदस्य एवं डा. भीष्मनाथ अधिकारी, नेपाल कम्युनिष्ट पार्टीका तर्फबाट संविधान सभाका सदस्य एवं पूर्व कानुनमन्त्री देव प्रसाद गुरुङ, राष्ट्रिय प्रजातन्त्र पार्टीका तर्फबाट संसदीय दलका नेता ज्ञानेन्द्र शाही र राष्ट्रिय जनमोर्चाका तर्फबाट महासचिव मनोज भट्ट सदस्य छन् ।\nनेपाली कांग्रेस, श्रम संस्कृति पार्टी, जनता समाजवादी पार्टी नेपाल र लोकतान्त्रिक समाजवादी पार्टी नेपालले भने प्रतिनिधि तोकिसकेका छैनन् । कार्यदलका सदस्य तोक्नेबारे आन्तरिक छलफल भइरहेको र सम्भवत: आजै टुंगो लाग्ने नेताहरुको भनाइ छ ।\nकार्यदलमा प्रधानमन्त्री तथा मन्त्रिपरिषद्को कार्यालयका कानुन सचिव पुष्कर सापकोटा र नेपाल कानुन आयोगकी सचिव इन्दिरा दाहाल पनि सदस्य छन् ।\nकार्यदलको सदस्य सचिवमा प्रधानमन्त्री तथा मन्त्रिपरिषद्को कार्यालय, कानुन तथा फैसला कार्यान्वयन महाशाखाका प्रमुख लिलाधर सुवेदी छन् ।\nप्रतिक्रिया 4",
+    "images": [
+      "https://www.onlinekhabar.com/wp-content/themes/onlinekhabar-2021/img/ok-icon.png",
+      "https://www.onlinekhabar.com/wp-content/themes/onlinekhabar-2021/img/cat-icon-news.png",
+      "https://www.onlinekhabar.com/wp-content/themes/onlinekhabar-2021/img/cat-icon-business.png",
+      "https://www.onlinekhabar.com/wp-content/themes/onlinekhabar-2021/img/cat-icon-markets.png",
+      "https://www.onlinekhabar.com/wp-content/themes/onlinekhabar-2021/img/cat-icon-health.png",
+      "https://www.onlinekhabar.com/wp-content/themes/onlinekhabar-2021/img/cat-icon-lifestyle.png",
+      "https://www.onlinekhabar.com/wp-content/themes/onlinekhabar-2021/img/cat-icon-movie.png",
+      "https://www.onlinekhabar.com/wp-content/themes/onlinekhabar-2021/img/cat-icon-calendar.png",
+      "https://www.onlinekhabar.com/wp-content/themes/onlinekhabar-2021/img/cat-icon-sports.png",
+      "https://www.onlinekhabar.com/wp-content/themes/onlinekhabar-2021/img/cat-icon-opinion.png"
+    ]
   }
 ]
