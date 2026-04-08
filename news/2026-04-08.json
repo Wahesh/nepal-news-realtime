@@ -2315,5 +2315,17 @@
       "https://janatatimes.com/wp-content/uploads/2025/09/800-x-200.gif",
       "https://janatatimes.com/wp-content/uploads/2025/04/nepalipatro.webp"
     ]
+  },
+  {
+    "url": "https://singhadurbarnews.com/2026/04/189503?npatro=1",
+    "title": "‘भारतीय नम्बर प्लेटका सवारी साधनको नेपाल प्रवेश ‘डे पास’को दुरुपयोग भइरहेको छ’",
+    "pub_date": "2026-04-08 19:49:37",
+    "fetched_at": "2026-04-08T14:44:38.847482+00:00",
+    "portal": "Singhadurbarnews",
+    "profiles_matched": [],
+    "keywords_matched": [],
+    "snippet": "[Error fetching: HTTPSConnectionPool(host='singhadurbarnews.com', port=443): Read timed out. (read timeout=15)]",
+    "content": "[Error fetching: HTTPSConnectionPool(host='singhadurbarnews.com', port=443): Read timed out. (read timeout=15)]",
+    "images": []
   }
 ]
