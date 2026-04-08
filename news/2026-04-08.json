@@ -1523,5 +1523,17 @@
       "https://npcdn.ratopati.com/media/news/murra-buffalo-(5)_bKzIaqhFNf.jpg",
       "https://npcdn.ratopati.com/media/news/farar_mypcwx54wa-(1)_c6CLTlSgxd.jpg"
     ]
+  },
+  {
+    "url": "https://np.ictframe.com/bidhee-12-years-of-innovation/",
+    "title": "सफ्टवेयर क्षेत्रमा बिधी प्रालिको १२ वर्ष पूरा: ईआरपी र एचआर प्रणालीमा आर्टिफिसियल इन्टेलिजेन्स (AI) थप्ने घोषणा",
+    "pub_date": "2026-04-08 12:45:08",
+    "fetched_at": "2026-04-08T07:08:49.453177+00:00",
+    "portal": "Np",
+    "profiles_matched": [],
+    "keywords_matched": [],
+    "snippet": "[Error fetching: HTTPSConnectionPool(host='np.ictframe.com', port=443): Read timed out. (read timeout=15)]",
+    "content": "[Error fetching: HTTPSConnectionPool(host='np.ictframe.com', port=443): Read timed out. (read timeout=15)]",
+    "images": []
   }
 ]
