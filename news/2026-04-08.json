@@ -1811,5 +1811,17 @@
       "https://pradeskhabar.cdnsolution.net/media/news/petrol2023-10-15-08-38-45_D0ZxmKFgUh.jpg",
       "https://pradeskhabar.cdnsolution.net/media/news/gemini_generated_image_x6xwbzx6xwbzx6xw_FvdiQqRNUp.webp"
     ]
+  },
+  {
+    "url": "https://singhadurbarnews.com/2026/04/189500?npatro=1",
+    "title": "सिद्धार्थ राजमार्ग अत्यन्तै दयनीय अवस्थामा पुगेको छ : सांसद डुम्रे",
+    "pub_date": "2026-04-08 19:46:22",
+    "fetched_at": "2026-04-08T14:26:00.556787+00:00",
+    "portal": "Singhadurbarnews",
+    "profiles_matched": [],
+    "keywords_matched": [],
+    "snippet": "[Error fetching: HTTPSConnectionPool(host='singhadurbarnews.com', port=443): Read timed out. (read timeout=15)]",
+    "content": "[Error fetching: HTTPSConnectionPool(host='singhadurbarnews.com', port=443): Read timed out. (read timeout=15)]",
+    "images": []
   }
 ]
