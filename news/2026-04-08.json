@@ -397,5 +397,17 @@
       "https://www.onlinekhabar.com/wp-content/themes/onlinekhabar-2021/img/cat-icon-sports.png",
       "https://www.onlinekhabar.com/wp-content/themes/onlinekhabar-2021/img/cat-icon-opinion.png"
     ]
+  },
+  {
+    "url": "https://singhadurbarnews.com/2026/04/189525?npatro=1",
+    "title": "रास्वपा सांसद यादवले बोलेको अभिव्यक्ति अभिलेखबाट हटाउन एमाले सांसदको माग",
+    "pub_date": "2026-04-08 20:40:35",
+    "fetched_at": "2026-04-08T15:31:46.695745+00:00",
+    "portal": "Singhadurbarnews",
+    "profiles_matched": [],
+    "keywords_matched": [],
+    "snippet": "[Error fetching: HTTPSConnectionPool(host='singhadurbarnews.com', port=443): Read timed out. (read timeout=15)]",
+    "content": "[Error fetching: HTTPSConnectionPool(host='singhadurbarnews.com', port=443): Read timed out. (read timeout=15)]",
+    "images": []
   }
 ]
