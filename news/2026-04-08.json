@@ -1361,5 +1361,17 @@
       "https://gorkhapatraonline.com/storage/media/146779/conversions/gopa-thumb.jpg",
       "https://gorkhapatraonline.com/storage/media/146779/conversions/gopa-thumb.jpg"
     ]
+  },
+  {
+    "url": "https://singhadurbarnews.com/2026/04/189494?npatro=1",
+    "title": "प्रयोगविहीन भवनहरूको सदुपयोग गर्न सरकारलाई सांसद कार्कीको आग्रह",
+    "pub_date": "2026-04-08 19:35:46",
+    "fetched_at": "2026-04-08T14:09:51.355028+00:00",
+    "portal": "Singhadurbarnews",
+    "profiles_matched": [],
+    "keywords_matched": [],
+    "snippet": "[Error fetching: HTTPSConnectionPool(host='singhadurbarnews.com', port=443): Read timed out. (read timeout=15)]",
+    "content": "[Error fetching: HTTPSConnectionPool(host='singhadurbarnews.com', port=443): Read timed out. (read timeout=15)]",
+    "images": []
   }
 ]
