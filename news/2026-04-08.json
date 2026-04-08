@@ -409,5 +409,17 @@
     "snippet": "[Error fetching: HTTPSConnectionPool(host='singhadurbarnews.com', port=443): Read timed out. (read timeout=15)]",
     "content": "[Error fetching: HTTPSConnectionPool(host='singhadurbarnews.com', port=443): Read timed out. (read timeout=15)]",
     "images": []
+  },
+  {
+    "url": "https://singhadurbarnews.com/2026/04/189522?npatro=1",
+    "title": "अनुसन्धान र नवप्रवद्र्धनको लागि बलियो मन्त्रालय बनाउन महावीर पुनको सुझाव",
+    "pub_date": "2026-04-08 20:36:05",
+    "fetched_at": "2026-04-08T15:32:07.053188+00:00",
+    "portal": "Singhadurbarnews",
+    "profiles_matched": [],
+    "keywords_matched": [],
+    "snippet": "[Error fetching: HTTPSConnectionPool(host='singhadurbarnews.com', port=443): Read timed out. (read timeout=15)]",
+    "content": "[Error fetching: HTTPSConnectionPool(host='singhadurbarnews.com', port=443): Read timed out. (read timeout=15)]",
+    "images": []
   }
 ]
