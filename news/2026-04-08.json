@@ -2188,5 +2188,17 @@
       "https://www.onlinekhabar.com/wp-content/themes/onlinekhabar-2021/img/cat-icon-sports.png",
       "https://www.onlinekhabar.com/wp-content/themes/onlinekhabar-2021/img/cat-icon-opinion.png"
     ]
+  },
+  {
+    "url": "https://singhadurbarnews.com/2026/04/189510?npatro=1",
+    "title": "आदिवासीमाथि भएको विभेद सच्याउन सरकारसँग सांसद तामाङको माग",
+    "pub_date": "2026-04-08 20:03:34",
+    "fetched_at": "2026-04-08T14:43:31.934215+00:00",
+    "portal": "Singhadurbarnews",
+    "profiles_matched": [],
+    "keywords_matched": [],
+    "snippet": "[Error fetching: HTTPSConnectionPool(host='singhadurbarnews.com', port=443): Read timed out. (read timeout=15)]",
+    "content": "[Error fetching: HTTPSConnectionPool(host='singhadurbarnews.com', port=443): Read timed out. (read timeout=15)]",
+    "images": []
   }
 ]
