@@ -930,5 +930,17 @@
       "https://annapurnapost.prixacdn.net/static/assets/images/annapurna-map/pr6.png",
       "https://annapurnapost.prixacdn.net/media/albums/farwestern_1_Qq5AQk1tpO.png"
     ]
+  },
+  {
+    "url": "https://kendrabindu.com/economy/522489/",
+    "title": "नेप्से परिसूचकमा सामान्य अङ्कको गिरावट",
+    "pub_date": "2026-05-13 16:00:21",
+    "fetched_at": "2026-05-13T10:19:43.664957+00:00",
+    "portal": "Kendrabindu",
+    "profiles_matched": [],
+    "keywords_matched": [],
+    "snippet": "[Error fetching: HTTPSConnectionPool(host='kendrabindu.com', port=443): Read timed out. (read timeout=15)]",
+    "content": "[Error fetching: HTTPSConnectionPool(host='kendrabindu.com', port=443): Read timed out. (read timeout=15)]",
+    "images": []
   }
 ]
