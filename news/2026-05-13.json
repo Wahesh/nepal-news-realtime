@@ -1947,5 +1947,17 @@
     "snippet": "[Error fetching: 403 Client Error: Forbidden for url: https://sahityapost.com/literature-news/190348/]",
     "content": "[Error fetching: 403 Client Error: Forbidden for url: https://sahityapost.com/literature-news/190348/]",
     "images": []
+  },
+  {
+    "url": "https://sahityapost.com/top-news/190337/",
+    "title": "कथा : छोरीहरू किताब हुन् ",
+    "pub_date": "2026-05-12 12:01:43",
+    "fetched_at": "2026-05-13T04:51:00.417965+00:00",
+    "portal": "Sahityapost",
+    "profiles_matched": [],
+    "keywords_matched": [],
+    "snippet": "[Error fetching: 403 Client Error: Forbidden for url: https://sahityapost.com/top-news/190337/]",
+    "content": "[Error fetching: 403 Client Error: Forbidden for url: https://sahityapost.com/top-news/190337/]",
+    "images": []
   }
 ]
