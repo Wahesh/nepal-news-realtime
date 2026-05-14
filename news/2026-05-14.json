@@ -1078,5 +1078,28 @@
     "snippet": "[Error fetching: 403 Client Error: Forbidden for url: https://sahityapost.com/top-news/190247/]",
     "content": "[Error fetching: 403 Client Error: Forbidden for url: https://sahityapost.com/top-news/190247/]",
     "images": []
+  },
+  {
+    "url": "https://gorkhapatraonline.com/news/205728",
+    "title": "श्रम संस्कृति पार्टीको सचिवमा टीकाराम राई मनोनयन",
+    "pub_date": "2026-05-13 23:38:48",
+    "fetched_at": "2026-05-14T01:56:30.344045+00:00",
+    "portal": "Gorkhapatraonline",
+    "profiles_matched": [],
+    "keywords_matched": [],
+    "snippet": "शेयर गर्नुहोस:\nफन्ट परिवर्तन गर्नुहोस:\nगोरखापत्र अनलाइन\nकाठमाडौँ, वैशाख ३० गते । श्रम संस्कृति पार्टीमा सुदन किराती समूहबाट ३ पदाधिकारिसहित १८ नेताले जिम्मेवारी पाएका छन् । नयाँ जिम्मेवारीअनुसार सुदन किरातीको वरिष्ठ नेता, प्रकाश विकल्प उपाध्यक्ष र सचिवमा टीकाराम राई रहनुभएको छ ।\nसो पार्टीमा किरातीको समूह समावेश भएसँगै पार्टीको भूमिका थप प्रभावकारी हुने र सदनदेखि सडकसम्म बलियो प्रतिपक्षको भूमिका निर्वाह गर्ने सो पार्टीका सचिव टीकाराम राईले जानकारी दिनुभयो । उहाँका अनुसार पार्टीले जनजीविकाको सवालल",
+    "content": "शेयर गर्नुहोस:\nफन्ट परिवर्तन गर्नुहोस:\nगोरखापत्र अनलाइन\nकाठमाडौँ, वैशाख ३० गते । श्रम संस्कृति पार्टीमा सुदन किराती समूहबाट ३ पदाधिकारिसहित १८ नेताले जिम्मेवारी पाएका छन् । नयाँ जिम्मेवारीअनुसार सुदन किरातीको वरिष्ठ नेता, प्रकाश विकल्प उपाध्यक्ष र सचिवमा टीकाराम राई रहनुभएको छ ।\nसो पार्टीमा किरातीको समूह समावेश भएसँगै पार्टीको भूमिका थप प्रभावकारी हुने र सदनदेखि सडकसम्म बलियो प्रतिपक्षको भूमिका निर्वाह गर्ने सो पार्टीका सचिव टीकाराम राईले जानकारी दिनुभयो । उहाँका अनुसार पार्टीले जनजीविकाको सवाललाई सशक्तरूपमा अगाडि बढाउने छ ।",
+    "images": [
+      "https://gorkhapatraonline.com/storage/media/311657/gp-logo-black.svg",
+      "https://gorkhapatraonline.com/storage/media/311657/gp-logo-black.svg",
+      "https://gorkhapatraonline.com/commons/header-icons/trn.png",
+      "https://gorkhapatraonline.com/commons/header-icons/muna.png",
+      "https://gorkhapatraonline.com/commons/header-icons/madhupark.png",
+      "https://gorkhapatraonline.com/commons/header-icons/yuba-manch.png",
+      "https://gorkhapatraonline.com/commons/header-icons/naya-nepal.png",
+      "https://gorkhapatraonline.com/storage/media/358296/Tikaram-rai.jpg",
+      "https://gorkhapatraonline.com/storage/media/146779/conversions/gopa-thumb.jpg",
+      "https://gorkhapatraonline.com/storage/media/146779/conversions/gopa-thumb.jpg"
+    ]
   }
 ]
