@@ -2014,5 +2014,21 @@
     "snippet": "[Error fetching: 403 Client Error: Forbidden for url: https://sahityapost.com/aakhyan/short-story-aakhyan/190666/]",
     "content": "[Error fetching: 403 Client Error: Forbidden for url: https://sahityapost.com/aakhyan/short-story-aakhyan/190666/]",
     "images": []
+  },
+  {
+    "url": "https://sahityapost.com/top-news/190626/",
+    "title": "कथा: राई सरको इन्साफ",
+    "pub_date": "2026-05-19 12:01:12",
+    "fetched_at": "2026-05-20T06:47:10.827898+00:00",
+    "portal": "Sahityapost",
+    "profiles_matched": [
+      "UN"
+    ],
+    "keywords_matched": [
+      "सुरक्षा"
+    ],
+    "snippet": "[Error fetching: 403 Client Error: Forbidden for url: https://sahityapost.com/top-news/190626/]",
+    "content": "[Error fetching: 403 Client Error: Forbidden for url: https://sahityapost.com/top-news/190626/]",
+    "images": []
   }
 ]
