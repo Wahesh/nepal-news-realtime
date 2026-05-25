@@ -152,5 +152,28 @@
     "snippet": "[Error fetching: HTTPSConnectionPool(host='gorkhapatraonline.com', port=443): Read timed out. (read timeout=15)]",
     "content": "[Error fetching: HTTPSConnectionPool(host='gorkhapatraonline.com', port=443): Read timed out. (read timeout=15)]",
     "images": []
+  },
+  {
+    "url": "https://nepalkhabar.com/society/bagmati/275749-2026-5-25-12-0-45",
+    "title": "सुनकोसीमा डुबेर दुई बालकको मृत्यु",
+    "pub_date": "2026-05-25 12:00:45",
+    "fetched_at": "2026-05-25T06:26:46.829507+00:00",
+    "portal": "Nepalkhabar",
+    "profiles_matched": [],
+    "keywords_matched": [],
+    "snippet": "सिन्धुलीको सुनकोसी गाउँपालिका-५ स्थित सित्खा पुल नजिक सुनकोसी नदीमा पौडी खेल्ने क्रममा डुबेर दुई बालकको मृत्यु भएको छ।\nसुनकोसी गाउँपालिका–४ का नौ वर्षीय सफल पुलामी र सुनकोसी–५ का १० वर्षीय उकेश विकको मृत्यु भएको जिल्ला प्रहरी कार्यालय, सिन्धुलीले जनाएको छ। प्रहरीका अनुसार आइतबार दिउँसो साथीहरूसँग नदीमा पौडी खेल्ने क्रममा उनीहरू डुबेका थिए।\nघटनाबारे जानकारी प्राप्त भएपछि इलाका प्रहरी कार्यालय खुर्कोट, प्रहरी चौकी रातामाटा, सशस्त्र प्रहरी बलको गोताखोर टोली, जनप्रतिनिधि र स्थानीय बासिन्दा खोजी कार्",
+    "content": "सिन्धुलीको सुनकोसी गाउँपालिका-५ स्थित सित्खा पुल नजिक सुनकोसी नदीमा पौडी खेल्ने क्रममा डुबेर दुई बालकको मृत्यु भएको छ।\nसुनकोसी गाउँपालिका–४ का नौ वर्षीय सफल पुलामी र सुनकोसी–५ का १० वर्षीय उकेश विकको मृत्यु भएको जिल्ला प्रहरी कार्यालय, सिन्धुलीले जनाएको छ। प्रहरीका अनुसार आइतबार दिउँसो साथीहरूसँग नदीमा पौडी खेल्ने क्रममा उनीहरू डुबेका थिए।\nघटनाबारे जानकारी प्राप्त भएपछि इलाका प्रहरी कार्यालय खुर्कोट, प्रहरी चौकी रातामाटा, सशस्त्र प्रहरी बलको गोताखोर टोली, जनप्रतिनिधि र स्थानीय बासिन्दा खोजी कार्यमा जुटेका थिए। दुवै बालक सुनकोसी नदी किनारमा मृत अवस्थामा फेला परेको प्रहरीले जनाएको छ।\nस्थानीय बासिन्दाका अनुसार दुवै बालक स्थानीय प्रगतिशील माध्यमिक विद्यालयमा अध्ययनरत थिए।\nप्रतिक्रिया",
+    "images": [
+      "https://certify.alexametrics.com/atrk.gif?account=xp3Mn1QolK10uG",
+      "https://nepalkhabar.prixacdn.net/media/albums/logo-np-inverse_KvRlHqXMS9.png",
+      "https://nepalkhabar.prixacdn.net/static/normal/images/assets/unicode1.svg",
+      "https://nepalkhabar.prixacdn.net/media/albums/logo-np-inverse_KvRlHqXMS9.png",
+      "https://nepalkhabar.prixacdn.net/media/albums/logo-np-inverse_KvRlHqXMS9.png",
+      "https://nepalkhabar.prixacdn.net/static/normal/images/assets/unicode1.svg",
+      "https://nepalkhabar.prixacdn.net/static/normal/images/assets/unicode1.svg",
+      "https://nepalkhabar.prixacdn.net/media/advertisements/825x100_4_SJLU053uQr.jpg",
+      "https://nepalkhabar.prixacdn.net/media/advertisements/800x200_3_oMDpTTZt3o.jpg",
+      "https://nepalkhabar.prixacdn.net/media/albums/sunkoshi-1_TJElt63aBj.jpg"
+    ]
   }
 ]
