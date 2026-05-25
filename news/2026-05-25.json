@@ -948,5 +948,17 @@
       "https://www.lokpath.com/wp-content/uploads/2025/10/1200-by-100.gif",
       "https://www.lokpath.com/wp-content/uploads/2025/11/NATIONAL-LIFE.jpg"
     ]
+  },
+  {
+    "url": "https://gorkhapatraonline.com/news/207437",
+    "title": "गण्डकी प्रदेशसभाको बजेट अधिवेशन आजदेखि",
+    "pub_date": "2026-05-25 10:49:51",
+    "fetched_at": "2026-05-25T06:29:52.473238+00:00",
+    "portal": "Gorkhapatraonline",
+    "profiles_matched": [],
+    "keywords_matched": [],
+    "snippet": "[Error fetching: HTTPSConnectionPool(host='gorkhapatraonline.com', port=443): Read timed out. (read timeout=15)]",
+    "content": "[Error fetching: HTTPSConnectionPool(host='gorkhapatraonline.com', port=443): Read timed out. (read timeout=15)]",
+    "images": []
   }
 ]
