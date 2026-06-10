@@ -2019,5 +2019,17 @@
       "https://janatatimes.com/wp-content/uploads/2026/06/AH-64D_Apache_Longbow.jpg",
       "https://janatatimes.com/wp-content/uploads/2025/09/800-x-200.gif"
     ]
+  },
+  {
+    "url": "https://sahityapost.com/top-news/191897/",
+    "title": "डलरको घाम ताप्दा",
+    "pub_date": "2026-06-10 07:01:23",
+    "fetched_at": "2026-06-10T14:43:45.812900+00:00",
+    "portal": "Sahityapost",
+    "profiles_matched": [],
+    "keywords_matched": [],
+    "snippet": "[Error fetching: 403 Client Error: Forbidden for url: https://sahityapost.com/top-news/191897/]",
+    "content": "[Error fetching: 403 Client Error: Forbidden for url: https://sahityapost.com/top-news/191897/]",
+    "images": []
   }
 ]
