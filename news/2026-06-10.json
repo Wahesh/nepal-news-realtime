@@ -959,5 +959,17 @@
       "https://ictsamacharcdn.prixacdn.net/media/albums/Mahabir-pun_2JNdJFfBCO_hOekS1FVgQ.gif",
       "https://ictsamacharcdn.prixacdn.net/static/assets/image/logo.png"
     ]
+  },
+  {
+    "url": "https://aarthiknews.com//news/122360/the-deadline-for-submitting-property-details-is/",
+    "title": "सम्पत्ति विवरण बुझाउने म्याद असार मसान्तसम्म थप, हालसम्म साढे ३ हजार विवरण प्राप्त",
+    "pub_date": "2026-06-10 14:54:14",
+    "fetched_at": "2026-06-10T09:54:42.308202+00:00",
+    "portal": "Aarthiknews",
+    "profiles_matched": [],
+    "keywords_matched": [],
+    "snippet": "[Error fetching: HTTPSConnectionPool(host='aarthiknews.com', port=443): Read timed out. (read timeout=15)]",
+    "content": "[Error fetching: HTTPSConnectionPool(host='aarthiknews.com', port=443): Read timed out. (read timeout=15)]",
+    "images": []
   }
 ]
