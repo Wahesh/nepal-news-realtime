@@ -799,5 +799,17 @@
       "https://arthiknews.prixacdn.net/static/assets/image/media-eye.png",
       "https://arthiknews.prixacdn.net/static/assets/image/aarthik_logo.png"
     ]
+  },
+  {
+    "url": "http://ictsamachar.com//story/100005960",
+    "title": "च्याटजीपीटी प्रयोगका ६ सरल टिप्स : आफूले भनेजस्तै कन्टेन्ट सजिलै प्राप्त गर्ने तरिका",
+    "pub_date": "2026-06-10 17:59:13",
+    "fetched_at": "2026-06-10T14:58:29.230138+00:00",
+    "portal": "Ictsamachar",
+    "profiles_matched": [],
+    "keywords_matched": [],
+    "snippet": "[Error fetching: HTTPConnectionPool(host='ictsamachar.com', port=80): Read timed out. (read timeout=15)]",
+    "content": "[Error fetching: HTTPConnectionPool(host='ictsamachar.com', port=80): Read timed out. (read timeout=15)]",
+    "images": []
   }
 ]
