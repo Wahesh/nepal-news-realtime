@@ -2059,5 +2059,17 @@
       "https://www.makalukhabar.com/wp-content/uploads/2021/03/national-life-makalu-khabar.gif",
       "https://www.makalukhabar.com/wp-content/uploads/2021/03/national-life-makalu-khabar.gif"
     ]
+  },
+  {
+    "url": "https://np.ictframe.com/mexico-south-africa-world-cup/",
+    "title": "विश्वकपको उद्घाटन खेलमा आज आयोजक मेक्सिको र दक्षिण अफ्रिका भिड्दै",
+    "pub_date": "2026-06-11 10:42:57",
+    "fetched_at": "2026-06-11T05:01:42.668557+00:00",
+    "portal": "Np",
+    "profiles_matched": [],
+    "keywords_matched": [],
+    "snippet": "[Error fetching: HTTPSConnectionPool(host='np.ictframe.com', port=443): Read timed out. (read timeout=15)]",
+    "content": "[Error fetching: HTTPSConnectionPool(host='np.ictframe.com', port=443): Read timed out. (read timeout=15)]",
+    "images": []
   }
 ]
