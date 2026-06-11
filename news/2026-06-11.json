@@ -221,5 +221,28 @@
     "snippet": "[Error fetching: HTTPSConnectionPool(host='www.technologykhabar.com', port=443): Read timed out. (read timeout=15)]",
     "content": "[Error fetching: HTTPSConnectionPool(host='www.technologykhabar.com', port=443): Read timed out. (read timeout=15)]",
     "images": []
+  },
+  {
+    "url": "https://www.kathmandupati.com/news/education-ministry-7/415168/",
+    "title": "पूर्वराष्ट्रिय गोलकिपर विशाल श्रेष्ठ राखेपको उपाध्यक्ष नियुक्त",
+    "pub_date": "2026-06-11 09:30:39",
+    "fetched_at": "2026-06-11T05:07:08.455062+00:00",
+    "portal": "Kathmandupati",
+    "profiles_matched": [],
+    "keywords_matched": [],
+    "snippet": "काठमाण्डु – शिक्षा तथा खेलकुद मन्त्रालयले राष्ट्रिय खेलकुद परिषद् (राखेप)को उपाध्यक्षमा पूर्व राष्ट्रिय फुटबल टोलीका गोलकिपर विशाल श्रेष्ठलाई नियुक्त गरेको छ ।\nलामो समय नेपाली राष्ट्रिय फुटबल टोलीका सदस्य रहेका श्रेष्ठले खेल जीवनमा उल्लेखनीय योगदान दिएका छन् । केही वर्षअघि अन्तर्राष्ट्रिय फुटबलबाट सन्यास लिनुभएका उनी अब नेपाली खेलकुदको सर्वोच्च निकाय राखेपको नेतृत्व तहमा पुगेका हुन् ।\nयसैबिच मन्त्रालयले विभिन्न खेल विधाको प्रतिनिधित्व सुनिश्चित गर्ने उद्देश्यले चार जना बोर्ड सदस्य पनि नियुक्त गर",
+    "content": "काठमाण्डु – शिक्षा तथा खेलकुद मन्त्रालयले राष्ट्रिय खेलकुद परिषद् (राखेप)को उपाध्यक्षमा पूर्व राष्ट्रिय फुटबल टोलीका गोलकिपर विशाल श्रेष्ठलाई नियुक्त गरेको छ ।\nलामो समय नेपाली राष्ट्रिय फुटबल टोलीका सदस्य रहेका श्रेष्ठले खेल जीवनमा उल्लेखनीय योगदान दिएका छन् । केही वर्षअघि अन्तर्राष्ट्रिय फुटबलबाट सन्यास लिनुभएका उनी अब नेपाली खेलकुदको सर्वोच्च निकाय राखेपको नेतृत्व तहमा पुगेका हुन् ।\nयसैबिच मन्त्रालयले विभिन्न खेल विधाको प्रतिनिधित्व सुनिश्चित गर्ने उद्देश्यले चार जना बोर्ड सदस्य पनि नियुक्त गरेको छ ।\nनियुक्त हुनेहरूमा टेबल टेनिस खेलाडी सिक्का सुवाल, पूर्व अन्तर्राष्ट्रिय क्रिकेट खेलाडी तथा प्रशिक्षक शक्ति गौचन, बुद्धिचाल खेलाडी मोनालिसा खुम्बु तथा फुटबल खेलाडी पवन शाही छन् ।\nमन्त्रालयको यो निर्णयलाई खेलकुद प्रशासनमा अनुभवी खेलाडीहरूको सहभागिता बढाउने प्रयासका रूपमा हेरिएको छ । नवनियुक्त पदाधिकारीहरूले नेपाली खेलकुदको विकास, व्यवस्थापन र नीतिगत सुधारमा महत्त्वपूर्ण भूमिका खेल्ने अपेक्षा गरिएको छ ।\nप्रतिक्रिया",
+    "images": [
+      "https://www.kathmandupati.com/wp-content/themes/kathmandupatinaya/img/logo.png",
+      "https://www.kathmandupati.com/wp-content/themes/kathmandupatinaya/img/logo.png",
+      "https://www.kathmandupati.com/wp-content/uploads/2025/09/Gif-for-kathmandupati.gif",
+      "https://www.kathmandupati.com/wp-content/uploads/2026/06/education-ministry.jpg",
+      "https://www.kathmandupati.com/wp-content/uploads/2024/06/ktmpati.png",
+      "https://www.kathmandupati.com/wp-content/uploads/2024/09/latest.gif",
+      "https://www.kathmandupati.com/wp-content/uploads/2026/06/sansad-bipaxi-dal-150x150.jpg",
+      "https://www.kathmandupati.com/wp-content/uploads/2024/07/Nepali-Congress-150x150.jpg",
+      "https://www.kathmandupati.com/wp-content/uploads/2026/06/education-ministry-150x150.jpg",
+      "https://www.kathmandupati.com/wp-content/uploads/2024/12/300-by-200-.gif"
+    ]
   }
 ]
