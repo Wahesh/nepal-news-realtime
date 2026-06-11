@@ -2260,5 +2260,17 @@
       "https://www.onlinekhabar.com/wp-content/themes/onlinekhabar-2021/img/cat-icon-sports.png",
       "https://www.onlinekhabar.com/wp-content/themes/onlinekhabar-2021/img/cat-icon-opinion.png"
     ]
+  },
+  {
+    "url": "https://www.kathmandupati.com/news/415232/415232/",
+    "title": "रास्वपाबाट केपी ओली रास्वपा प्रवेश गरेको गलत प्रचार भयोः एमाले",
+    "pub_date": "2026-06-11 12:37:33",
+    "fetched_at": "2026-06-11T07:15:05.603229+00:00",
+    "portal": "Kathmandupati",
+    "profiles_matched": [],
+    "keywords_matched": [],
+    "snippet": "[Error fetching: 404 Client Error: Not Found for url: https://www.kathmandupati.com/news/415232/415232/]",
+    "content": "[Error fetching: 404 Client Error: Not Found for url: https://www.kathmandupati.com/news/415232/415232/]",
+    "images": []
   }
 ]
