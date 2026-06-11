@@ -729,5 +729,23 @@
       "https://i2.ytimg.com/vi/MLGv1G3gqVs/hqdefault.jpg",
       "https://i2.ytimg.com/vi/YxNb4OWVhLQ/hqdefault.jpg"
     ]
+  },
+  {
+    "url": "https://www.technologykhabar.com/2026/06/11/243389/",
+    "title": "सामाजिक सञ्जालमार्फत घृणात्मक अभिव्यक्ति र विभाजनकारी सामग्री फैलिन नदिन अफकमको आग्रह",
+    "pub_date": "2026-06-11 08:01:23",
+    "fetched_at": "2026-06-11T05:09:19.064102+00:00",
+    "portal": "Technologykhabar",
+    "profiles_matched": [
+      "UN",
+      "UNICEF"
+    ],
+    "keywords_matched": [
+      "सुरक्षा",
+      "बालबालिका"
+    ],
+    "snippet": "[Error fetching: HTTPSConnectionPool(host='www.technologykhabar.com', port=443): Read timed out. (read timeout=15)]",
+    "content": "[Error fetching: HTTPSConnectionPool(host='www.technologykhabar.com', port=443): Read timed out. (read timeout=15)]",
+    "images": []
   }
 ]
