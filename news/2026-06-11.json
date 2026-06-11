@@ -963,5 +963,17 @@
       "https://ukeraa.prixacdn.net/media/albums/sudhan_returns_avLkFYt1kZ.jpg",
       "https://ukeraa.prixacdn.net/media/albums/Sudan_Gurung_QX4eIPGFr6.jpg"
     ]
+  },
+  {
+    "url": "https://kendrabindu.com/economy/529148/",
+    "title": "राइड सेयरिङबाट एक अर्बभन्दा बढी राजस्व संकलन गर्दै सरकार",
+    "pub_date": "2026-06-11 06:58:27",
+    "fetched_at": "2026-06-11T01:27:28.571732+00:00",
+    "portal": "Kendrabindu",
+    "profiles_matched": [],
+    "keywords_matched": [],
+    "snippet": "[Error fetching: HTTPSConnectionPool(host='kendrabindu.com', port=443): Read timed out. (read timeout=15)]",
+    "content": "[Error fetching: HTTPSConnectionPool(host='kendrabindu.com', port=443): Read timed out. (read timeout=15)]",
+    "images": []
   }
 ]
