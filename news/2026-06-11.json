@@ -1669,5 +1669,17 @@
       "https://media.sobizcdn.com/arthadabali.com/media-file/images/2026/05/1780055289-HoGkW.jpg",
       "https://arthadabali.com/online/assets/images/logo.png"
     ]
+  },
+  {
+    "url": "https://aarthiknews.com//news/122412/lakshmi-intercontinental-won-the--imea--award/",
+    "title": "लक्ष्मी इन्टरकन्टिनेन्टलले पार्यो 'आईएमईए’ पुरस्कार",
+    "pub_date": "2026-06-11 18:24:51",
+    "fetched_at": "2026-06-11T13:07:11.740996+00:00",
+    "portal": "Aarthiknews",
+    "profiles_matched": [],
+    "keywords_matched": [],
+    "snippet": "[Error fetching: HTTPSConnectionPool(host='aarthiknews.com', port=443): Read timed out. (read timeout=15)]",
+    "content": "[Error fetching: HTTPSConnectionPool(host='aarthiknews.com', port=443): Read timed out. (read timeout=15)]",
+    "images": []
   }
 ]
