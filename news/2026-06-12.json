@@ -2091,5 +2091,28 @@
     "snippet": "[Error fetching: HTTPSConnectionPool(host='www.ukeraa.com', port=443): Read timed out. (read timeout=15)]",
     "content": "[Error fetching: HTTPSConnectionPool(host='www.ukeraa.com', port=443): Read timed out. (read timeout=15)]",
     "images": []
+  },
+  {
+    "url": "https://www.ukeraa.com/news/detail/176228/",
+    "title": "सिजीले नेपालमा भित्र्यायो गुडम्यान्सका घरायसी सामग्री",
+    "pub_date": "2026-06-12 19:26:51",
+    "fetched_at": "2026-06-12T23:03:54.059443+00:00",
+    "portal": "Ukeraa",
+    "profiles_matched": [],
+    "keywords_matched": [],
+    "snippet": "सिजीले नेपालमा भित्र्यायो गुडम्यान्सका घरायसी सामग्री\nकाठमाडौं : चौधरी ग्रुप अन्तर्गतको सिजी इलेक्ट्रोनिक्सले बेलायती इलेक्ट्रोनिक्स ब्रान्ड ‘गुडम्यान्स’लाई नेपाली बजारमा भित्र्याएको छ।\nसन् १९२३ देखि अडियो तथा इलेक्ट्रोनिक्स क्षेत्रमा सक्रिय यस ब्रान्डका आधुनिक तथा गुणस्तरीय उत्पादनहरू नेपाली उपभोक्तामाझ ल्याइएको हो। गुडम्यान्सले विभिन्न प्रकारका घरायसी तथा अडियो उपकरणहरू उपलब्ध गराएको छ।\nजसमा राइस कुकर, केटल, आइरन, ब्लेन्डर, जुसर एक्सट्राक्टर, स्टिक ब्लेन्डर, ह्यान्ड मिक्स्चर, कफी मेकर, टोस्टर ",
+    "content": "सिजीले नेपालमा भित्र्यायो गुडम्यान्सका घरायसी सामग्री\nकाठमाडौं : चौधरी ग्रुप अन्तर्गतको सिजी इलेक्ट्रोनिक्सले बेलायती इलेक्ट्रोनिक्स ब्रान्ड ‘गुडम्यान्स’लाई नेपाली बजारमा भित्र्याएको छ।\nसन् १९२३ देखि अडियो तथा इलेक्ट्रोनिक्स क्षेत्रमा सक्रिय यस ब्रान्डका आधुनिक तथा गुणस्तरीय उत्पादनहरू नेपाली उपभोक्तामाझ ल्याइएको हो। गुडम्यान्सले विभिन्न प्रकारका घरायसी तथा अडियो उपकरणहरू उपलब्ध गराएको छ।\nजसमा राइस कुकर, केटल, आइरन, ब्लेन्डर, जुसर एक्सट्राक्टर, स्टिक ब्लेन्डर, ह्यान्ड मिक्स्चर, कफी मेकर, टोस्टर र स्यान्डविच मेकर लगायतका सामग्री रहेका छन्। यसका साथै ब्रान्डले व्यक्तिगत हेरचाहका सामग्री र अडियो उपकरणहरू पनि बजारमा ल्याएको छ।\nउच्च गुणस्तर, आकर्षक डिजाइन र किफायती मूल्यलाई प्राथमिकता दिँदै उपभोक्ताको आवश्यकता र चाहनाअनुसार नवीनतम प्रविधियुक्त उत्पादनहरू निरन्तर उपलब्ध गराउने कम्पनीले जनाएको छ।\nजेठ २९, २०८३ शुक्रबार १९:२६:५१ मा प्रकाशित\nउकेरामा प्रकाशित सामाग्रीबारे प्रतिक्रिया, सल्लाह, सुझाव र कुनै सामाग्री भए [email protected] मा पठाउनु होला।",
+    "images": [
+      "https://ukeraa.prixacdn.net/media/albums/ukeraa_logo_zLaWQk8TUy.png",
+      "https://ukeraa.prixacdn.net/media/albums/ukeraa_logo_zLaWQk8TUy.png",
+      "https://ukeraa.prixacdn.net/media/albums/118157984_111588977332079_6228089157863869067_n-removebg-preview_3_e1opRCcu3T.png",
+      "https://ukeraa.prixacdn.net/media/albums/god_JqlblBYssE.jpg ",
+      "https://ukeraa.prixacdn.net/media/albums/indra_rokaya_VzSDLwsoKg.jpg",
+      "https://ukeraa.prixacdn.net/media/albums/deepak_bhatta_gang_rVspf66kmV.png",
+      "https://ukeraa.prixacdn.net/media/albums/dilbhusan_mudda_1nhvzTWEnd.jpg",
+      "https://ukeraa.prixacdn.net/media/albums/wagle_and_balen_2_K1TjwUFYkJ.jpg",
+      "https://ukeraa.prixacdn.net/media/albums/akhtiyar_durupayog_anusandhan_aayog_file_PWm0Rb6AaF.jpg",
+      "https://ukeraa.prixacdn.net/media/albums/kary_GPFIsx2poh.jpg"
+    ]
   }
 ]
