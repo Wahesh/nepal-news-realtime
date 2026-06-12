@@ -1078,5 +1078,17 @@
       "https://www.onlinekhabar.com/wp-content/themes/onlinekhabar-2021/img/cat-icon-sports.png",
       "https://www.onlinekhabar.com/wp-content/themes/onlinekhabar-2021/img/cat-icon-opinion.png"
     ]
+  },
+  {
+    "url": "https://pradeskhabar.com/archives/122828",
+    "title": "५० प्रतिशत अनुदानमा २५२ कृषि उपकरण वितरण, म्याङलुङका किसान उत्साहित",
+    "pub_date": "2026-06-12 20:48:00",
+    "fetched_at": "2026-06-12T17:19:30.617450+00:00",
+    "portal": "Pradeskhabar",
+    "profiles_matched": [],
+    "keywords_matched": [],
+    "snippet": "[Error fetching: HTTPSConnectionPool(host='pradeskhabar.com', port=443): Read timed out. (read timeout=15)]",
+    "content": "[Error fetching: HTTPSConnectionPool(host='pradeskhabar.com', port=443): Read timed out. (read timeout=15)]",
+    "images": []
   }
 ]
