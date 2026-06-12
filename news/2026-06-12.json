@@ -2119,5 +2119,17 @@
       "https://www.osnepal.com/uploads/posts/world-cup-1781256677.png",
       "https://www.osnepal.com/uploads/posts/kosi-1781256563.jpg"
     ]
+  },
+  {
+    "url": "https://aarthiknews.com//news/122442/government-s-decision-to-implement-rawal-commission-report/",
+    "title": "बीपी राजमार्गमा यात्रुवाहक बस दुर्घटना, ७ जनाको मृत्यु, १५ घाइते",
+    "pub_date": "2026-06-12 15:19:20",
+    "fetched_at": "2026-06-12T10:04:05.981458+00:00",
+    "portal": "Aarthiknews",
+    "profiles_matched": [],
+    "keywords_matched": [],
+    "snippet": "[Error fetching: HTTPSConnectionPool(host='aarthiknews.com', port=443): Read timed out. (read timeout=15)]",
+    "content": "[Error fetching: HTTPSConnectionPool(host='aarthiknews.com', port=443): Read timed out. (read timeout=15)]",
+    "images": []
   }
 ]
