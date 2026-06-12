@@ -1797,5 +1797,17 @@
       "https://singhadurbarnews.com/wp-content/uploads/2024/06/rabi_gb_dydvhA6r8K-312x224.jpg",
       "https://singhadurbarnews.com/wp-content/uploads/2026/06/file_000000001ed471fabde823fbce8ddda1-312x224.png"
     ]
+  },
+  {
+    "url": "https://www.technologykhabar.com/2026/06/12/243568/",
+    "title": "युट्युबको डाइरेक्ट म्यासेजिङ सुविधा अमेरिका सहित धेरै देशहरूमा विस्तार हुँदै",
+    "pub_date": "2026-06-12 22:35:33",
+    "fetched_at": "2026-06-12T21:49:12.817895+00:00",
+    "portal": "Technologykhabar",
+    "profiles_matched": [],
+    "keywords_matched": [],
+    "snippet": "[Error fetching: HTTPSConnectionPool(host='www.technologykhabar.com', port=443): Read timed out. (read timeout=15)]",
+    "content": "[Error fetching: HTTPSConnectionPool(host='www.technologykhabar.com', port=443): Read timed out. (read timeout=15)]",
+    "images": []
   }
 ]
