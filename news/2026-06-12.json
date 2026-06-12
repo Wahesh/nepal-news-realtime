@@ -897,5 +897,17 @@
       "https://arthiknews.prixacdn.net/static/assets/image/aarthik_logo.png",
       "https://arthiknews.prixacdn.net/static/assets/image/media-eye.png"
     ]
+  },
+  {
+    "url": "https://pradeskhabar.com/archives/122831",
+    "title": "फेसबुक, इन्स्टाग्राम र मेसेन्जरको सेवा पुनः सञ्चालनमा",
+    "pub_date": "2026-06-12 21:39:00",
+    "fetched_at": "2026-06-12T16:59:39.289577+00:00",
+    "portal": "Pradeskhabar",
+    "profiles_matched": [],
+    "keywords_matched": [],
+    "snippet": "[Error fetching: HTTPSConnectionPool(host='pradeskhabar.com', port=443): Read timed out. (read timeout=15)]",
+    "content": "[Error fetching: HTTPSConnectionPool(host='pradeskhabar.com', port=443): Read timed out. (read timeout=15)]",
+    "images": []
   }
 ]
