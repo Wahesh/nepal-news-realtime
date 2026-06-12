@@ -2391,5 +2391,17 @@
       "https://www.makalukhabar.com/wp-content/uploads/2021/03/national-life-makalu-khabar.gif",
       "https://www.makalukhabar.com/wp-content/uploads/2021/03/national-life-makalu-khabar.gif"
     ]
+  },
+  {
+    "url": "https://nepalkhabar.com/koshi/277595-2026-6-12-14-14-39",
+    "title": "विराटनगरमा सीप उत्सव हुँदै",
+    "pub_date": "2026-06-12 14:14:39",
+    "fetched_at": "2026-06-12T09:04:19.167686+00:00",
+    "portal": "Nepalkhabar",
+    "profiles_matched": [],
+    "keywords_matched": [],
+    "snippet": "[Error fetching: HTTPSConnectionPool(host='nepalkhabar.com', port=443): Read timed out. (read timeout=15)]",
+    "content": "[Error fetching: HTTPSConnectionPool(host='nepalkhabar.com', port=443): Read timed out. (read timeout=15)]",
+    "images": []
   }
 ]
