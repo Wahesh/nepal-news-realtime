@@ -496,5 +496,28 @@
     "snippet": "[Error fetching: HTTPSConnectionPool(host='www.pardafas.com', port=443): Read timed out. (read timeout=15)]",
     "content": "[Error fetching: HTTPSConnectionPool(host='www.pardafas.com', port=443): Read timed out. (read timeout=15)]",
     "images": []
+  },
+  {
+    "url": "https://pradeskhabar.com/archives/122808",
+    "title": "परराष्ट्रमन्त्री शिशिर खनाल आगामी आइतबार चीन भ्रमणमा जाँदै",
+    "pub_date": "2026-06-12 14:36:00",
+    "fetched_at": "2026-06-12T09:24:43.311809+00:00",
+    "portal": "Pradeskhabar",
+    "profiles_matched": [],
+    "keywords_matched": [],
+    "snippet": "काठमाडौँ । परराष्ट्रमन्त्री शिशिर खनाल चिनियाँ विदेशमन्त्री वाङ यीको निमन्त्रणामा चीनको चार दिवसीय भ्रमणमा यही जेठ ३१ गते बेइजिङतर्फ प्रस्थान गर्ने भएका छन् ।\nपरराष्ट्र मन्त्रालयका अनुसार चीनमा रहँदा मन्त्री खनालले आफ्ना समकक्षी वाङसँग नेपाल–चीन सम्बन्ध अझ सुदृढ बनाउने तथा आपसी सहकार्यलाई अझ सबल बनाउने सम्बन्धमा द्विपक्षीय वार्ता गर्नेछन् । साथै उनले चीनका उच्च अधिकारीहरूसँग पनि बेग्लाबेग्लै भेटवार्ता गर्नेछन् ।\nमुलुकमा वैदेशिक लगानी भित्र्याउने उद्देश्यले बेइजिङस्थित नेपाली दूतावासद्वारा आयोजना",
+    "content": "काठमाडौँ । परराष्ट्रमन्त्री शिशिर खनाल चिनियाँ विदेशमन्त्री वाङ यीको निमन्त्रणामा चीनको चार दिवसीय भ्रमणमा यही जेठ ३१ गते बेइजिङतर्फ प्रस्थान गर्ने भएका छन् ।\nपरराष्ट्र मन्त्रालयका अनुसार चीनमा रहँदा मन्त्री खनालले आफ्ना समकक्षी वाङसँग नेपाल–चीन सम्बन्ध अझ सुदृढ बनाउने तथा आपसी सहकार्यलाई अझ सबल बनाउने सम्बन्धमा द्विपक्षीय वार्ता गर्नेछन् । साथै उनले चीनका उच्च अधिकारीहरूसँग पनि बेग्लाबेग्लै भेटवार्ता गर्नेछन् ।\nमुलुकमा वैदेशिक लगानी भित्र्याउने उद्देश्यले बेइजिङस्थित नेपाली दूतावासद्वारा आयोजना हुने लगानी सम्मेलनमा मन्त्री खनाल सहभागी हुनाका साथै चिनियाँ उद्यमी व्यवसायीसँग पनि उनले छलफल गर्ने कार्यक्रम छ ।\nपरराष्ट्रमन्त्री खनालको सम्मानमा उक्त दूतावासले एक स्वागत समारोह आयोजना गर्नेछ । समारोहमा उनले नेपाली समुदायसँग अन्तरक्रिया गर्नेछन् । मन्त्री खनाल आगामी असार ३ गते स्वदेश फर्किने कार्यक्रम छ ।\nप्रतिक्रिया",
+    "images": [
+      "https://pradeskhabar.com/build/img/unicode.png",
+      "https://pradeskhabar.com/build/img/clock.png",
+      "https://pradeskhabar.cdnsolution.net/media/setting/pradeskhabar_Z0creYcLYN.png",
+      "https://pradeskhabar.cdnsolution.net/media/authors/untitled-design-(7)_lvFlpr7y3Z.png",
+      "https://pradeskhabar.cdnsolution.net/media/news/sisir-khanal-1745289480_Os5tLhhRPx.jpg",
+      "https://pradeskhabar.cdnsolution.net/media/authors/untitled-design-(7)_lvFlpr7y3Z.png",
+      "https://pradeskhabar.cdnsolution.net/uploads/2024/10/1728634997_pakistan-1200x560-1.jpg",
+      "https://pradeskhabar.cdnsolution.net/media/news/gadi-samasya-_8OqnTmgYg7.png",
+      "https://pradeskhabar.cdnsolution.net/media/news/govinda-batala_n01oG2qCHu.png",
+      "https://pradeskhabar.cdnsolution.net/media/news/sarin1781176283_Xz0uprKhyg.jpg"
+    ]
   }
 ]
