@@ -317,5 +317,28 @@
     "snippet": "[Error fetching: HTTPSConnectionPool(host='farakdhar.com', port=443): Read timed out. (read timeout=15)]",
     "content": "[Error fetching: HTTPSConnectionPool(host='farakdhar.com', port=443): Read timed out. (read timeout=15)]",
     "images": []
+  },
+  {
+    "url": "https://www.kathmandupati.com/news/gold-552/415417/",
+    "title": "एकैदिन ५ हजार ३ सय रुपैयाँले बढ्यो सुनको भाउ",
+    "pub_date": "2026-06-12 10:49:24",
+    "fetched_at": "2026-06-12T05:08:46.207763+00:00",
+    "portal": "Kathmandupati",
+    "profiles_matched": [],
+    "keywords_matched": [],
+    "snippet": "काठमाण्डु– शुक्रबार सुनको भाउ ह्वात्तै बढेको छ । अघिल्लो २ दिनमा १५ हजार रुपैयाँले घटेको सुन आज ५ हजार ३ सय रुपैयाँले बढेको हो ।\nहिजो २ लाख ८६ हजार ७ सय रुपैयाँमा कारोबार भएको सुन आज २ लाख ९२ हजारमा कारोबार हुने नेपाल सुनचाँदी व्यवसायी महासंघले जनाएको छ ।\nयस्तै आज चाँदी तोलामा १९० रुपैयाँले बढेर ४ हजार ८४० रुपैयाँ कायम भएको महासंघले जनाएको छ ।\nप्रतिक्रिया",
+    "content": "काठमाण्डु– शुक्रबार सुनको भाउ ह्वात्तै बढेको छ । अघिल्लो २ दिनमा १५ हजार रुपैयाँले घटेको सुन आज ५ हजार ३ सय रुपैयाँले बढेको हो ।\nहिजो २ लाख ८६ हजार ७ सय रुपैयाँमा कारोबार भएको सुन आज २ लाख ९२ हजारमा कारोबार हुने नेपाल सुनचाँदी व्यवसायी महासंघले जनाएको छ ।\nयस्तै आज चाँदी तोलामा १९० रुपैयाँले बढेर ४ हजार ८४० रुपैयाँ कायम भएको महासंघले जनाएको छ ।\nप्रतिक्रिया",
+    "images": [
+      "https://www.kathmandupati.com/wp-content/themes/kathmandupatinaya/img/logo.png",
+      "https://www.kathmandupati.com/wp-content/themes/kathmandupatinaya/img/logo.png",
+      "https://www.kathmandupati.com/wp-content/uploads/2025/09/Gif-for-kathmandupati.gif",
+      "https://www.kathmandupati.com/wp-content/uploads/2025/12/gold-sun.jpg",
+      "https://www.kathmandupati.com/wp-content/uploads/2024/06/ktmpati.png",
+      "https://www.kathmandupati.com/wp-content/uploads/2024/09/latest.gif",
+      "https://www.kathmandupati.com/wp-content/uploads/2025/12/gold-sun-150x150.jpg",
+      "https://www.kathmandupati.com/wp-content/uploads/2025/11/sebon-1-150x150.jpg",
+      "https://www.kathmandupati.com/wp-content/uploads/2022/11/220523042146-yoon-suk-yeol-interview-official-0523-super-tease1667808229-150x150.jpg",
+      "https://www.kathmandupati.com/wp-content/uploads/2024/12/300-by-200-.gif"
+    ]
   }
 ]
