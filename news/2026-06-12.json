@@ -484,5 +484,17 @@
       "https://www.onlinekhabar.com/wp-content/themes/onlinekhabar-2021/img/cat-icon-sports.png",
       "https://www.onlinekhabar.com/wp-content/themes/onlinekhabar-2021/img/cat-icon-opinion.png"
     ]
+  },
+  {
+    "url": "https://www.pardafas.com/2026/06/12/176422/",
+    "title": "हुम्ला–बाजुरा सीमा विवादले मुगुलाई असर, पर्यटन क्षेत्र प्रभावित",
+    "pub_date": "2026-06-12 14:36:06",
+    "fetched_at": "2026-06-12T09:24:38.746718+00:00",
+    "portal": "Pardafas",
+    "profiles_matched": [],
+    "keywords_matched": [],
+    "snippet": "[Error fetching: HTTPSConnectionPool(host='www.pardafas.com', port=443): Read timed out. (read timeout=15)]",
+    "content": "[Error fetching: HTTPSConnectionPool(host='www.pardafas.com', port=443): Read timed out. (read timeout=15)]",
+    "images": []
   }
 ]
