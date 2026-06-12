@@ -1265,5 +1265,28 @@
     "snippet": "[Error fetching: HTTPSConnectionPool(host='gorkhapatraonline.com', port=443): Read timed out. (read timeout=15)]",
     "content": "[Error fetching: HTTPSConnectionPool(host='gorkhapatraonline.com', port=443): Read timed out. (read timeout=15)]",
     "images": []
+  },
+  {
+    "url": "https://www.technologykhabar.com/2026/06/12/243703/",
+    "title": "सामाजिक सञ्जाल फेसबुकमा समस्या, नेपाली प्रयोगकर्ताहरुलाई प्रयोग गर्न कठिनाई",
+    "pub_date": "2026-06-12 20:02:05",
+    "fetched_at": "2026-06-12T17:39:12.956713+00:00",
+    "portal": "Technologykhabar",
+    "profiles_matched": [],
+    "keywords_matched": [],
+    "snippet": "काठमाडौं ।\nमेटाको अधिनमा रहेको सामाजिक सञ्जाल फेसबुकले विश्वव्यापी रूपमा आउटेजको अनुभव गरेको छ, जसले गर्दा यसको मुख्य एप र वेबसाइटका साथै फेसबुक मेसेन्जरसमेत प्रभावित भएको छ।\nनेपालमा पनि कयौं प्रयोगकर्ताहरू स्वचालित रूपमा लग आउट भएका छन् र फेरि लग इन गर्न असमर्थ भएका छन्।\nकतिपय प्रयोगकर्ताहरुले फेसबुकनै नखुलेको बताएका छन् भने कतिपयको डिभाइसमा क्यासमा रहेका पेजहरु मात्र देखिनेगरी खुलिरहेका छन्।\nयो समस्या मोबाइल एप र वेबसाइट दुबैमा देखिएका छन्।\nसेवाहरू पहुँच गर्न प्रयास गर्ने प्रयोगकर्ताहरूलाई ‘अप",
+    "content": "काठमाडौं ।\nमेटाको अधिनमा रहेको सामाजिक सञ्जाल फेसबुकले विश्वव्यापी रूपमा आउटेजको अनुभव गरेको छ, जसले गर्दा यसको मुख्य एप र वेबसाइटका साथै फेसबुक मेसेन्जरसमेत प्रभावित भएको छ।\nनेपालमा पनि कयौं प्रयोगकर्ताहरू स्वचालित रूपमा लग आउट भएका छन् र फेरि लग इन गर्न असमर्थ भएका छन्।\nकतिपय प्रयोगकर्ताहरुले फेसबुकनै नखुलेको बताएका छन् भने कतिपयको डिभाइसमा क्यासमा रहेका पेजहरु मात्र देखिनेगरी खुलिरहेका छन्।\nयो समस्या मोबाइल एप र वेबसाइट दुबैमा देखिएका छन्।\nसेवाहरू पहुँच गर्न प्रयास गर्ने प्रयोगकर्ताहरूलाई ‘अप्रत्याशित त्रुटि भयो’ वा ‘केही गलत भयो’ जस्ता त्रुटि सन्देशहरू देखिएका छन्, जसले कम्पनीले समाधानमा काम गरिरहेको संकेत गर्दछ।\nइन्स्टाग्राम र ह्वाट्सएप जस्ता अन्य मेटा सेवाहरू धेरै हदसम्म अनलाइन रहेको देखिए पनि, इन्स्टाग्रामको वेबसाइट सहित केही उत्पादनहरू पनि सम्बन्धित समस्याहरूबाट पीडित भए।\nनेपालमा करिब १५ मिनेटदेखि समस्याहरू आएपनि आज विश्वभर आउटेजका रिपोर्टहरू आएका छन्।\nमेटाले आफ्ना उपभोक्ता उत्पादनहरूको लागि आधिकारिक स्थिति पृष्ठ कायम गर्दैन, र यसको व्यापारिक उपकरण स्थिति पृष्ठ व्यापक अवरोधलाई प्रतिबिम्बित गर्न अद्यावधिक गरिएको थिएन।\nप्रकाशित: २९ जेष्ठ २०८३, शुक्रबार",
+    "images": [
+      "https://www.technologykhabar.com/wp-content/themes/techokhabar/html/assets/img/settings.svg",
+      "https://www.technologykhabar.com/wp-content/themes/techokhabar/html/assets/img/todaytechstories.png",
+      "https://www.technologykhabar.com/wp-content/themes/techokhabar/html/assets/img/facebook.svg",
+      "https://www.technologykhabar.com/wp-content/themes/techokhabar/html/assets/img/twitter.svg",
+      "https://www.technologykhabar.com/wp-content/themes/techokhabar/html/assets/img/youtube.svg",
+      "https://www.technologykhabar.com/wp-content/themes/techokhabar/html/assets/img/search.svg",
+      "https://technologykhabar.com/wp-content/uploads/2020/03/Technology-Khabar-Logo-small-WHITE-1.png",
+      "https://technologykhabar.com/wp-content/uploads/2020/03/Technology-Khabar-Logo-small-WHITE-1.png",
+      "https://www.technologykhabar.com/wp-content/uploads/2025/09/Facebook_Messenger-900x518.jpg",
+      "https://www.technologykhabar.com/wp-content/uploads/2024/07/sajilo-visa_3.gif"
+    ]
   }
 ]
