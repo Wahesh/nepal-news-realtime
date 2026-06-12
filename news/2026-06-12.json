@@ -1253,5 +1253,17 @@
       "https://www.makalukhabar.com/wp-content/uploads/2021/03/national-life-makalu-khabar.gif",
       "https://www.makalukhabar.com/wp-content/uploads/2021/03/national-life-makalu-khabar.gif"
     ]
+  },
+  {
+    "url": "https://gorkhapatraonline.com/news/209999",
+    "title": "विपद् व्यवस्थापनमा प्रभावकारी भूमिका खेल्न स्थानीय सरकारलाई काँग्रेसको निर्देशन",
+    "pub_date": "2026-06-12 20:02:06",
+    "fetched_at": "2026-06-12T17:38:59.111519+00:00",
+    "portal": "Gorkhapatraonline",
+    "profiles_matched": [],
+    "keywords_matched": [],
+    "snippet": "[Error fetching: HTTPSConnectionPool(host='gorkhapatraonline.com', port=443): Read timed out. (read timeout=15)]",
+    "content": "[Error fetching: HTTPSConnectionPool(host='gorkhapatraonline.com', port=443): Read timed out. (read timeout=15)]",
+    "images": []
   }
 ]
