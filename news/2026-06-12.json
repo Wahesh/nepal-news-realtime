@@ -2079,5 +2079,17 @@
       "https://ukeraa.prixacdn.net/media/albums/akhtiyar_durupayog_anusandhan_aayog_file_PWm0Rb6AaF.jpg",
       "https://ukeraa.prixacdn.net/media/albums/kary_GPFIsx2poh.jpg"
     ]
+  },
+  {
+    "url": "https://www.ukeraa.com/news/detail/176229/",
+    "title": "मोतिबिन्दु शल्यक्रियाका लागि आईईमई लाइफको आर्थिक सहयोग",
+    "pub_date": "2026-06-12 19:33:12",
+    "fetched_at": "2026-06-12T23:03:45.034770+00:00",
+    "portal": "Ukeraa",
+    "profiles_matched": [],
+    "keywords_matched": [],
+    "snippet": "[Error fetching: HTTPSConnectionPool(host='www.ukeraa.com', port=443): Read timed out. (read timeout=15)]",
+    "content": "[Error fetching: HTTPSConnectionPool(host='www.ukeraa.com', port=443): Read timed out. (read timeout=15)]",
+    "images": []
   }
 ]
