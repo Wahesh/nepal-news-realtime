@@ -1465,5 +1465,17 @@
       "https://hamrakura.com/uploads/config/frontend/hamrakura-logo.jpg",
       "https://certify.alexametrics.com/atrk.gif?account=LQmzp1IW1d10fn"
     ]
+  },
+  {
+    "url": "https://farakdhar.com/story/168320",
+    "title": "छैठौँ सातामा ‘लालीबजार’ : डेनमार्कबाट हुँदैछ डायस्पोरा प्रदर्शनको सुरुआत",
+    "pub_date": "2026-06-12 17:06:41",
+    "fetched_at": "2026-06-12T11:31:39.261667+00:00",
+    "portal": "Farakdhar",
+    "profiles_matched": [],
+    "keywords_matched": [],
+    "snippet": "[Error fetching: HTTPSConnectionPool(host='farakdhar.com', port=443): Read timed out. (read timeout=15)]",
+    "content": "[Error fetching: HTTPSConnectionPool(host='farakdhar.com', port=443): Read timed out. (read timeout=15)]",
+    "images": []
   }
 ]
