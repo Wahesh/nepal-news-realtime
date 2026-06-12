@@ -1896,5 +1896,17 @@
       "https://www.onlinekhabar.com/wp-content/themes/onlinekhabar-2021/img/cat-icon-sports.png",
       "https://www.onlinekhabar.com/wp-content/themes/onlinekhabar-2021/img/cat-icon-opinion.png"
     ]
+  },
+  {
+    "url": "https://aarthiknews.com//news/122443/as-nepse-fell-by-4-points--the/",
+    "title": "नेप्से ४ अंकले घट्दा कारोबार ४ अर्बमा सिमित, दुई कम्पनीमा सकारात्मक सर्किट",
+    "pub_date": "2026-06-12 15:31:35",
+    "fetched_at": "2026-06-12T10:02:45.090099+00:00",
+    "portal": "Aarthiknews",
+    "profiles_matched": [],
+    "keywords_matched": [],
+    "snippet": "[Error fetching: HTTPSConnectionPool(host='aarthiknews.com', port=443): Read timed out. (read timeout=15)]",
+    "content": "[Error fetching: HTTPSConnectionPool(host='aarthiknews.com', port=443): Read timed out. (read timeout=15)]",
+    "images": []
   }
 ]
