@@ -1926,5 +1926,17 @@
       "https://www.pardafas.com/wp-content/uploads/2026/06/sudan-gurung-3-450x250.jpg",
       "https://www.pardafas.com/wp-content/uploads/2022/06/pardafas-logo.png"
     ]
+  },
+  {
+    "url": "https://aarthiknews.com//news/122429/world-cup-cheer-in-the-cast--many/",
+    "title": "कलाकारहरुमा विश्वकपको रौनक : धेरैजना मेस्सी, रोनाल्डो र ब्राजिलका समर्थक",
+    "pub_date": "2026-06-12 11:46:05",
+    "fetched_at": "2026-06-12T06:33:56.150569+00:00",
+    "portal": "Aarthiknews",
+    "profiles_matched": [],
+    "keywords_matched": [],
+    "snippet": "[Error fetching: HTTPSConnectionPool(host='aarthiknews.com', port=443): Read timed out. (read timeout=15)]",
+    "content": "[Error fetching: HTTPSConnectionPool(host='aarthiknews.com', port=443): Read timed out. (read timeout=15)]",
+    "images": []
   }
 ]
