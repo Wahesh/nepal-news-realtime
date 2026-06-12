@@ -426,5 +426,17 @@
       "https://www.pardafas.com/wp-content/uploads/2026/06/harka-sampang-6-450x250.jpg",
       "https://www.pardafas.com/wp-content/uploads/2022/06/pardafas-logo.png"
     ]
+  },
+  {
+    "url": "https://aarthiknews.com//news/122438/finance-minister-s-request-not-to-comment-without/",
+    "title": "बजेट अध्ययन नगरी टिप्पणी नगर्न अर्थमन्त्रीको आग्रह, सांसद पुनको आपत्ति",
+    "pub_date": "2026-06-12 14:36:28",
+    "fetched_at": "2026-06-12T09:24:03.335268+00:00",
+    "portal": "Aarthiknews",
+    "profiles_matched": [],
+    "keywords_matched": [],
+    "snippet": "[Error fetching: HTTPSConnectionPool(host='aarthiknews.com', port=443): Read timed out. (read timeout=15)]",
+    "content": "[Error fetching: HTTPSConnectionPool(host='aarthiknews.com', port=443): Read timed out. (read timeout=15)]",
+    "images": []
   }
 ]
