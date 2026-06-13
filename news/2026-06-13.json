@@ -444,5 +444,17 @@
       "https://media.sobizcdn.com/arthadabali.com/media-file/images/2026/06/1781101421-580A6.jpg",
       "https://arthadabali.com/online/assets/images/logo.png"
     ]
+  },
+  {
+    "url": "https://aarthiknews.com//news/122455/after-30-years--the-rawal-commission-was/",
+    "title": "३० वर्षपछि जाग्यो रावल आयोग, कार्यान्वयनका लागि आठ सदस्यीय समिति गठन",
+    "pub_date": "2026-06-13 07:34:55",
+    "fetched_at": "2026-06-13T03:06:09.316869+00:00",
+    "portal": "Aarthiknews",
+    "profiles_matched": [],
+    "keywords_matched": [],
+    "snippet": "[Error fetching: HTTPSConnectionPool(host='aarthiknews.com', port=443): Read timed out. (read timeout=15)]",
+    "content": "[Error fetching: HTTPSConnectionPool(host='aarthiknews.com', port=443): Read timed out. (read timeout=15)]",
+    "images": []
   }
 ]
