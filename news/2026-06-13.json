@@ -1392,5 +1392,17 @@
       "https://neplays.com/img/posts/IMG_20260613_185100.jpg",
       "https://neplays.com/img/ads-img/ads-63401c290b7deads-61d4579d552abKelmi1.gif"
     ]
+  },
+  {
+    "url": "https://www.ukeraa.com/news/detail/176271/",
+    "title": "एक दर्जन सुरुङमार्गका लागि बजेट, कहाँ-कहाँ हुँदैछ अध्ययन?",
+    "pub_date": "2026-06-13 18:46:03",
+    "fetched_at": "2026-06-13T15:08:24.435469+00:00",
+    "portal": "Ukeraa",
+    "profiles_matched": [],
+    "keywords_matched": [],
+    "snippet": "[Error fetching: HTTPSConnectionPool(host='www.ukeraa.com', port=443): Read timed out. (read timeout=15)]",
+    "content": "[Error fetching: HTTPSConnectionPool(host='www.ukeraa.com', port=443): Read timed out. (read timeout=15)]",
+    "images": []
   }
 ]
