@@ -1068,5 +1068,17 @@
       "https://www.technologykhabar.com/wp-content/uploads/2024/11/Lottery_Scam_Online-900x515.jpg",
       "https://www.technologykhabar.com/wp-content/uploads/2024/07/sajilo-visa_3.gif"
     ]
+  },
+  {
+    "url": "https://sahityapost.com/top-news/192091/",
+    "title": "आधुनिक कलामा मिथिला कला फ्युजन हुँदै गर्दा",
+    "pub_date": "2026-06-13 05:01:11",
+    "fetched_at": "2026-06-13T04:11:55.005370+00:00",
+    "portal": "Sahityapost",
+    "profiles_matched": [],
+    "keywords_matched": [],
+    "snippet": "[Error fetching: HTTPSConnectionPool(host='sahityapost.com', port=443): Max retries exceeded with url: /top-news/192091/ (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x10367fed0>: Failed to resolve 'sahityapost.com' ([Errno 8] nodename nor servname provided, or not known)\"))]",
+    "content": "[Error fetching: HTTPSConnectionPool(host='sahityapost.com', port=443): Max retries exceeded with url: /top-news/192091/ (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x10367fed0>: Failed to resolve 'sahityapost.com' ([Errno 8] nodename nor servname provided, or not known)\"))]",
+    "images": []
   }
 ]
