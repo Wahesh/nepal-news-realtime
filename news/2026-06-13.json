@@ -117,5 +117,17 @@
       "https://npcdn.ratopati.com/media/news/congress_nSRH7vwtSA.jpg",
       "https://npcdn.ratopati.com/media/news/pratibha-balen_4Qb4FLvzX8.jpg"
     ]
+  },
+  {
+    "url": "https://hamrakura.com/news-details/215052/2026-06-13",
+    "title": "विश्वकप कथाः स्कटल्याण्ड २८ वर्षपछि र हैटी ५२ वर्षपछि मैदानमा उत्रदै  ",
+    "pub_date": "2026-06-13 22:00:01",
+    "fetched_at": "2026-06-13T17:49:17.154496+00:00",
+    "portal": "Hamrakura",
+    "profiles_matched": [],
+    "keywords_matched": [],
+    "snippet": "[Error fetching: HTTPSConnectionPool(host='hamrakura.com', port=443): Read timed out. (read timeout=15)]",
+    "content": "[Error fetching: HTTPSConnectionPool(host='hamrakura.com', port=443): Read timed out. (read timeout=15)]",
+    "images": []
   }
 ]
