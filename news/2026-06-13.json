@@ -165,5 +165,23 @@
       "https://ajakoartha.cdnsolution.net/media/news/photo-(1)_KSuF86it7a.jpg",
       "https://ajakoartha.cdnsolution.net/media/news/idml_logo-768x427_HDjLQ8Dh9u.jpg"
     ]
+  },
+  {
+    "url": "https://healthbani.com/2026/06/12389/news/",
+    "title": "सिमकोट पूर्ण खोप सुनिश्चित गाउँपालिका",
+    "pub_date": "2026-06-13 07:59:00",
+    "fetched_at": "2026-06-13T02:44:55.455956+00:00",
+    "portal": "Healthbani",
+    "profiles_matched": [
+      "UN",
+      "UNICEF"
+    ],
+    "keywords_matched": [
+      "सुरक्षा",
+      "बालबालिका"
+    ],
+    "snippet": "[Error fetching: 401 Client Error: Unauthorized for url: https://healthbani.com/2026/06/12389/news/]",
+    "content": "[Error fetching: 401 Client Error: Unauthorized for url: https://healthbani.com/2026/06/12389/news/]",
+    "images": []
   }
 ]
