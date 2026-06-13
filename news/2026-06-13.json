@@ -2518,5 +2518,21 @@
       "https://i2.ytimg.com/vi/MLGv1G3gqVs/hqdefault.jpg",
       "https://i2.ytimg.com/vi/YxNb4OWVhLQ/hqdefault.jpg"
     ]
+  },
+  {
+    "url": "https://www.technologykhabar.com/2026/06/13/243664/",
+    "title": "एआईको प्रभावकारितामाथि प्रश्न उठ्दै गर्दा डाटा सेन्टरमा लगानी भने १ ट्रिलियन डलर नाघ्ने अनुमान",
+    "pub_date": "2026-06-13 09:36:33",
+    "fetched_at": "2026-06-13T10:55:56.909179+00:00",
+    "portal": "Technologykhabar",
+    "profiles_matched": [
+      "UN"
+    ],
+    "keywords_matched": [
+      "सुरक्षा"
+    ],
+    "snippet": "[Error fetching: HTTPSConnectionPool(host='www.technologykhabar.com', port=443): Read timed out. (read timeout=15)]",
+    "content": "[Error fetching: HTTPSConnectionPool(host='www.technologykhabar.com', port=443): Read timed out. (read timeout=15)]",
+    "images": []
   }
 ]
