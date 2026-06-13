@@ -2056,5 +2056,17 @@
       "https://www.onlinekhabar.com/wp-content/themes/onlinekhabar-2021/img/cat-icon-sports.png",
       "https://www.onlinekhabar.com/wp-content/themes/onlinekhabar-2021/img/cat-icon-opinion.png"
     ]
+  },
+  {
+    "url": "https://aarthiknews.com//news/122462/review-of-nepal-india-border-post-maintenance--agreement/",
+    "title": "नेपाल–भारत सीमास्तम्भ मर्मतको समीक्षा, संयुक्त संयन्त्रलाई सक्रिय बनाउने सहमति",
+    "pub_date": "2026-06-13 11:56:18",
+    "fetched_at": "2026-06-13T09:35:29.623394+00:00",
+    "portal": "Aarthiknews",
+    "profiles_matched": [],
+    "keywords_matched": [],
+    "snippet": "[Error fetching: HTTPSConnectionPool(host='aarthiknews.com', port=443): Read timed out. (read timeout=15)]",
+    "content": "[Error fetching: HTTPSConnectionPool(host='aarthiknews.com', port=443): Read timed out. (read timeout=15)]",
+    "images": []
   }
 ]
