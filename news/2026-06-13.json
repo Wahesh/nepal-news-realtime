@@ -627,5 +627,17 @@
       "https://www.technologykhabar.com/wp-content/uploads/2023/02/FBI_-900x518.jpg",
       "https://www.technologykhabar.com/wp-content/uploads/2024/07/sajilo-visa_3.gif"
     ]
+  },
+  {
+    "url": "https://www.technologykhabar.com/2026/06/13/243608/",
+    "title": "रियलमी पी४आर ८,००० एमएएच ब्याट्री र किफायती मूल्यको साथ लन्च",
+    "pub_date": "2026-06-13 22:33:35",
+    "fetched_at": "2026-06-13T21:57:31.635775+00:00",
+    "portal": "Technologykhabar",
+    "profiles_matched": [],
+    "keywords_matched": [],
+    "snippet": "[Error fetching: HTTPSConnectionPool(host='www.technologykhabar.com', port=443): Read timed out. (read timeout=15)]",
+    "content": "[Error fetching: HTTPSConnectionPool(host='www.technologykhabar.com', port=443): Read timed out. (read timeout=15)]",
+    "images": []
   }
 ]
