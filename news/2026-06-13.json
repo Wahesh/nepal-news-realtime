@@ -1948,5 +1948,17 @@
       "https://pradeskhabar.cdnsolution.net/media/news/supreme_court_adalat1677681689_UbFZD39s3m.jpg",
       "https://pradeskhabar.cdnsolution.net/media/news/santos-saha_oKrca7ksjL.png"
     ]
+  },
+  {
+    "url": "https://www.makalukhabar.com/2026/06/99977603095/",
+    "title": "निर्माण सामग्रीको मूल्यवृद्धिले सडक योजनाका कार्य प्रभावित",
+    "pub_date": "2026-06-13 12:17:08",
+    "fetched_at": "2026-06-13T09:32:39.773671+00:00",
+    "portal": "Makalukhabar",
+    "profiles_matched": [],
+    "keywords_matched": [],
+    "snippet": "[Error fetching: HTTPSConnectionPool(host='www.makalukhabar.com', port=443): Read timed out. (read timeout=15)]",
+    "content": "[Error fetching: HTTPSConnectionPool(host='www.makalukhabar.com', port=443): Read timed out. (read timeout=15)]",
+    "images": []
   }
 ]
