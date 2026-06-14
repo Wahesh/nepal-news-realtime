@@ -1122,5 +1122,17 @@
       "https://pradeskhabar.cdnsolution.net/media/news/6a2e5317da4a1-prince-yadav-gyan-bindu-academy-raus_o0aYRTOqYw.jpg",
       "https://pradeskhabar.cdnsolution.net/media/news/samman_MO9uryzbFg.png"
     ]
+  },
+  {
+    "url": "https://arthadabali.com/2026/06/14/89666",
+    "title": "असारमा बैंक ब्याजदर घट्यो, अब कुन बैंकको ब्याज कति ?",
+    "pub_date": "2026-06-14 19:20:29",
+    "fetched_at": "2026-06-14T16:05:08.553027+00:00",
+    "portal": "Arthadabali",
+    "profiles_matched": [],
+    "keywords_matched": [],
+    "snippet": "[Error fetching: HTTPSConnectionPool(host='arthadabali.com', port=443): Read timed out. (read timeout=15)]",
+    "content": "[Error fetching: HTTPSConnectionPool(host='arthadabali.com', port=443): Read timed out. (read timeout=15)]",
+    "images": []
   }
 ]
