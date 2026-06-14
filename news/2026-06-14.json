@@ -2803,5 +2803,17 @@
       "https://www.pardafas.com/wp-content/uploads/2026/06/tempo-450x250.jpg",
       "https://www.pardafas.com/wp-content/uploads/2022/06/pardafas-logo.png"
     ]
+  },
+  {
+    "url": "https://aarthiknews.com//news/122495/question-on-the-role-of-parsa-malpot/",
+    "title": "पर्सा मालपोत कार्यालयको भूमिकामाथि प्रश्न : आदर्शनगरका २१ परिवारले उठाए सुशासन र जवाफदेहिताको मुद्दा",
+    "pub_date": "2026-06-14 15:45:38",
+    "fetched_at": "2026-06-14T11:05:35.553881+00:00",
+    "portal": "Aarthiknews",
+    "profiles_matched": [],
+    "keywords_matched": [],
+    "snippet": "[Error fetching: HTTPSConnectionPool(host='aarthiknews.com', port=443): Read timed out. (read timeout=15)]",
+    "content": "[Error fetching: HTTPSConnectionPool(host='aarthiknews.com', port=443): Read timed out. (read timeout=15)]",
+    "images": []
   }
 ]
