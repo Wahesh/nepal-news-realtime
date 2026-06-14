@@ -272,5 +272,17 @@
       "https://www.onlinekhabar.com/wp-content/themes/onlinekhabar-2021/img/cat-icon-sports.png",
       "https://www.onlinekhabar.com/wp-content/themes/onlinekhabar-2021/img/cat-icon-opinion.png"
     ]
+  },
+  {
+    "url": "https://www.onlinekhabar.com/2026/06/1953681/20-acts-being-amended-through-a-single-bill",
+    "title": "एउटै विधेयकबाट २० वटा ऐन संशोधन गरिँदै",
+    "pub_date": "2026-06-14 15:26:05",
+    "fetched_at": "2026-06-14T11:29:31.301233+00:00",
+    "portal": "Onlinekhabar",
+    "profiles_matched": [],
+    "keywords_matched": [],
+    "snippet": "[Error fetching: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))]",
+    "content": "[Error fetching: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))]",
+    "images": []
   }
 ]
