@@ -2162,5 +2162,17 @@
       "https://pradeskhabar.cdnsolution.net/media/news/6a2e5317da4a1-prince-yadav-gyan-bindu-academy-raus_o0aYRTOqYw.jpg",
       "https://pradeskhabar.cdnsolution.net/media/news/mechi-rajmarga_gtl2O1ceJV.gif"
     ]
+  },
+  {
+    "url": "https://www.osnepal.com/detail/586970",
+    "title": "शपथसँगै इप्पानको नयाँ कार्यसमिति सक्रिय, पुरानो नेतृत्वबाट भयो जिम्मेवारी हस्तान्तरण",
+    "pub_date": "2026-06-14 21:51:08",
+    "fetched_at": "2026-06-14T21:53:50.700476+00:00",
+    "portal": "Osnepal",
+    "profiles_matched": [],
+    "keywords_matched": [],
+    "snippet": "[Error fetching: HTTPSConnectionPool(host='www.osnepal.com', port=443): Max retries exceeded with url: /detail/586970 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x118b40410>: Failed to resolve 'www.osnepal.com' ([Errno 8] nodename nor servname provided, or not known)\"))]",
+    "content": "[Error fetching: HTTPSConnectionPool(host='www.osnepal.com', port=443): Max retries exceeded with url: /detail/586970 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x118b40410>: Failed to resolve 'www.osnepal.com' ([Errno 8] nodename nor servname provided, or not known)\"))]",
+    "images": []
   }
 ]
