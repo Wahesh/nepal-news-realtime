@@ -2764,5 +2764,17 @@
       "https://npcdn.ratopati.com/media/news/hikmat-karki_Wn6SrUCZiQ.jpg",
       "https://npcdn.ratopati.com/media/news/biratnaar-19-(1)_6wnId9Gdvo.jpg"
     ]
+  },
+  {
+    "url": "https://nepalnews.com/2026/06/14/100-kg-of-marijuana-seized-in-parsa/",
+    "title": "पर्सामा १०० किलो गाँजा पक्राउ",
+    "pub_date": "2026-06-14 15:57:59",
+    "fetched_at": "2026-06-14T11:05:05.910477+00:00",
+    "portal": "Nepalnews",
+    "profiles_matched": [],
+    "keywords_matched": [],
+    "snippet": "[Error fetching: HTTPSConnectionPool(host='nepalnews.com', port=443): Max retries exceeded with url: /2026/06/14/100-kg-of-marijuana-seized-in-parsa/ (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x10367ee90>: Failed to resolve 'nepalnews.com' ([Errno 8] nodename nor servname provided, or not known)\"))]",
+    "content": "[Error fetching: HTTPSConnectionPool(host='nepalnews.com', port=443): Max retries exceeded with url: /2026/06/14/100-kg-of-marijuana-seized-in-parsa/ (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x10367ee90>: Failed to resolve 'nepalnews.com' ([Errno 8] nodename nor servname provided, or not known)\"))]",
+    "images": []
   }
 ]
