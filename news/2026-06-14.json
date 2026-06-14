@@ -307,5 +307,17 @@
       "https://media.sobizcdn.com/arthadabali.com/media-file/images/2026/06/1780659835-suNAF.jpg",
       "https://arthadabali.com/online/assets/images/logo.png"
     ]
+  },
+  {
+    "url": "https://healthbani.com/2026/06/12401/news/",
+    "title": "नेपाललाई ‘आँखा उपचारको हब’ बनाउन सकिने सम्भावना, तर अन्धोपनको जोखिम अझै कायम",
+    "pub_date": "2026-06-14 15:25:00",
+    "fetched_at": "2026-06-14T11:48:19.297810+00:00",
+    "portal": "Healthbani",
+    "profiles_matched": [],
+    "keywords_matched": [],
+    "snippet": "[Error fetching: HTTPSConnectionPool(host='healthbani.com', port=443): Read timed out. (read timeout=15)]",
+    "content": "[Error fetching: HTTPSConnectionPool(host='healthbani.com', port=443): Read timed out. (read timeout=15)]",
+    "images": []
   }
 ]
