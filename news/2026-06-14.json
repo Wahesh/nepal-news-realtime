@@ -1769,5 +1769,17 @@
       "https://pradeskhabar.cdnsolution.net/media/news/pradeskhabar.com-(21)_pkHWILR9Hc.png",
       "https://pradeskhabar.cdnsolution.net/media/news/pradeskhabar.com-(22)_LlP29Ev88n.png"
     ]
+  },
+  {
+    "url": "https://aarthiknews.com//news/122472/here-are-the-foreign-currency-exchange-rates/",
+    "title": "यस्तो छ आइतबारका लागि विदेशी मुद्राको विनिमयदर",
+    "pub_date": "2026-06-14 07:46:04",
+    "fetched_at": "2026-06-14T08:26:47.796833+00:00",
+    "portal": "Aarthiknews",
+    "profiles_matched": [],
+    "keywords_matched": [],
+    "snippet": "[Error fetching: HTTPSConnectionPool(host='aarthiknews.com', port=443): Read timed out. (read timeout=15)]",
+    "content": "[Error fetching: HTTPSConnectionPool(host='aarthiknews.com', port=443): Read timed out. (read timeout=15)]",
+    "images": []
   }
 ]
