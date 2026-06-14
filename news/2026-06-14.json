@@ -2815,5 +2815,28 @@
     "snippet": "[Error fetching: HTTPSConnectionPool(host='aarthiknews.com', port=443): Read timed out. (read timeout=15)]",
     "content": "[Error fetching: HTTPSConnectionPool(host='aarthiknews.com', port=443): Read timed out. (read timeout=15)]",
     "images": []
+  },
+  {
+    "url": "https://www.kathmandupati.com/news/mohan-basnet-12/415894/",
+    "title": "गगन थापाले कांग्रेसलाई इतिहासकै कमजोर बनाउने काम गरे : मोहन बस्नेत",
+    "pub_date": "2026-06-14 15:44:40",
+    "fetched_at": "2026-06-14T11:05:41.221056+00:00",
+    "portal": "Kathmandupati",
+    "profiles_matched": [],
+    "keywords_matched": [],
+    "snippet": "काठमाण्डु– नेपाली कांग्रेसका नेता मोहनबहादुर बस्नेतले सभापति गगन थापाको नेतृत्वले पार्टीलाई इतिहासकै कमजोर बनाएको आरोप लगाएका छन् ।\nविराटनगरमा कांग्रेस इतर पक्षको भेलालाई सम्बोधन गर्दै बस्नेतले विशेष महाधिवेशनबाट आएको नेतृत्वले पार्टीलाई इतिहासकै कमजोर मोडमा पुर्याएको आरोप लगाएका हुन् ।\nबस्नेतले गगन नेतृत्वले जानाजानी पुराना र स्थापित नेताहरूलाई पाखा लगाउन खोजेको बताए ।\nपार्टीभित्रको आन्तरिक विवाद र क्रियाशील सदस्यता नवीकरणको विषयमा बोल्दै उनले कांग्रेस सिध्याउने षड्यन्त्र भइरहेको बताए । उनले भन",
+    "content": "काठमाण्डु– नेपाली कांग्रेसका नेता मोहनबहादुर बस्नेतले सभापति गगन थापाको नेतृत्वले पार्टीलाई इतिहासकै कमजोर बनाएको आरोप लगाएका छन् ।\nविराटनगरमा कांग्रेस इतर पक्षको भेलालाई सम्बोधन गर्दै बस्नेतले विशेष महाधिवेशनबाट आएको नेतृत्वले पार्टीलाई इतिहासकै कमजोर मोडमा पुर्याएको आरोप लगाएका हुन् ।\nबस्नेतले गगन नेतृत्वले जानाजानी पुराना र स्थापित नेताहरूलाई पाखा लगाउन खोजेको बताए ।\nपार्टीभित्रको आन्तरिक विवाद र क्रियाशील सदस्यता नवीकरणको विषयमा बोल्दै उनले कांग्रेस सिध्याउने षड्यन्त्र भइरहेको बताए । उनले भने ‘कांग्रेसलाई इतिहासकै कमजोर बनाउने काम विभिन्न नाटकबाट भयो । त्यसको मुख्य पात्र वा खलनायक भन्नुस्, हाम्रा अहिलेका सभापति गगन थापाजी हुन् । अब उहाँबाट पार्टी मिल्छ भनेर के आश गर्ने ? ’ ‘बीपी पुत्रदेखि ६०–६५ वर्ष पार्टीमा लगानी गरेका सिनियर नेताहरूको सदस्यता रद्द हुने, तर नयाँका नाममा २४ सै घण्टा बिना कुनै डाटा मान्छे भर्ने काम भइरहेको छ,’ बस्नेतले भने, ‘यो कांग्रेस सिध्याउने षड्यन्त्र हो ।’\nप्रतिक्रिया",
+    "images": [
+      "https://www.kathmandupati.com/wp-content/themes/kathmandupatinaya/img/logo.png",
+      "https://www.kathmandupati.com/wp-content/themes/kathmandupatinaya/img/logo.png",
+      "https://www.kathmandupati.com/wp-content/uploads/2025/09/Gif-for-kathmandupati.gif",
+      "https://www.kathmandupati.com/wp-content/uploads/2026/06/mohan-basnet-biratnagar.png",
+      "https://www.kathmandupati.com/wp-content/uploads/2024/06/ktmpati.png",
+      "https://www.kathmandupati.com/wp-content/uploads/2024/09/latest.gif",
+      "https://www.kathmandupati.com/wp-content/uploads/2026/06/dhawal-150x150.jpg",
+      "https://www.kathmandupati.com/wp-content/uploads/2026/06/shashanka-koirala-150x150.jpg",
+      "https://www.kathmandupati.com/wp-content/uploads/2026/06/Wang-Huning-Shishir-khanal-150x150.jpeg",
+      "https://www.kathmandupati.com/wp-content/uploads/2024/12/300-by-200-.gif"
+    ]
   }
 ]
