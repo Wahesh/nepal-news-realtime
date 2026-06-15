@@ -1105,5 +1105,17 @@
       "https://ajakoartha.cdnsolution.net/media/news/trafic2026-05-07-09-56-06_x4CVYBF8EX.jpg",
       "https://ajakoartha.cdnsolution.net/media/news/currencies_CA0F6pov0n.jpg"
     ]
+  },
+  {
+    "url": "https://singhadurbarnews.com/2026/06/193237?npatro=1",
+    "title": " प्रतिनिधि सभाको बैठक बस्दै",
+    "pub_date": "2026-06-15 09:39:46",
+    "fetched_at": "2026-06-15T04:21:33.763764+00:00",
+    "portal": "Singhadurbarnews",
+    "profiles_matched": [],
+    "keywords_matched": [],
+    "snippet": "[Error fetching: HTTPSConnectionPool(host='singhadurbarnews.com', port=443): Read timed out. (read timeout=15)]",
+    "content": "[Error fetching: HTTPSConnectionPool(host='singhadurbarnews.com', port=443): Read timed out. (read timeout=15)]",
+    "images": []
   }
 ]
