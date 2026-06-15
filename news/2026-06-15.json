@@ -609,5 +609,17 @@
       "https://gorkhapatraonline.com/storage/media/365090/psc_new_building1.jpg",
       "https://gorkhapatraonline.com/storage/media/3344/conversions/42090702_10214801763330038_8912632956875440128_n-thumb.jpg"
     ]
+  },
+  {
+    "url": "https://hamrakura.com/news-details/215062/2026-06-14",
+    "title": "जापान एसियाडलाई टेबलटेनिस खेलाडी छनोट",
+    "pub_date": "2026-06-15 05:12:10",
+    "fetched_at": "2026-06-15T01:57:25.163062+00:00",
+    "portal": "Hamrakura",
+    "profiles_matched": [],
+    "keywords_matched": [],
+    "snippet": "[Error fetching: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))]",
+    "content": "[Error fetching: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))]",
+    "images": []
   }
 ]
