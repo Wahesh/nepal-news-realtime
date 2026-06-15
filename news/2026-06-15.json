@@ -966,5 +966,17 @@
       "https://nepalkhabar.prixacdn.net/media/advertisements/800x200_5_sfjI7jjNbP.jpg",
       "https://nepalkhabar.prixacdn.net/media/albums/ishwar-yogesh_8XpYWlE09p.jpg"
     ]
+  },
+  {
+    "url": "https://singhadurbarnews.com/2026/06/193244?npatro=1",
+    "title": "इप्पानको नयाँ नेतृत्वद्वारा शपथग्रहण, सचिव कृष्ण घिमिरेद्वारा ऊर्जा क्षेत्रमा आमूल परिवर्तनको प्रतिबद्धता",
+    "pub_date": "2026-06-15 09:53:21",
+    "fetched_at": "2026-06-15T04:20:13.472812+00:00",
+    "portal": "Singhadurbarnews",
+    "profiles_matched": [],
+    "keywords_matched": [],
+    "snippet": "[Error fetching: HTTPSConnectionPool(host='singhadurbarnews.com', port=443): Read timed out. (read timeout=15)]",
+    "content": "[Error fetching: HTTPSConnectionPool(host='singhadurbarnews.com', port=443): Read timed out. (read timeout=15)]",
+    "images": []
   }
 ]
