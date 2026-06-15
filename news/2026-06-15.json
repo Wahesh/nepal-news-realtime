@@ -1070,5 +1070,17 @@
       "https://gorkhapatraonline.com/storage/media/365149/Untitled-6.jpg",
       "https://gorkhapatraonline.com/storage/media/146779/conversions/gopa-thumb.jpg"
     ]
+  },
+  {
+    "url": "https://singhadurbarnews.com/2026/06/193242?npatro=1",
+    "title": "भ्रामक एसएमएसप्रति सचेत रहन नेपाल टेलिकमको अनुरोध",
+    "pub_date": "2026-06-15 09:41:48",
+    "fetched_at": "2026-06-15T04:20:58.396495+00:00",
+    "portal": "Singhadurbarnews",
+    "profiles_matched": [],
+    "keywords_matched": [],
+    "snippet": "[Error fetching: HTTPSConnectionPool(host='singhadurbarnews.com', port=443): Read timed out. (read timeout=15)]",
+    "content": "[Error fetching: HTTPSConnectionPool(host='singhadurbarnews.com', port=443): Read timed out. (read timeout=15)]",
+    "images": []
   }
 ]
